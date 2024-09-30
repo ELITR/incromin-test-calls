@@ -1,0 +1,334 @@
+2.732000	6.732000	Děkuji moc.
+6.732000	10.732000	Já sice uslyším, co říkáte, ale
+10.732000	14.732000	vy byste měl mluvit jen ve svojí materštině. Vy mi rozumíte česky, když mluvím, nebo ne?
+14.732000	18.732000	Jo. Tak tím je to trochu zkreslená situace.
+18.732000	22.732000	Ale to nevadí. Aspoň vy budete mluvit
+22.732000	29.702000	ve svojí materštině.
+29.702000	33.702000	Tak já jsem se rusky učil pár let, takže
+33.702000	37.702000	jako základní slovíčka jsem pochytil, ale
+37.702000	41.702000	moc jich nezbylo. Je vidět, že
+41.702000	45.702000	vás to rozpoznalo správně, jestli se díváte taky na ten přepis.
+45.702000	49.702000	A to je dobrý. A dokonce to bude
+49.702000	53.702000	potom dělat automatickou sumarizaci. To bude v tom pravém okénku.
+53.702000	57.702000	Takže když se nám
+57.702000	61.702000	něco nebude líbit, a budeme na tom mít kapacitu, ale ve dvou lidech je to obtížné,
+61.702000	65.702000	tak můžeme opravovat něco z těch přepisů.
+65.702000	69.702000	A nebo můžeme opravovat i něco z těch
+69.702000	73.702000	poznámek. Čili když člověk prostě uvidí,
+73.702000	77.702000	že je to jedno, tak je to jiný.
+77.702000	81.702000	A kdybychom tady byli tři, tak někdo třetí by nás mohl poslouchat,
+81.702000	85.702000	a protože zrovna nemluví, tak by prostě snadno to opravil. Ten editor je jako sdílený.
+85.702000	89.702000	Kdokoliv tam může cokoliv zapsat. A ostatní ty změny také uvidí.
+89.702000	93.702000	Takže jakmile začneme používat nějaké termíny,
+93.702000	97.702000	tak v tu chvíli samozřejmě ESR bude zápasit.
+97.702000	101.702000	A v tu chvíli bychom to mohli živě opravovat. A pak se to samo
+101.702000	105.702000	způsobili, že bychom si to vzali.
+105.702000	109.702000	Máme na to celkově tu půl hodinu. Zkusme na úvod,
+109.702000	113.702000	že byste představil to, co děláte jako projekt.
+113.702000	117.702000	A rusky samozřejmě asi i vy sám budete narážet na terminologii.
+117.702000	121.702000	Ale to nevadí, to je v rámci cvičení.
+121.702000	125.702000	A pak mi popište,
+125.702000	129.702000	co teď aktuálně potřebujeme rozhodnout.
+129.702000	133.702000	A to bude dvojjazyčnou konzultaci.
+133.702000	137.702000	A já budu tedy sledovat anglický přepis a poslouchat ruštinu.
+137.702000	310.502000	No to bude legrace.
+310.502000	314.502000	A které knihovny jste zkoušeli? Co jste zkoušeli?
+314.502000	346.572000	Co funguje __PERSON2__ a co nefunguje vám?
+346.572000	367.592000	Ano, přesně tak.
+367.592000	408.132000	Je potřeba využít těch karet víc určitě.
+408.132000	470.532000	No já jsem používal vždycky ten základní toolkit.
+470.532000	474.532000	A ten základní toolkit pro vás je PyTorch, ne?
+474.532000	478.532000	Je to většina v PyTorch.
+478.532000	486.412000	A tyhle knihovny jsou navíc nad PyTorchem. Je to tak?
+486.412000	490.412000	Nešlo by použít rovnou PyTorchovu
+490.412000	494.412000	jako to rozdělení na víc GPUček?
+494.412000	498.412000	Než na víc úzlů. Nesnažil bych se trénovat na víc počítačích současně.
+498.412000	502.412000	Snažil bych se pouze trénovat na víc grafických kartách současně.
+502.412000	506.412000	Což je mnohem jednodušší.
+506.412000	510.412000	A pak si myslím, že PyTorch rovnou něco takového má.
+510.412000	514.412000	Já jsem spíš pracoval v TensorFlow, ale tam to prostě bylo with GPUs.
+514.412000	518.412000	A napsalo se jich tam několik a v tu chvíli to samo fungovalo.
+518.412000	522.412000	Čili vlastně nevím, jaký význam ta knihovna má.
+522.412000	539.622000	Ale to je to, co přináší za funkcionalitu navíc.
+539.622000	645.092000	Jestli ji opravdu potřebujete.
+645.092000	737.862000	Aha.
+737.862000	844.012000	Jo.
+844.012000	862.952000	Čili tohle byste museli reimplementovat,
+862.952000	866.952000	když byste přestali používat nějakou
+866.952000	870.952000	knihovnu.
+870.952000	872.952000	Ne, to neříkáte.
+872.952000	874.952000	Ale prostě už máte teď složitý setup.
+874.952000	876.952000	A rozumím tomu příkladu z dialogových systémů,
+876.952000	878.952000	kde jste celý semestr se snažili
+878.952000	880.952000	jako zpravoznit něco poměrně jednoduchýho.
+880.952000	882.952000	Tady rozhodně nám jde o výsledek.
+882.952000	884.952000	Čili natrénovaný nějaký modul.
+884.952000	890.952000	Nebo dotrénovaný modul pro angličtinu, ruštinu.
+890.952000	892.952000	Takže souhlasím s vaším postupem,
+892.952000	896.952000	že jako asi je blbost dělat si to po svém v PyTorch.
+896.952000	898.952000	Ale vzhledem k tomu, kolik času máte,
+898.952000	900.952000	vzhledem k tomu, kolik času jste teď strávil
+900.952000	902.952000	na rozcházení těch knihoven,
+902.952000	904.952000	tak bych současně tam ještě i přidal
+904.952000	906.952000	prostě časové omezení.
+906.952000	908.952000	Když se vám nepovede trénování
+908.952000	910.952000	na víc GPUčkách
+910.952000	912.952000	ještě do, já nevím, týdne,
+912.952000	914.952000	nebo něco takového,
+914.952000	916.952000	tak to odložte
+916.952000	918.952000	a postupujte tak, jako __PERSON2__.
+918.952000	920.952000	To znamená na jedné kartě.
+920.952000	922.952000	A ano, bude to trvat déle,
+922.952000	924.952000	ale prostě __PERSON2__ má prošlapanou cestičku
+924.952000	926.952000	a dotrénovávání mu funguje.
+926.952000	928.952000	A taky, když se vám připomíná,
+928.952000	930.952000	ať vidíme, jak se jako
+930.952000	932.952000	kvalitu překladu dosáhneme
+932.952000	934.952000	i s tímhle omezeným časem.
+934.952000	936.952000	Zase to má tu výhodu, že
+936.952000	938.952000	jednu kartu na tom klastru
+938.952000	940.952000	získáte poměrně snadno.
+940.952000	942.952000	To znamená, že vy můžete,
+942.952000	944.952000	co jsme už řešili před lety,
+944.952000	946.952000	když prostě děláte
+946.952000	948.952000	složitější pokus,
+948.952000	950.952000	kdy chcete zkusit víc variant konfigurací,
+950.952000	952.952000	tak máte jednu možnost,
+952.952000	954.952000	buď to pustit to na mnoha kartách
+954.952000	956.952000	a rychle proskoumat jednu konfiguraci
+956.952000	958.952000	a pak skoumat další konfiguraci.
+958.952000	960.952000	A dělat to takhle jako sekvenčně.
+960.952000	962.952000	No anebo, když neumíte paralelizovat,
+962.952000	964.952000	tak můžete
+964.952000	966.952000	prostě ty konfigurace
+966.952000	968.952000	pustit souběžně.
+968.952000	970.952000	A vlastně to není žádný rozdíl.
+970.952000	972.952000	V konečném efektu stejně proskoumáte
+972.952000	974.952000	10 konfigurací na 10 kartách,
+974.952000	976.952000	ale děje se to souběžně
+976.952000	978.952000	nikoli za sebou.
+978.952000	980.952000	A nepotřebujete tu paralelizaci přes karty.
+980.952000	982.952000	To znamená, dejte tomu ještě chvilku,
+982.952000	984.952000	ale už ne nijak dlouhou.
+984.952000	986.952000	Když se to prostě nepovede,
+986.952000	988.952000	tak nevadí,
+988.952000	990.952000	udělejte aspoň širší
+990.952000	992.952000	proskoumání těch variant.
+992.952000	994.952000	To znamená, že
+994.952000	996.952000	jak jsme se bavili, právě pro tu jednoduchost
+996.952000	998.952000	byste měli
+998.952000	1000.952000	zůstat hlavně u experimentu s daty.
+1000.952000	1002.952000	To znamená, puste jeden běh,
+1002.952000	1004.952000	který použije ta ruská data
+1004.952000	1006.952000	na dotrénování.
+1006.952000	1008.952000	Druhý běh, který použije česká data
+1008.952000	1010.952000	na dotrénování a následně
+1010.952000	1012.952000	ta ruská.
+1012.952000	1014.952000	Třetí běh, který udělá
+1014.952000	1016.952000	česká a pak
+1016.952000	1018.952000	rusko-česká dohromady.
+1018.952000	1020.952000	A pak jenom ruská.
+1020.952000	1022.952000	Prostě několik
+1022.952000	1024.952000	datových konfigurací.
+1024.952000	1071.592000	Ano, přesně tak.
+1162.102000	1164.102000	Rozumím.
+1285.162000	1287.162000	Výborné otázky.
+1287.162000	1289.162000	Dobře, že se tím zabýváte.
+1291.162000	1293.162000	To je přesně podle mě
+1293.162000	1295.162000	součástí těch experimentů.
+1295.162000	1297.162000	Myslím si, že by se
+1297.162000	1299.162000	prostě mělo vyzkoušet,
+1299.162000	1301.162000	o kolik bude kvalita překladu horší,
+1301.162000	1303.162000	když to budeme překládat po větách
+1303.162000	1305.162000	a následně to jenom
+1305.162000	1307.162000	spojíme do jednoho odstavce.
+1307.162000	1309.162000	Nebo když použijeme ten kontext,
+1309.162000	1311.162000	jak navrhuje __PERSON2__, že to uvidí
+1311.162000	1313.162000	předchozí věty a jednu bude přidávat.
+1313.162000	1315.162000	A nebo jestli jenom ty věty spojíte
+1315.162000	1317.162000	a prostě budete celý odstavec
+1317.162000	1319.162000	vydávat za jednu větu.
+1319.162000	1321.162000	Tenhle postup je nejjednodušší
+1321.162000	1323.162000	a myslím si, že bude
+1323.162000	1325.162000	jako nejúčinnější.
+1325.162000	1327.162000	Dokonce můžete
+1327.162000	1329.162000	mít ještě další variantu,
+1329.162000	1331.162000	že zase zkusíte
+1331.162000	1333.162000	předchozí odstavec
+1333.162000	1335.162000	dát jako kontext
+1335.162000	1337.162000	a překládat celý aktuální odstavec.
+1339.162000	1341.162000	Čili, že to bude takový to posouvací walking
+1341.162000	1343.162000	kod v podstatě, ale na úrovni odstavců.
+1343.162000	1345.162000	A já si myslím, že tohle všechno
+1345.162000	1347.162000	se prostě musí proexperimentovat
+1347.162000	1349.162000	a na to potřebujete
+1349.162000	1351.162000	teda
+1351.162000	1353.162000	myslím,
+1353.162000	1355.162000	že jsme jako v legrační situaci tím,
+1355.162000	1357.162000	že základeme nějaký LLM,
+1357.162000	1359.162000	který už samo pracuje prostě s delšími texty.
+1359.162000	1361.162000	Já jsem dřív
+1361.162000	1363.162000	pracoval s překladovými modely
+1363.162000	1365.162000	a ty běžně prostě uměly jenom jako jednu větu
+1365.162000	1367.162000	na jednu větu a pak se
+1367.162000	1369.162000	když se to zvětšilo, že chci dvě věty na dvě věty,
+1369.162000	1371.162000	tak ten model prostě zase
+1371.162000	1373.162000	vždycky jako dělal dvě věty, nikdy jsem ho nepouštěl
+1373.162000	1375.162000	nějak jinak. Takže tady najednou
+1375.162000	1377.162000	se vám otvírá možnost
+1377.162000	1379.162000	ten model sice trénovat
+1379.162000	1381.162000	nebo dotrénovávat
+1381.162000	1383.162000	angličtinu, ruštinu po izolovaných větách,
+1383.162000	1385.162000	ale pak mu bez přípravy
+1385.162000	1387.162000	dát rovnou celé odstavce.
+1387.162000	1389.162000	A ten model to pravděpodobně zvládne,
+1389.162000	1391.162000	protože takovou věc už dělal
+1391.162000	1393.162000	předtím,
+1393.162000	1399.612000	když jako
+1399.612000	1401.612000	jako
+1401.612000	1403.612000	jazykovýho modelování.
+1403.612000	1405.612000	Takže
+1405.612000	1407.612000	je to prostě součástí těch pokusů
+1407.612000	1409.612000	a jenom se tím násobí
+1409.612000	1411.612000	ta množina možností, který je potřeba
+1411.612000	1413.612000	jako
+1413.612000	1415.612000	pro zkoumant.
+1415.612000	1417.612000	Takže jedna věc je
+1417.612000	1419.612000	naložit s tou vícejazyčností,
+1419.612000	1421.612000	že prostě chceme využít česká data
+1421.612000	1423.612000	pro vylepšení ruštiny
+1423.612000	1425.612000	a druhá úplně nezávislá osaje
+1425.612000	1427.612000	jak velký kontext tam dát
+1427.612000	1429.612000	a to v době trénování
+1429.612000	1431.612000	versus
+1431.612000	1433.612000	nebo dotrénovávání bych měl říkat
+1433.612000	1435.612000	versus v době
+1435.612000	1437.612000	jenom spouštění toho modelu.
+1437.612000	1439.612000	Čili
+1439.612000	1441.612000	už proto,
+1441.612000	1443.612000	že tady máme jako tolik možností,
+1443.612000	1445.612000	co bychom chtěli vyzkoušet,
+1445.612000	1447.612000	bych
+1447.612000	1449.612000	prostě začal co nejdřív
+1449.612000	1451.612000	s nějakými baseliny.
+1451.612000	1453.612000	Věta na větu jenom dotrénovat
+1453.612000	1455.612000	pro angličtinu, ruštinu.
+1455.612000	1457.612000	Následně celý odstavec na celý odstavec
+1457.612000	1459.612000	jenom s angličtinu,
+1459.612000	1461.612000	ruštinu
+1461.612000	1463.612000	a následně přihodit ty věci s češtinou.
+1463.612000	1465.612000	Následně přidávat to složitější.
+1465.612000	1467.612000	Postupoval bych prostě
+1467.612000	1469.612000	od možností, které jsou
+1469.612000	1471.612000	programátorské jako nejvíc zadarmo
+1471.612000	1473.612000	a
+1473.612000	1475.612000	už rovnou dávají zajímavé vyslady.
+1475.612000	1477.612000	Výsledky, které potřebujeme
+1477.612000	1479.612000	pro rozhodnutí.
+1479.612000	1481.612000	K možnostem, které jsou stále složitější
+1481.612000	1483.612000	a složitější programátorsky.
+1483.612000	1485.612000	A v době, kdy budete řešit
+1485.612000	1487.612000	ty programátorsky složitější věci,
+1487.612000	1489.612000	což je už jenom to předávání
+1489.612000	1491.612000	dvou předchozích věcí jako kontext
+1491.612000	1493.612000	a k tomu nějaká nová, to už je nějaká
+1493.612000	1495.612000	programátorská drobnost tam, že jo?
+1495.612000	1497.612000	Ale už chvilku to musíte odladit.
+1497.612000	1499.612000	Takže v době, kdy tohle programujete,
+1499.612000	1501.612000	tak v té době už by měly běžet
+1501.612000	1503.612000	ty baseliny,
+1503.612000	1505.612000	abyste měl co nejdřív
+1505.612000	1507.612000	nějaké výstupy.
+1507.612000	1509.612000	Takhle bych jako
+1509.612000	1511.612000	vlnu rozvíjel ve víc směrech.
+1511.612000	1513.612000	Od těch programátorsky nejrychlejších
+1513.612000	1523.092000	kroků.
+1523.092000	1537.802000	Ano,
+1537.802000	1539.802000	souhlasím, ten constraint track.
+1539.802000	1557.612000	Ano.
+1557.612000	1562.072000	Ano.
+1562.072000	1569.612000	No asi ne, no.
+1569.612000	1571.612000	Protože
+1571.612000	1573.612000	ruština asi vůbec v Evropském parlamentu
+1573.612000	1575.612000	není. Protože on je to sice možná
+1575.612000	1577.612000	oficiální jazyk nějakých
+1577.612000	1579.612000	baleských republik taky.
+1579.612000	1581.612000	Kromě jejich jazyků.
+1581.612000	1583.612000	Nebo není? Já si myslím, že ruština možná
+1583.612000	1585.612000	není, jo? Jako druhý
+1585.612000	1590.842000	oficiální jazyk.
+1590.842000	1612.812000	Aha.
+1612.812000	1621.112000	Aha. Ty tam nejsou.
+1621.112000	1627.752000	Aha.
+1627.752000	1629.752000	Aha.
+1629.752000	1631.752000	Ano, asi vemte, no.
+1631.752000	1633.752000	Je to jako hloupý, ale asi to takhle udělejte, no.
+1635.752000	1637.752000	Je to zase baseline řešení.
+1637.752000	1639.752000	Určitě s ním spušte pokus.
+1639.752000	1641.752000	A následně můžeme zkusit, já se tady
+1641.752000	1643.752000	můžu jako zeptat, ale nikdy jsem
+1643.752000	1645.752000	segmentaci na odstavce
+1645.752000	1647.752000	na základě obsahu jako neřešil.
+1647.752000	1649.752000	Vím, že to tady jeden student dělal,
+1649.752000	1651.752000	ale nevím, jestli něco má. Ten se snažil
+1651.752000	1653.752000	automaticky rozčlenit text
+1653.752000	1655.752000	z Wikipedie. Že jako
+1655.752000	1657.752000	vezmete ten hlavní text z Wikipedie
+1657.752000	1659.752000	a ono to má v podstatě určit, kde
+1659.752000	1661.752000	jsou hranice jednotlivých oddílů.
+1661.752000	1663.752000	Tak tohle by mohlo,
+1663.752000	1665.752000	jestli ten nástroj je hotovej,
+1665.752000	1667.752000	tak bychom to mohli zkusit pustit.
+1667.752000	1669.752000	A rozdělit takhle
+1669.752000	1671.752000	ty news komentary, abychom měli,
+1671.752000	1673.752000	hranice odstavců a v tom případě byste
+1673.752000	1675.752000	se vypřidržel těch hranic odstavců.
+1675.752000	1677.752000	Ale
+1677.752000	1679.752000	jako baseline určitě
+1679.752000	1681.752000	vemte to po deseti větách a neřešte to.
+1681.752000	1730.372000	No, nedá se nic dělat.
+1730.372000	1740.342000	Mhm. Jo.
+1740.342000	1742.342000	Teď nevím, jestli jsem stoprocentně
+1742.342000	1744.342000	tomu porozuměl, jestli __PERSON2__
+1744.342000	1746.342000	setup je omezen a nedokáže
+1746.342000	1748.342000	2048
+1748.342000	1750.342000	tokenů zvládnout.
+1750.342000	1763.832000	Mhm, je pomalá.
+1763.832000	1765.832000	Jo.
+1765.832000	1767.832000	Jo.
+1767.832000	1769.832000	No, tak tam
+1769.832000	1771.832000	takže
+1771.832000	1773.832000	napřed budete
+1773.832000	1775.832000	fine tune-ovat v těch větách
+1775.832000	1777.832000	a pak to zkusíte použít
+1777.832000	1779.832000	na odstavce.
+1779.832000	1781.832000	A tento samý model budete ještě v další
+1781.832000	1783.832000	fázi dotrénovávat
+1783.832000	1785.832000	už pomalej, ale na celých odstavcích
+1785.832000	1787.832000	a zkusíte tenhle rozdíl.
+1787.832000	1789.832000	Jo. Čili takhle bych postupoval.
+1789.832000	1791.832000	Bohužel nám došel čas.
+1791.832000	1793.832000	Já bych teď už potřeboval ukončit
+1793.832000	1795.832000	ten hovor.
+1795.832000	1797.832000	Ale překvapivě to bylo
+1797.832000	1799.832000	srozumitelný a použitelný.
+1799.832000	1801.832000	Já ještě připravím možná nějakej dotazník.
+1801.832000	1803.832000	Bych poslal jako jak se vám
+1803.832000	1805.832000	to ználo. Čili zkuste, jestli máte nějaký
+1805.832000	1807.832000	jako zkušenosti z tohoto hovoru,
+1807.832000	1809.832000	zkuste si je teďka jenom napsat na papír.
+1809.832000	1811.832000	Prostě, jestli bylo použitelný
+1811.832000	1813.832000	takhle vést hovor dvojazyčně
+1813.832000	1815.832000	a co vás k tomu napadá.
+1815.832000	1817.832000	Jenom za 3 minuty prostě pár
+1817.832000	1819.832000	poznámek a uvidíme jestli z toho něco
+1819.832000	1826.852000	získáme.
+1826.852000	1828.852000	Je to jasný. No, ano.
+1828.852000	1830.852000	To je jasný.
+1830.852000	1832.852000	Ale já taky rozumím skoro.
+1832.852000	1834.852000	Takže jsem taky reagoval na tu ročtinu.
+1834.852000	1836.852000	Děkuju mockrát za pokus
+1836.852000	1838.852000	a jdu zkusit dalšího,
+1838.852000	1840.852000	jak to bude dál. Díky.
+1840.852000	1842.852000	Děkuju.
+1842.852000	1844.852000	Naschledanou.

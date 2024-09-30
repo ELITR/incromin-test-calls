@@ -1,0 +1,149 @@
+2.800000	5.680000	Takže už nahráváme. Ahoj, __PERSON__.
+27.210000	28.370000	Ano, můžeme začít.
+35.780000	37.900000	Takže co bys chtěla vidět, __PERSON__?
+39.040000	47.360000	Mě by zajímalo, jak je téma tvého projektu tady na našem pracovišti.
+73.710000	75.650000	OK, to je zajímavý téma.
+75.650000	82.470000	A jaká práce je to? Jaká týzis?
+116.070000	123.590000	Divína komédia, božská komédie od Danteho, to je nějaký středověký dílo, že?
+136.210000	141.370000	Jo, rozumím.
+142.510000	146.530000	Ty překlady nejsou perfektní, ale umím si domyslet,
+146.970000	149.130000	protože znám ten kontext, o kterým mluvíme.
+149.130000	178.540000	OK.
+180.420000	181.720000	A tvoje práce?
+181.740000	184.500000	To je magisterská nebo doktorská.
+204.830000	207.270000	Kolikátý rok? Třetí rok?
+226.550000	226.770000	Ne.
+228.190000	232.330000	Jenom, jestli jsem rozuměl správně, že ti zbývá poslední rok doktorátu.
+240.380000	240.600000	OK.
+244.010000	251.920000	A jak dlouho budeš v našem městě?
+265.750000	266.070000	OK.
+274.260000	279.740000	A ta analýza elipsí, kterým se věnuješ, můžeš mi to vysvětlit víc?
+279.740000	281.020000	Co to znamená elipse?
+312.860000	313.140000	OK.
+316.580000	317.980000	A k čemu jsou?
+318.400000	322.500000	Ty omysle, proč se někdy vynechává část věty.
+354.930000	356.830000	OK. To je zajímavé.
+364.940000	368.980000	OK, tak díky, že jsem se mohl dozvědět o tvojí práci tady.
+370.620000	371.460000	A co dál?
+372.200000	376.920000	Ty jsi měla taky nějaké otázky, co by se chtěla dozvědět při naší způsobce?
+391.980000	393.700000	OK, samozřejmě.
+393.700000	399.120000	Tak já jsem nedávno dokončil svoji doktorskou práci.
+399.120000	411.400000	Moje téma bylo simultánní vícezdrojový překlad řeči z originálu a simultánního tlumočení.
+420.600000	420.700000	OK.
+424.120000	427.460000	Simultánní překlad řeči znamená, že když někdo mluví,
+427.680000	433.360000	tak stroj překládá ve stejnou dobu, ve stejný čas, jako mluví.
+433.360000	455.280000	No tak jednak je v tom...
+455.280000	461.440000	Je to technologický problém, prostě udělat rychlý výpočet na počítači,
+461.580000	463.380000	ale tomu já se příliš nezabývám.
+464.380000	469.860000	A moje mě zajímá spíš lingvistický problém poznat,
+470.240000	473.680000	kdy stroj má dostatek kontextu, tak aby mohl překládat,
+473.680000	481.580000	nebo kdyby měl čekat na to, až má dostatek stroje.
+494.820000	496.260000	Měli jsme projekt...
+497.860000	502.860000	Měli jsme příletý projekt, ve kterým jsme měli udělat překladový systém
+502.860000	516.510000	z pěti jazyků do 43 evropských jazyků, aby se to nasadilo na konferenci.
+516.510000	546.320000	Takže zabýváme se...
+546.320000	552.320000	No, na jednu stranu chtěli bychom překládat přirozený jazyk,
+552.320000	560.400000	a když je jazyk složitý, tak holby stroj by měl umět přirozený složitý jazyk.
+560.400000	564.400000	Ale na druhou stranu, pro praktické nástroje,
+564.400000	569.400000	lidi občas používají nástroj, který není dokonalý,
+569.400000	575.400000	a pak přizpůsobí svůj jazyk tomu, čemu chtějí.
+575.400000	584.400000	Ale náš primární cíl je udělat strojový překlad tak, aby rozuměl složitému jazyku.
+584.400000	605.780000	Jo.
+605.780000	624.070000	Můžeš to zapakovat?
+624.070000	655.450000	Já jsem tady rozuměl jazyk těla.
+655.450000	656.450000	Jo.
+656.450000	657.450000	Přesně tak.
+657.450000	658.450000	Ideální by bylo,
+658.450000	668.080000	kdyby strojový překlad bral v potaz i vizuální stránku jazyka.
+668.080000	671.080000	Tomu se říká paralingvistika.
+671.080000	673.080000	Ale to my zatím neděláme.
+673.080000	675.080000	My to děláme jenom ze zvuku.
+675.080000	681.920000	Ale to je.
+681.920000	684.920000	Ale teď tohle léto jsem byl v Americe na workshopu,
+684.920000	689.920000	kde jsem pracoval na překladu znakového jazyka.
+689.920000	694.870000	A tam naopak je pouze ta vizuální stránka.
+694.870000	702.870000	Ty gesta, postoj a face expression, výrazy tvář.
+702.870000	724.460000	Neviděla jsi výraz tváře kde?
+724.460000	742.120000	Říkal jsem, že ve znakovém jazyce,
+742.120000	748.630000	jeden z elementů jazyka, znakového jazyka, je výraz tváře.
+748.630000	783.770000	A potom hlavní téma mé doktorské práce bylo,
+783.770000	788.770000	skombinovat více paralelních jazyků do jednoho.
+788.770000	792.770000	Takže když je originální řečník,
+792.770000	796.770000	a ještě k tomu simultánní tlmočení do dalšího jazyka,
+796.770000	799.770000	tak stroj by měl poslouchat oba
+799.770000	820.890000	a skombinovat je pro lepší překlad, pro lepší kvalitu.
+820.890000	825.890000	Ano, pro lepší kvalitu, protože často,
+825.890000	828.890000	když jsou homonyma nebo podobně znějící slova,
+828.890000	837.610000	tak to je častý zdroj chyb v překladu řeči.
+837.610000	843.610000	A když je k dispozici druhý jazyk, který zjednoznační ten význam,
+843.610000	886.560000	tak to by mělo pomoct kvalitě.
+886.560000	891.560000	Já jsem dělal experimenty pouze na třech jazycích.
+891.560000	897.030000	Na češtině, angličtině, němčině.
+897.030000	900.030000	Protože je problém získat dat pro hodně jazyků,
+900.030000	903.030000	takže já jsem získal data jenom pro tyhle tři jazyky
+903.030000	909.260000	a nedíval jsem se na ostatní.
+909.260000	913.260000	Ale získával jsem data z Evropského parlamentu
+913.260000	917.260000	a na chvilku jsem se podíval na československé tlumočení.
+917.260000	924.750000	Takže na tlumočení mezi češtinou a slovenštinou.
+924.750000	930.750000	A tam jsem viděl, že ten tlumočník neměl moc velký odstup od originálu,
+930.750000	934.750000	protože čeština a slovenština jsou velmi podobné jazyky.
+934.750000	996.980000	Takže spoždění tam bylo velmi malé.
+996.980000	1003.290000	OK. A on zarovnává ty čtyři evangelia od čtyř autorů,
+1003.290000	1007.290000	anebo různé verze evangelií.
+1007.290000	1036.570000	Mám se zeptat znovu na to samé? OK.
+1036.570000	1046.570000	Ten tvůj kolega z Pávie říkala si, že pracuje na asociaci semantických rolí
+1046.570000	1049.570000	v multilingválních biblických textech.
+1050.570000	1053.570000	Na evangeliích.
+1053.570000	1058.570000	A mě by zajímalo, jestli pracuje na vícejazykových verzích
+1058.570000	1060.570000	toho stejného evangelia,
+1060.570000	1069.080000	anebo na tom, že stejný příběh je popsaný čtyřikrát ve čtyřech evangelích.
+1069.080000	1096.100000	A tohleto zpracovává tyhle čtyři verze jednoho příběhu. OK.
+1096.100000	1100.100000	A na jakým jazykům si vinuje?
+1100.100000	1131.600000	Jo, už jsem tady.
+1134.880000	1137.880000	Takže jo, zajímavé.
+1137.880000	1151.480000	A můžeš mi říct třeba o tvým pracovišti, ze kterého pocházíš?
+1151.480000	1180.080000	Zajímalo by mě, jestli mě můžeš říct o univerzitě, ze které jsi přišla?
+1180.080000	1228.570000	Třeba OK.
+1228.570000	1236.570000	A zajímalo by mě, jaký je třeba nejslavnější projekt nebo výstup
+1236.570000	1254.080000	v oblasti lingvistiky z tvé univerzity?
+1254.080000	1331.200000	Ano. OK. To je zajímavé.
+1331.200000	1339.200000	A jsou ty tři univerzity __PLACE3__, __PLACE2__ a to třetí?
+1339.200000	1405.360000	Jsou daleko od sebe? OK.
+1405.360000	1419.210000	Jestli já jsem byl v Itálii?
+1419.210000	1425.210000	Ano, byl jsem na konferenci ve Florencii v roce 2019, myslím.
+1425.210000	1444.160000	Na ACL. Byla jsi tam taky?
+1444.160000	1467.030000	Byla jsi taky na konferenci ACL ve Florencii 2019? OK.
+1467.030000	1480.550000	Do té Florencie jsem přijel vlakem z České republiky.
+1480.550000	1483.550000	Nočním vlakem z Vídně.
+1483.550000	1488.950000	A zpátky taky vlakem.
+1488.950000	1502.020000	Protože jsem chtěl šetřit životní prostředí a protože to bylo zajímavé.
+1502.020000	1527.320000	Takže jel jsem nočním vlakem z Vídně do Florencie na tu konferenci.
+1527.320000	1552.840000	Ano, noční vlak.
+1552.840000	1564.450000	Jo, si rozumím.
+1564.450000	1598.750000	A tahle ta stáž u nás, je to tvoje první stáž během doktorátu? První zahraniční zkušenost?
+1598.750000	1623.400000	Jo.
+1623.400000	1631.400000	A na tvém doktorátu je tam povinnost mít stáž zahraničí?
+1631.400000	1672.530000	Nebo jsi šla dobrovolně jak dlouho?
+1672.530000	1674.530000	Aha.
+1674.530000	1705.140000	Takže dostala jsi prostředky na pobyt od univerzity nebo od někoho?
+1705.140000	1707.770000	Jo.
+1707.770000	1709.770000	Bydlíš na koleji?
+1709.770000	1731.800000	Nebo jo.
+1731.800000	1736.370000	Kde jsi v našem městě ubytovaná?
+1736.370000	1739.370000	V jakém zařízení? Jestli je to studentská kolej?
+1739.370000	1745.520000	Nebo jiný druh ubytování?
+1745.520000	1768.180000	Jo.
+1768.180000	1770.180000	Rozumím.
+1770.180000	1783.680000	Takže je to tady kousek od nás do kopce, že?
+1783.680000	1785.680000	Jo.
+1785.680000	1795.190000	Tak teď nám zbývá posledních 30 sekund.
+1795.190000	1811.170000	Tak zajímalo by ti ještě něco?
+1811.170000	1813.170000	Jo.
+1813.170000	1817.170000	Já jsem zažil dvě stáže během magisterského studia.
+1817.170000	1827.250000	10 měsíců v Německu a 3 měsíce v Portugalskové firmě.
+1827.250000	1833.250000	A během doktorátu jsem byl 3 měsíce v Japonsku.
+1833.250000	1837.250000	A tohle léto těsně po doktorátu v Americe.
+1837.250000	1859.120000	9 týdnů.
+1859.120000	1861.120000	Přesně tak.
+1861.120000	1867.080000	Tak děkuji za hovor, __PERSON__. Musíme teď končit.
+1867.080000	1869.080000	Tak ahoj.

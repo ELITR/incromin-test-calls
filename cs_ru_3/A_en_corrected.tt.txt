@@ -1,0 +1,120 @@
+18.03	29.0	Hello, can you hear me? Yes, I can hear you.
+43.0	51.0	Yes, we should talk about summarizing, the system seems to work fine and I can read you in Russian.
+67.0	81.02	Great. Then, first of all, there is no good word for summarization in Russian, and there is a similar word summarization, I hope the system will understand me.
+81.02	92.11	So I will start asking questions. First, why did you choose this topic out of all the proposed projects?
+132.0	155.0	Yes, I realize that in the beginning you always overestimate your own capabilities. Have you had... Do you have a lot of experience with LLM and do you have an academic background in programming, in machine translation?
+192.0	212.36	Okay. Yeah, one of my first questions was, what model do you use for summarization, and why it? Because of experience, or because it's been recommended, or you've seen cases of successful application?
+212.36	240.36	Yes, why, what model are you using now, and why that one?
+284.54	293.58	So the project is also part of your personal interest in learning a new technology.
+354.17	368.65	Okay, great. Then describe how you see the assignment, what should go into the input, and what is the ideal output of the model?
+397.92	399.36	Was that a question for me?
+399.92	403.54	Or did you answer that you don't know?
+420.16	440.12	The question is, having the task of summarizing what the model you're going to train, or that you're going to use, should receive as input, and what is the ideal output of the model you're assuming?
+440.12	442.12	So it's either this...
+444.54	448.54	What do you think a good summarization should be? Like this.
+474.88	475.76	Okay.
+478.9	482.7	Then I'll simplify the question.
+484.14	489.76	What does the model receive as input? That is, what is your...
+492.84	497.76	Do you get... Should the model receive text as input, or will it...
+498.76	506.38	Should it receive notes as input, or should it receive dialog participants' utterances as input?
+516.89	517.53	Do you understand the question?
+550.26	559.16	Okay, now I don't quite get it. So the model... You thought the model would get some of the already summarized text?
+560.66	591.39	Right?
+591.39	591.45	Yeah, okay. Right.
+592.57	598.61	So the model will not work with the original lines of the dialog participants.
+598.81	602.09	But with notes already made by the system.
+637.9	639.28	Yeah, okay.
+640.2	643.4	Then the question is.
+645.4	652.88	Do you think that textual representation of dialog alone is enough to make good notes?
+654.1	663.88	Do you need to use additional context, i.e., audio recording or video recording, in order to make a good summarization?
+663.92	703.68	Okay. So you're planning to change the architecture of the model?
+731.71	735.81	So you are in doubt whether to use BERT or LLM?
+816.56	817.42	Yes, I agree.
+817.7	829.34	So if the speed of summarization is not important, and a person wants to see the exact result, what model would you use?
+829.34	910.49	Uh-huh. Okay.
+911.37	912.19	Then...
+913.69	923.77	Is there a lot of training data to summarize, and where are you going to look for data, what kind?
+1016.85	1021.23	Yes, understanding the model here is a task in itself separate.
+1022.01	1025.95	But I understand more or less.
+1034.27	1035.23	Okay.
+1036.19	1040.83	But if we use an already trained model, say LLM,
+1040.91	1047.91	then you're counting on, uh.
+1047.91	1049.95	If... To be more precise, let me rephrase the question.
+1050.49	1059.33	If you're going to use the LLM, then you're going to filetune it for the summarization task,
+1059.43	1067.89	or will you summarize by formulating a prompt, a query string?
+1114.43	1115.53	Do I plan to work...
+1115.55	1118.41	On a project about summarization specifically?
+1139.97	1142.29	Uh, no, just wondering.
+1142.33	1144.19	I have experience with...
+1144.91	1155.99	Both with transformers that I've trained for specific tasks, and with large language models.
+1156.71	1159.39	But specifically this task I'm just interested in.
+1159.39	1163.39	I actually have another project related to....
+1164.59	1165.39	To...
+1166.19	1171.43	Translating the text together with...
+1171.43	1175.39	In the context of the image, that is, multimodal text translation.
+1211.81	1219.57	Yes, actually, the range of applications is probably quite narrow,
+1219.57	1223.31	but in places where, uh...
+1223.31	1228.11	In tasks where it's useful, it actually makes a lot of sense.
+1228.71	1229.57	For example...
+1230.91	1240.17	This task, this project was suggested by guys who work in e-commerce,
+1240.17	1250.87	and they had the task to make an automatic translator of product descriptions.
+1251.59	1259.27	That is, if you translate the product description separately from the image,
+1259.43	1260.89	the translation may not be accurate.
+1260.91	1265.99	And in such a task, a translation error has a very high cost,
+1266.03	1272.13	because a translation error in the product description can mean deceiving the buyer,
+1273.05	1275.91	potential conflicts, and so on.
+1276.05	1280.43	So translation with images in the context of e-commerce is very important.
+1313.64	1316.08	The model said goodbye to me on your behalf.
+1317.68	1319.42	Half an hour hasn't passed yet.
+1328.27	1329.15	Yes.
+1329.15	1329.43	Yes.
+1344.25	1353.42	I hope he didn't fantasize my lines too much on my behalf.
+1361.69	1362.57	Okay.
+1362.91	1366.41	Then what else is there to ask?
+1370.31	1371.19	Enough.
+1371.55	1374.31	How far along is your progress with the project?
+1384.56	1386.32	I missed it.
+1386.5	1388.88	Are you practicing separately...
+1388.88	1390.28	You're doing two projects?
+1449.58	1450.58	Yeah.
+1450.58	1454.22	How do you see the value of this assignment?
+1455.46	1459.72	Would anyone want to translate ancient languages with an automatic translator?
+1459.82	1464.8	Would this be a tool for ordinary people or for linguists?
+1548.88	1549.08	Yeah.
+1549.84	1572.0	Yes, I agree.
+1572.32	1579.98	The task purely out of scientific interest is in itself very unusual and, I think, fascinating.
+1579.98	1583.67	I myself...
+1585.53	1593.75	In my professional life, I translate low-resource languages.
+1593.85	1598.43	That is, languages in the Baltic region that are hardly spoken anymore.
+1599.05	1600.43	I write a translator for them.
+1601.19	1606.19	Sometimes it's quite depressing, makes me depressed,
+1606.27	1611.13	depresses me because some languages, like Livonian
+1611.13	1615.51	no longer have native speakers.
+1615.53	1619.95	And the last one, for example, died a few years ago in Canada.
+1620.25	1625.53	But I'm still writing a translator for this language, though probably only linguists will use it.
+1668.0	1670.88	Yes, one hundred percent.
+1674.1	1674.7	So...
+1674.7	1683.52	Yes, that's why I only recently moved to Estonia, but I never thought in my life that I would have to learn Estonian,
+1683.52	1686.32	which is not spoken by many people in a small country.
+1686.4	1690.36	But I have to, because the law requires it.
+1690.5	1694.64	One must learn the language in order to stay there for a long time.
+1722.97	1726.51	I have no experience with multimodal models specifically.
+1726.91	1733.81	I've used Transformers for various assignments.
+1734.53	1742.5	Not for the task of summarizing text, for example,
+1742.5	1743.6	but tagging...
+1746.82	1747.88	what a particular text is about.
+1747.96	1753.58	It was a task from the Estonian government.
+1781.37	1785.79	In fact, I'm even glad that this tool is being developed.
+1786.59	1798.19	I mean, something, a program that summarizes the text, because, I don't know, if I were to read this transcript of our conversation now as a third person,
+1798.29	1799.79	I'd probably go crazy.
+1800.33	1801.85	So good notes....
+1802.11	1815.72	they always come in handy. Save a person time and nerves.
+1815.72	1824.72	There are much more parasite words in Russian than in English, so it's good to have some
+1824.72	1868.19	model that will say the same thing, but in a generalized form.
+1868.19	1875.87	I was speaking Russian the whole time. If you look at the right side, it looks very
+1875.87	1886.3	weird. I keep getting the topic of cancer brought up for some reason. The sentences
+1886.3	1889.3	about cancer are repeated every few lines.
+1935.0	1938.0	Yes, very much a work in progress.
+1958.33	1962.0	Have you timed it? Has it been 30 minutes already?
+1993.24	1997.14	Yeah, okay. Then is it enough to just close the conference or do we have to do something else before that?
+2023.28	2025.28	Bye-bye then.

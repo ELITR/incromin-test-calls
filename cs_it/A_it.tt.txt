@@ -1,0 +1,105 @@
+10.160000	68.540000	Ok, sento. Possiamo già iniziare. Farò un internship per lavorare al mio progetto di tesi, che è legato allo sviluppo di una tree bank in Universal Dependencies.
+68.540000	102.130000	E sto sviluppando una banca dati per l'italiano antico, perché non ci sono tree bank di questa lingua, ma solo di italiano moderno.
+103.270000	132.320000	Sto annotando la Divina Commedia, non so se sai cos'è. Esatto, del 1200 circa.
+136.060000	137.360000	Corretto, non divina.
+137.380000	188.990000	Disastro. Ok, sto annotando una tree bank sulla Divina Commedia e il topic linguistico sarà l'analisi delle ellisse, delle ellissi.
+188.990000	213.450000	Dottorato. Sono tre anni di dottorato e io ho appena iniziato l'ultimo anno. Tre anni in tutto.
+213.450000	216.910000	Quindi mi manca un anno.
+217.810000	221.250000	Ah, no, ti riferisci a io quanti anni ho?
+237.640000	262.060000	Sì, di dottorato sì. Il tuo per tre mesi e lavorerò con __PERSON2__.
+289.300000	302.180000	Ellissi è un fenomeno linguistico. Si tratta di un'omissione all'interno di una frase, di un elemento, che può essere o una porzione di frase,
+302.460000	336.480000	o una singola parola. Può essere per motivi di economia linguistica, oppure per ragioni stilistiche.
+337.520000	346.820000	Non penso che sia un discorso filologico di lacune del testo, visto che è un testo ampiamente studiato.
+381.170000	381.430000	Sì.
+382.010000	384.790000	Posso chiederti del tuo lavoro e come ti stai trovando?
+422.240000	423.020000	Quanti sì?
+439.300000	443.640000	Qual è la parte più difficile, secondo te, di questo task?
+443.640000	456.900000	Eh.
+489.510000	490.710000	Molto interessante.
+517.090000	528.660000	Ma secondo te c'è un modo per facilitare la traduzione automatica da un punto di vista linguistico,
+529.360000	533.560000	creando frasi più semplici o parlando in un determinato modo?
+537.200000	538.040000	Immagino di sì.
+594.120000	594.380000	Ok.
+594.380000	599.920000	E a volte è interessante anche il linguaggio del corpo.
+606.300000	614.720000	Come fate a considerarlo?
+615.060000	615.560000	Sì.
+615.560000	651.090000	Se c'è un modo anche per considerare il linguaggio del corpo, pensi che possa essere d'aiuto per fare riconoscimento dell'ironia o simili?
+651.090000	714.680000	Ah, non ho visto l'espressione facciale.
+714.680000	733.710000	Forse ho capito male la traduzione.
+733.710000	755.840000	Ah, sì, sì.
+755.840000	757.040000	E so anche che cambia.
+757.040000	757.540000	Sì.
+757.540000	758.040000	Sì.
+758.040000	758.540000	Sì.
+758.540000	759.040000	Sì.
+759.040000	759.540000	Sì.
+759.540000	759.840000	Sì.
+759.840000	760.340000	Sì.
+760.340000	760.840000	Sì.
+760.840000	761.340000	Sì.
+761.340000	761.840000	Sì.
+761.840000	762.340000	Sì.
+762.340000	762.840000	Sì.
+762.840000	763.340000	Sì.
+763.340000	763.840000	Sì.
+763.840000	764.340000	Sì.
+764.340000	764.840000	Sì.
+764.840000	765.340000	Sì.
+765.340000	765.840000	Sì.
+765.840000	766.340000	Sì.
+766.340000	811.160000	È un linguaggio molto variabile.
+811.160000	857.430000	E quanto è l'accuracy del modello?
+857.430000	868.700000	Hai fatto test di… hai provato a fare test di similarità tra lingue che appartengono
+868.700000	898.600000	alla stessa famiglia, per vedere se la traduzione ovviamente è più veloce.
+898.600000	899.360000	Ok.
+899.360000	923.100000	Ah, interessante.
+923.600000	946.690000	Grazie a te.
+946.690000	947.430000	Grazie.
+947.430000	947.550000	Grazie.
+947.790000	966.780000	Un mio collega a __PLACE1__ sta lavorando, ha lavorato sull'associazione dei ruoli semantici di più lingue, basandosi però su testi biblici, allineando i Vangeli.
+966.780000	989.850000	Quindi è un'associazione multilingua, ma su testi scritti e non per traduzione, ma per associazione semantica.
+989.850000	1014.590000	Riesci a riformulare?
+1014.890000	1089.370000	Sì, non ho capito quello che hai detto prima. Se non sbaglio, dovrebbe essere lo stesso Vangelo, lo stesso testo tradotto in più lingue.
+1108.330000	1118.650000	Latino sicuramente, tedesco e poi molte altre. Ha un campione ampio di lingue, però non mi ricordo esattamente quante.
+1118.650000	1158.040000	Ah, è saltata la connessione? No. Che succede? Non ho sentito, forse è saltata la connessione.
+1158.040000	1191.000000	Ok, ho capito. Io sono con due università, l'università di __PLACE2__ e di __PLACE1__, ma collaboro anche con l'università di __PLACE3__.
+1191.000000	1197.240000	Ho un tutor di una.
+1198.000000	1216.790000	Tutor di linguistica teorica e un supervisor di linguistica computazionale. Faccio sia linguistica teorica, formale, che applicata computazionalmente.
+1242.540000	1244.900000	Ti riferisci all'università in cui lavoro, giusto?
+1245.300000	1265.330000	Allora, a Pavia si fa tanta valenza, soprattutto specializzata in lingue storiche.
+1265.630000	1276.590000	La mia tutor si occupa di tipologia e sistemi valenziali dei verbi. Io collaboro anche a questo progetto.
+1276.590000	1296.060000	A __PLACE3__ invece si occupano di latino e di risorse, di risorse linguistiche e database per il latino e linking.
+1296.060000	1296.120000	A __PLACE1__ si occupa di linguistica e di risorse linguistiche e database per il latino e linking.
+1296.120000	1316.880000	A __PLACE2__ invece ho contatti con italianisti che si occupano di Dante e mi serve per il lavoro testuale sull'opera su cui lavoro.
+1341.090000	1350.630000	Sì, sono tre università diverse e distano un'ora l'una dall'altra circa.
+1353.090000	1362.640000	Io sono originaria, la mia famiglia vive a __PLACE2__, ma mi sono trasferita a __PLACE1__.
+1362.640000	1375.550000	Ho una stanza a __PLACE1__ con dei coinquilini e ogni tanto prendo il treno e vado a __PLACE3__ a lavorare in ufficio.
+1377.570000	1379.050000	Mi sposto molto.
+1389.200000	1398.010000	Sei mai stato in Italia? Hai mai visitato l'Italia?
+1406.910000	1408.470000	Sì, se hai mai visitato.
+1408.530000	1411.990000	Ho visitato l'Italia per conferenze magari anche di linguistica.
+1427.130000	1435.270000	Puoi ripetere l'ultima parte?
+1448.260000	1449.140000	Ok, meglio.
+1452.900000	1463.280000	Io nel 2019 stavo facendo la magistrale a __PLACE4__.
+1486.280000	1487.040000	Perché?
+1503.150000	1503.970000	Ah, ok.
+1504.650000	1510.810000	Puoi ripetere quello che hai detto dopo da un treno da Vienna?
+1526.080000	1527.420000	Notturno, ok.
+1534.440000	1540.410000	E non prendi mai l'aereo?
+1570.650000	1575.130000	Sì, non ho mai fatto altre esperienze all'estero, è la mia prima.
+1575.930000	1582.290000	Anche perché lavoro sull'italiano antico e per la lingua molti riferimenti sono in Italia.
+1582.290000	1607.440000	Ma è interessante conoscere altre modalità di approccio su una lingua, quindi penso che viaggerò più spesso se avrò l'occasione.
+1633.170000	1633.430000	Sì.
+1634.290000	1658.200000	Siamo, la nostra borsa di studio ci vincola a dei mesi all'estero, dai tre mesi in poi, ma spesso dobbiamo pagare noi.
+1658.200000	1692.770000	Quindi ho dovuto cercare io l'alloggio, mi daranno un aumento della borsa di studio, ma ho deciso di stare al dormitorio perché è economico.
+1714.890000	1715.930000	Riesci a ripeterlo?
+1716.710000	1718.010000	Può ridire in un altro modo?
+1745.750000	1747.110000	Riferito al dormitorio?
+1748.010000	1754.670000	Sono in un dormitorio a __PLACE5__ che si chiama __PLACE6__.
+1755.930000	1756.990000	Era questa la domanda?
+1757.550000	1777.740000	Sì, esatto, è molto vicino all'__ORGANIZATION__, è molto comodo.
+1790.150000	1798.290000	Ok, volevo chiederti se tu hai fatto un periodo all'estero e dove?
+1831.000000	1838.470000	Wow, wow.
+1844.420000	1844.760000	Hai tanta...
+1845.300000	1851.360000	Varietà, più di me di sicuro.
+1862.220000	1862.740000	Grazie a te.

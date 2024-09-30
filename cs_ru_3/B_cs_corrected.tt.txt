@@ -1,0 +1,189 @@
+13.1	34.08	Dobře. Haló, slyšíte mě? Já tě slyším? OK.
+34.08	58.91	Chtěli jsme se bavit o té sumarizaci nebo o něčem takovému?
+58.91	104.06	Jo, já taky už vidím překlady do češtiny.
+104.06	111.06	Tak mě to téma celkem zaujalo tím, že jsem nějak nějak pracoval s LLM-kama
+111.06	116.06	a přišlo mi, že by to mohlo být docela přímočaré navázaní na to, co jsem dělal,
+116.06	124.06	ale reálně trávím víc času teďka na tom překladu starověkých jazyků,
+124.06	162.01	což je třeba akadština.
+162.01	166.01	Neřekl bych, že mám hodně zkušeností s LLM-kama,
+166.01	175.01	ale používal jsem Mistral na WMT24 překlad.
+175.01	179.01	Na ostatní tásky jsem je moc nepoužíval,
+179.01	184.01	a právě proto trochu váhám třeba, jak se to u té sumarizace správně vyhodnocuje a takovéhle věci.
+184.01	226.57	Asi jsem teď nerozuměl úplně otázce, jako co přímo který model používám,
+226.57	246.11	nebo co bych chtěl používat do budoucna?
+246.11	249.11	Jakože tu sumarizaci samotnou ještě nemám naimplementovanou,
+249.11	255.58	já jsem reálně dělal spíš na tom druhým projektu a na tohle jsem se pořádně nepodíval,
+255.58	257.58	ale zvažuju, že bych...
+257.58	263.58	Právě díval jsem se po nějakých vědeckých článcích, co by bylo přímočaré použít,
+263.58	270.58	a zajímalo by mě tam jakoby spíš naimplementovat ten základní přechod z toho BERTu na LLM-ka,
+270.58	275.58	a pak třeba časem řešit, jak z toho dostat co nejlepší výsledky.
+275.58	302.25	Dalo by se to tak asi říct.
+302.25	310.63	Jakože víc mě zajímá překlad než sumarizace momentálně.
+310.63	316.63	Ale přišlo mi, že spíš jako...
+316.63	318.63	Jsem jako schopný nějak už...
+318.63	322.63	Nebo znám ty technologie, které se používají pro nasazování LLM-ek tím, že jsem to používal,
+322.63	323.63	na ten překlad.
+323.63	326.63	Tak mi přišlo, že bych byl schopný toho doimplementovat do toho projektu,
+326.63	331.63	a třeba usnadnit práci pak někomu, koho by zajímalo.
+331.63	335.63	Spíš jakoby...
+335.63	381.22	Vybrat co nejlepší model, dotrénovat ho třeba na tu sumarizaci a takovéhle věci.
+381.22	410.41	Asi nevím, co teďka myslíš tím zadáním.
+410.41	466.45	No byla to otázka, že spíš nerozumím, na co se mě vlastně ptáš.
+466.45	467.45	Pořád nevím.
+467.45	517.8	Co je vlastně za otázku.
+517.8	523.8	No moje představa bylo, že bude dostávat část toho přepisu,
+523.8	529.8	nějaký segment, a z toho se vygeneruje krátká sumarizace,
+529.8	568.98	ale tam je samozřejmě problém, že to updatování na novější hodnoty.
+568.98	571.98	No nezmiňoval jsem to, ale souhlasím s tím.
+571.98	574.98	Myslím si, že dostane předchozí část toho sumarizovaného textu,
+574.98	579.98	a část toho nového přepisu, který teda není sumarizovaný.
+579.98	619.05	Ne, na začátku bude pracovat jenom s originálním přepisem toho dialogu,
+619.05	626.05	ale když už bude nějaké shrnutí existovat,
+626.05	630.05	tak to uvidí, co vlastně ten model udělal předtím.
+630.05	669.37	No v tom se popravdě dostatečně nevyznám.
+669.37	671.37	Zatím jsem si řešil jenom tu technickou stránku,
+671.37	675.37	jak jakoby nahradit ten starší BERT těma LLM-kama,
+675.37	680.37	ale nepřemýšlel jsem nad tím, jak změnit tu architekturu vůči tomu, jak se to chová teďka.
+680.37	684.37	Protože když se teďka podíváme na ty výstupy momentální sumarizace,
+684.37	691.37	tak to dělá sumarizace mnohem častěji, než jsem si myslel, než bych čekal.
+691.37	713.85	Tak já myslím, že to bylo částečně to zadání od Bojara, že vlastně se jim nelíbí,
+713.85	716.85	že moc nevěří tomu, že by se o mnoho zlepšil BERT.
+717.85	720.85	A že by chtěli na to používat nějaká LLM-ka.
+720.85	744.23	Já nad tím ani tak neváhám.
+744.23	751.23	Můj plán byl to, že udělám dočasný fork toho kódu,
+751.23	755.23	zkusím tam přidat tu podporu LLM-ek a pak se podíváme na to, jestli to něčemu pomohlo.
+755.23	763.23	Ale je možné, že reálně je problém spíš s tím, kolik textu se vlastně k té sumarizaci dává.
+763.23	768.23	Takže možná to bude potřeba větší změny, aby to začalo líp fungovat.
+768.23	780.37	Ona je také podle mě samozřejmě otázka, pro komu ta sumarizace má sloužit.
+780.37	785.37	Má to sloužit člověku, že to bude číst při tom rozhovoru,
+785.37	788.37	nebo stačí, aby se to updateovalo jednou za čas,
+788.37	792.37	aby bylo to spíš co nejpřesnější jako souhrn všech myšlenek, o kterých lidi mluvili.
+792.37	796.37	Protože když se podívám na tu sumarizaci, co dělá teď,
+796.37	800.37	tak mi přijde, že se vlastně snaží něco vypisovat příliš často,
+800.37	804.37	ale ve skutečnosti to nic moc neříká.
+805.37	840.5	A co chce člověk sumarizovat na jedné větě?
+840.5	845.5	Tak já si myslím, že by se dal... Obecně by se dala použít nějaká abstrakce,
+845.5	853.5	která používá něco jako API pro OpenAI.
+853.5	862.5	A hromada modelů podporuje stejný dotazovací server.
+862.5	865.5	Takže ten model by se dal měnit jako...
+865.5	869.5	Ten model samotný se dá měnit jako změnou jenom jeho jména,
+869.5	877.5	ale spíš asi jak dostat... Nebo myslím si, že mně jde spíš o to, jak by bylo dobré přidat tu podporu do toho projektu,
+877.5	883.5	aby se do budoucna nestálo moc práce to udržovat.
+883.5	936.58	Tak já jsem popravdě neplánoval trénovat vlastní model,
+936.58	940.58	spíš jsem plánoval použít nějakou předtrénovanou Llamu,
+940.58	943.58	kterou už pro tyhle účely někdo připravil.
+943.58	944.58	Proto jsem se právě díval po...
+945.58	948.58	Nějakých paperech, kde by to lidi vyhodnocovali.
+948.58	952.58	Protože, jak jsem říkal, mě jako...
+952.58	955.58	Ten sumarizační task jako takový, mě až...
+955.58	957.58	Nebo mi nepřijde momentálně až tak zajímavý,
+957.58	960.58	a taky mi přijde, že tím, že dělám ještě na tom druhém projektu,
+960.58	964.58	tak bych neměl čas jakoby trénovat několik modelů,
+964.58	971.58	takže tohle mě tak jako napadlo bokem tam přijet podporu pro obecně
+971.58	974.58	nějaké už existující modely s tím, že by časem někdo přišel.
+975.58	981.58	A pak by se sbíral ta data a zkusil vybrat buď jako model,
+981.58	986.58	který bude mít co nejlepší výkon a nebo bude aspoň levnějšího ho provozovat.
+986.58	994.58	Ale myslím si, že začít nějakou Llamou dotrénovanou pro obecně jako asi instrukce
+994.58	996.58	a asistenci by nemuselo být tak špatné.
+996.58	1006.46	Mám pocit, že momentálně mi ten model moc nerozumí,
+1006.46	1028.72	tak nevím, jestli se dorozumíme.
+1028.72	1030.72	Souhlasím.
+1030.72	1073.84	Moje představa byla taková,
+1073.84	1077.84	že momentálně to nebudu dělat ten fine tuning nebo to dotrénovávání.
+1077.84	1079.84	Nejdřív tam prostě hodím něco, co už existuje,
+1079.84	1082.84	s nějakým jako rozumně vypadajícím promptem
+1082.84	1086.84	a pak se časem, až budeme mít nějaké fungující jako jednoduchou,
+1086.84	1089.84	byť třeba ne s dobrými výsledky implementaci,
+1089.84	1095.84	tak bychom začali pracovat na tom, že se pokusíme vybrat lepší model,
+1095.84	1102.84	anebo pokud máme už dost dat, tak bychom to nějak mohli zkusit dotrénovat.
+1103.84	1127.82	Ty vlastně na tomhle projektu taky plánuješ pracovat, nebo jak jsi na tom ty?
+1127.82	1132.82	Jo, ptám se, jestli se jako účastníš tady tohohle, té sumarizace,
+1132.82	1185.19	nebo jestli tě to jenom zajímá.
+1185.19	1188.19	A v čem by ta multimodalita měla pomáhat tomu překladu?
+1188.19	1192.19	Je tam jako nějaké hodně kontextuální informace, nebo?
+1192.19	1197.19	Protože vždycky mi přišlo, že se lidi tváří jako, že mám text,
+1197.19	1200.19	přidám k tomu nějaký obrázek a že to nějak pomáhá,
+1200.19	1202.19	ale reálně jsem neviděl moc jako příkladů,
+1202.19	1281.22	pro reálné využití.
+1281.22	1287.34	A tak tomu pak rozumím.
+1287.34	1289.34	To zní docela zajímavě.
+1289.34	1295.34	Otázka, jestli je jednoduché, aby opravdu ten obrázek
+1295.34	1298.34	těm špatným příkladem zabránil,
+1298.34	1301.34	protože, no, ale s tím máš asi větší zkušenosti než já.
+1328.54	1332.54	Alespoň vidíme, že v praktických příkladech
+1332.54	1336.54	se té umělé inteligenci zatím pořád nedá úplně věřit.
+1336.54	1394.56	S tou sumarizací nebo s těmi starověkými jazyky?
+1394.56	1399.56	Jo, dělám vlastně, primárně dělám ty starověké jazyky,
+1399.56	1405.56	což je v tom případě akadština a ten druhý jazyk byl, myslím, sumerština.
+1405.56	1409.56	A právě zkouším použít nějaký multimodální model,
+1409.56	1415.56	který by překládal přímo z obrazových dat nebo z vyrenderovaného textu,
+1415.56	1419.56	místo toho, abychom používali jako vstup text jako takový.
+1420.56	1424.56	Protože si...
+1424.56	1429.56	Protože to klínové písmo má nějaké problémy s tím,
+1429.56	1434.56	když se přepisuje do nějaké fonetické podoby,
+1434.56	1469.89	protože je v nějakých věcech nejednoznačné.
+1471.89	1475.89	Je to spíš jenom maličký projekt v rámci toho maratonu.
+1475.89	1480.89	Nevidím pro to nějaké moc velké využití, ale přišlo mi zajímavé si vyzkoušet,
+1481.89	1483.89	trénování těch multimodálních modelů,
+1483.89	1487.89	protože jsem předtím používal jenom čistě textové modely.
+1487.89	1492.89	A zároveň mi přijde, že je to trochu zajímavé, až na to, že narážíme trochu na to,
+1492.89	1497.89	že pro tyhle jazyky máme relativně málo trénovacích dat.
+1497.89	1503.89	Narazili jsme na to, že nám přijde, že evaluační data jsou moc podobná těm trénovacím,
+1503.89	1508.89	takže u nějakých jako předběžných výsledků, ne ještě s tím vizuálním modelem,
+1508.89	1511.89	ale i s nějakým jako klasickým strojovým...
+1511.89	1516.89	ne klasickým, no prostě MarianMT překladem,
+1516.89	1518.89	jsme dosahovali až podezřelé dobrých skóre,
+1518.89	1521.89	takže teď trochu řešíme ještě hledání nových dat,
+1521.89	1525.89	ale i když nevidím jako pro to nějaké jako praktické využití,
+1525.89	1528.89	tak si myslím, že je to jako takový zajímavý mini projekt,
+1528.89	1529.89	ale určitě je to...
+1529.89	1532.89	Asi by se dalo říct, že je to míň užitečnější, než ta sumarizace,
+1532.89	1546.56	jen mě to nějak teď začalo zajímat, jak jsem si do toho poslední dva dny ponořil.
+1546.56	1550.56	No, ta sumarizace je určitě jako dů...,
+1550.56	1553.56	užitečnější pro normální lidi,
+1553.56	1558.94	ale tady tohle je zase jako nějaká nová technologie,
+1558.94	1559.94	kterou si můžu osahat,
+1559.94	1628.54	takže proto jsem si vybral i ty starověké jazyky.
+1628.54	1631.54	Je to pravda, zase na druhou stranu si člověk vždycky říká,
+1631.54	1634.54	je škoda, že ten jazyk, že ním nikdo nemluví,
+1634.54	1638.54	ale já sám bych třeba nechtěl mluvit ještě jazykem,
+1638.54	1640.54	kterým mluví míň lidí, než třeba češtinou,
+1640.54	1644.54	protože to pak komplikuje komunikaci,
+1644.54	1646.54	musí se člověk dřív naučit anglicky,
+1646.54	1648.54	aby se vůbec dorozuměl,
+1648.54	1651.54	a kdybych mluvil nějakým takovým low-resource jazykem,
+1651.54	1654.54	tak se spolu dneska asi nebavíme,
+1654.54	1657.54	protože Whisper by si s tím určitě neporadil.
+1657.54	1673.34	Ještě mě napadlo...
+1673.34	1696.9	Pardon?
+1696.9	1697.9	Aha, chápu.
+1697.9	1701.9	Když bych se ještě vrátil k těm multimodálním modelům,
+1701.9	1705.9	které jsi říkal, že s tím máš trochu zkušenosti,
+1705.9	1707.9	máš nějaké konkrétní příklady,
+1707.9	1709.9	jako hrál jsi třeba s tou...
+1709.9	1711.9	jak se to jmenuje...
+1712.9	1713.9	LlamaV?
+1713.9	1761.26	Aha, tak to jsem asi rozuměl tomu předchozímu příkladu špatně,
+1761.26	1764.26	myslel jsem si, žes právě dělal ty multimodální modely,
+1764.26	1768.82	ale... Děkuju.
+1768.82	1840.27	Teď mluvíš o tom sumarizovaném výstupu,
+1840.27	1844.27	protože já když se podívám doprava na tu momentální sumarizaci,
+1844.27	1847.27	tak mám pocit, že je tak třetina česky,
+1847.27	1850.27	občas se tam objeví náhodně vietnamština nebo něco takového,
+1850.27	1853.27	občas se tam objeví španělština,
+1853.27	1856.27	občas se tam objeví angličtina,
+1856.27	1897.21	aha, taky tam vidím úplně náhodná témata,
+1897.21	1900.21	taky tady vidím něco jako
+1900.21	1903.21	"není nic takového jako léčba rakoviny",
+1903.21	1921.38	což je téma, o kterém jsme se vůbec nebavili.
+1921.38	1925.38	Jakože určitě se shodneme na tom, že tento nástroj potřebuje ještě hodně práce,
+1925.38	1928.38	než bude spolehlivý.
+1928.38	1950.87	Tak co, napadá tě ještě něco, o čem bychom se chtěli pobavit?
+1950.87	1964.78	Nebo to ukončíme?
+1966.78	1971.78	Řekl bych, že přibližně ano, protože mi to píše 35-36
+1971.78	1977.78	a začali jsme, když se nám podařilo pozvat toho umělého uživatele,
+1977.78	1981.78	který nás poslouchá.
+1981.78	1984.78	Takže myslím, že bychom to měli mít splněné.
+1984.78	2006.85	Asi bych to tady ukončil?
+2006.85	2009.85	Tak děkuji, rád jsem se s tebou pobavil.
+2009.85	2015.25	Možná jsme si ověřili, že angličtina je pořád užitečná.

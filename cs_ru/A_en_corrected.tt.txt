@@ -1,0 +1,179 @@
+6.51	7.31	Teacher.
+29.72	31.08	Let's see, we'll see.
+32.44	46.68	Yes, yes, yes, yes, yes.
+116.3	116.76	Okay.
+138.49	142.51	Okay, I’ll greet you again.
+143.07	150.89	Hello, I’m __PERSON1__, and now I’ll tell you a little about what I’m doing as part of the project
+150.89	155.17	on the subject of statistical methods of translation.
+155.17	166.33	The goal of the project is to train a system for translation from English into Russian
+166.33	179.89	and ideally also write an article about this and send the results of the system to a conference in MT.
+180.89	193.29	Therefore, now such a technical task needs a little elaboration, probably
+193.49	200.97	so I decided that I needed to immediately take advantage of the consultation in the first slot.
+200.97	209.67	And in fact it’s very difficult for me to talk about this in Russian,
+209.83	209.97	because never...
+210.89	215.33	I never speak Russian with anyone about programming.
+216.71	224.41	I will try to increase the tempo of speech a little, if this, of course, does not interfere with the system.
+225.15	234.27	And at the moment I'm trying to switch to another library for training.
+234.27	240.33	__PERSON2__ and I thought and sat.
+240.33	242.33	A lot...
+242.33	254.33	We found a lot of different things where we can somehow improve our system, our approach.
+254.99	260.39	And we came to the conclusion that it’s probably worth trying the library,
+260.49	266.01	which handles training on multiple graphics cards.
+267.31	270.01	And that’s why I’m on the weekend...
+270.33	276.69	looked at how you can, firstly, prepare data for training,
+277.79	286.45	and then I tried to somehow install another library,
+286.45	297.45	but it doesn't work at all because, as usual, Python is very complicated...
+298.29	299.45	these libraries...
+300.33	308.33	configure everything together correctly so that they work and do not give up...
+311.15	315.17	Yeah, yeah.
+316.25	320.77	__PERSON2__ uses Ansloth.
+321.59	333.75	This is the name of a library that is dedicated to accelerating the training process and memory efficiency.
+334.81	339.21	But for ordinary people who don't pay,
+339.91	346.17	that is, the open version supports training enhancement on only one graphics card.
+346.77	352.69	And, as it seemed to me, this is a very big omission,
+353.87	362.79	Considering that we can take both from the meta-center and from other clusters, we can, in principle, take more GPUs.
+362.79	364.61	Why not use this?
+364.81	365.81	Yes.
+365.81	376.83	And __PERSON2__ and I agreed that we would switch to a different library.
+376.83	382.83	And in the end I started trying to play with Axolotl.
+382.83	394.83	Axolotl is a library that also integrates some specific improvements with the library already listed.
+394.83	395.83	But...
+395.83	396.83	Yes.
+396.83	403.83	There is support for multiple graphics cards and a fairly rich configuration.
+404.83	411.11	But, again, I sat there all day, and it gave me an error,
+411.25	419.75	that some operation is not supported for this type.
+419.75	426.75	That is, there was a type bfloat16, and for some reason there was some function for it...
+426.83	427.83	Not implemented.
+427.83	436.83	And, therefore, __PERSON2__ and I quickly corresponded about this error.
+436.83	447.83	And now we are trying to install, how best to install the libraries so that Axolotl itself works.
+447.83	454.83	But it looks very sensible, it looks very encouraging.
+454.83	455.83	And it seems like...
+455.83	456.83	Yes.
+456.83	464.83	If you manage to use this library, then everything will be very, very fast.
+464.83	465.83	I hope so.
+482.83	484.54	Yes, that's right.
+484.54	486.54	Minimum.
+502.54	503.16	Yes, yes.
+503.16	527.4	So...
+527.4	529.4	Ugh.
+529.4	534.4	In general, everything can be done initially in PyTorch.
+534.4	538.4	And this is probably not super difficult.
+538.4	547.4	Difficulties arise because it takes a lot of time.
+547.4	554.4	This takes a lot of time, first of all, for code validation.
+554.4	557.4	A very large amount of code will have to be written.
+557.4	567.4	No matter what anyone says, it will be necessary to insert some convenient functions for reports everywhere.
+567.4	584.4	So that we can then look at how, for example, some kind of metric is growing, so that we can monitor it on the Internet.
+584.4	595.4	This seems trivial in some toy examples, but then in practice it pollutes the code very much.
+595.4	612.4	And initially we have PyTorch, then above this Hugging Face, which provides just some kind of trainer, some kind of training system.
+612.4	624.4	Because in Hugging Face they already handle multi... with multiple graphics cards.
+624.4	638.4	And with various subtleties that are quite difficult to check on your own.
+638.4	653.4	I had a subject about dialog systems, and there we implemented almost everything as if in PyTorch, we didn’t use anything else.
+654.4	668.4	And it kind of took us a whole semester, such a fairly simple... simple setup for training took us a semester.
+668.4	676.4	And it was divided into some, again, parts that had already been implemented by someone and had already been validated by someone.
+676.4	682.4	So, again, we just wrote, and someone told us whether we did the right thing or not.
+682.4	684.4	And when did this happen...
+684.4	691.4	Feedback, when there is no such thing, is very difficult to understand if something is implemented correctly or not.
+691.4	708.4	And, accordingly, libraries that already provide great functionality, and then above Hugging Face, well, or rather Axolotl directly above PyTorch, it’s all quite fluid there,
+708.4	712.4	then they immediately provide support.
+712.4	713.4	Most likely, already hardcore.
+714.4	716.4	Well implemented.
+716.4	718.4	Various types.
+718.4	720.4	Various setups.
+720.4	734.4	They just even support some kind of dataset format, for which the training process is already more or less optimized.
+734.4	736.4	Well, what do you mean?
+736.4	737.4	Some...
+737.4	742.4	If there are short sequences, for example, 512 tokens, then he...
+742.4	746.4	The so-called packing will be used.
+746.4	751.4	And, accordingly, this is also quite difficult to implement.
+751.4	753.4	And here I am...
+753.4	760.4	In the subject in the previous semester we did just this...
+760.4	769.4	Well, not exactly packing, but we also played with how we train the model.
+769.4	770.4	And there it was necessary correctly...
+770.4	773.4	It was necessary to choose the right masks.
+773.4	777.4	And right on time...
+777.4	787.4	During training, as soon as we receive some kind of response from the model, we must run it through the mask.
+787.4	789.4	And all this was very difficult.
+789.4	793.4	This is actually several days for one function.
+793.4	798.4	And, at least, the use of some kind of frameworks guarantees that...
+798.4	799.4	Yes.
+799.4	800.4	Yes.
+800.4	803.4	That is, it depends on the quality, most likely, like this.
+803.4	806.4	And it gives some level of control already at...
+806.4	813.4	With the fact that we don’t need to write any heaps of code again.
+813.4	817.4	Which will take all the arguments from our configuration.
+817.4	824.4	And we already have a system where we will write what we want before the configuration file.
+824.4	829.4	It is clear that not everything will work so perfectly.
+829.4	836.96	not everything will work, it will be supported, some of our wishes, some of our custom things, they are not
+836.96	843.64	are supported, but in any case it gives some level of control like this, well, sort of high
+843.64	853.22	level that you can come write the path to the data set the path to the model some technical things there
+853.22	863.48	type what rank does the lore have and everything and how it should work and they are trying to guarantee quality
+863.48	1035.77	yes, I completely agree and specifically that I rather need to play with the data than with myself
+1035.77	1041.35	the way of training led me to the fact that probably probably
+1041.59	1050.05	I am inclined to use a library that solves the training for me completely and severally
+1050.05	1056.53	the fact that the training takes place on several on several graphic cards of course me
+1056.53	1064.09	this is also attractive and I understand that this parallelization can occur at the level
+1064.09	1070.93	the fact that on each on each graphic card there will be one experiment and we just
+1070.93	1071.47	and
+1071.59	1084.65	will we launch several at one time or will we have several graphic cards within the framework of one experiment? I had the same dilemma when I was writing my thesis and
+1084.65	1093.55	job when I finished my bachelor’s degree, but it’s called a diploma in Russian anyway
+1093.55	1101.29	there were also interesting dynamics with several graphics cards and
+1101.59	1109.21	I spent a lot of time for a very long time, which in the end brought a very cool
+1109.21	1114.45	result because I could not train anything on four graphics
+1114.45	1119.67	maps and as soon as I succeeded in I don’t know several months, that is, when
+1119.67	1124.25	I already had everything and the rest of the code ready and when did I start
+1124.25	1125.59	work I just did all the experiments in a couple of days and I specialists marketing Russian technology T463 100%
+1125.59	1126.63	I just did all the experiments in a couple of days and I can’t say that now freedge measures are very good for us with IE, we reframe with their head among those four IE yats on my next one from the risk of Russia pickled으로 I don’t know so I can’t say that 밀ket 원ker rendereDD from advertising Wednesday No Support White's
+1126.63	1142.85	I just did all the experiments in a couple of days, and I could quickly respond to the results and very quickly launch new experiments with changed keeper parameters, with some changed configurations.
+1142.85	1159.39	So my experience is that even if I spend a few weeks installing something, if it works in the end, it will help a lot.
+1161.49	1172.55	But I understand that we need to hurry and get some results.
+1172.69	1172.83	I agree.
+1172.85	1192.85	In any case, I won’t try to sit here until the end and “Oh, I’m installing libraries,” but, of course, at some point I’ll probably have to give up and switch to something closer to __PERSON2__’s setup.
+1192.85	1202.55	But what did I want to advise? I wanted to advise on such a change in the rules.
+1202.85	1215.73	I wanted to advise that all test sets will be at paragraph level, not sentence level.
+1217.11	1227.11	And how should we train the model so that it is effective and so that it can really translate paragraphs.
+1227.11	1232.69	__PERSON2__ and I talked about this, and he says that it’s possible, in principle...
+1232.85	1252.15	In principle, how can you train on sentences? You can train on sentences, but in such a way that references from previous sentences within the paragraph will be added to the context of the model.
+1253.61	1259.15	And it seemed to me somehow quite intuitive, as it was with dialogue systems, that yes, you only need to predict...
+1259.15	1261.15	Yes, you only need to predict...
+1262.85	1271.85	One answer now, one answer from the system, but in the context of this system there will already be an entire dialogue thread.
+1273.37	1284.73	And then, probably, there’s also the option of simply taking a whole paragraph for a whole paragraph and seeing how it will work.
+1284.73	1339.27	And...
+1512.14	1514.84	Yes.
+1516.2	1518.64	I completely agree, and thank you for...
+1519.3	1519.74	Thank you.
+1519.76	1525.72	Thanks for confirming that this is indeed a good direction.
+1526.4	1528.3	And I have a question.
+1528.84	1538.7	We want to submit our systems to the so-called limited track, constraint.
+1538.7	1548.7	And I looked at the available datasets, and I was also interested in which datasets...
+1548.7	1551.7	In which datasets this context is saved.
+1551.7	1557.7	I found the same news commentary.
+1557.7	1561.7	Europarl.
+1561.7	1567.7	But, in my opinion, it doesn’t exist for the Russian language.
+1567.7	1569.7	Or... Yes, he's not there.
+1569.7	1575.38	Yes.
+1575.38	1583.88	Yes.
+1583.88	1585.88	Yes.
+1585.88	1587.88	On the contrary, they have a strong...
+1587.88	1588.64	On the contrary, they have a strong...
+1588.64	1591.14	The Russian language is being rejected.
+1591.14	1592.14	I just...
+1592.14	1594.64	I just thought that someone would take...
+1594.64	1603.14	And it really will directly annotate all these datasets in all languages, but no, unfortunately.
+1603.14	1605.64	And, accordingly, in the same...
+1605.64	1611.14	Now, if you take the news commentary, then there is no division into paragraphs.
+1611.14	1615.64	There are, as it were, articles, and they lie together.
+1615.64	1618.54	It’s like the chunks are lying together.
+1618.64	1630.58	But these are the boundaries, yes, and that’s why I think it’s possible to really take some chunks of 10-15 sentences, for example.
+1634.22	1634.54	Okay.
+1684.54	1688.28	And good, this is clear to me now too.
+1688.28	1707.28	And then there’s this little problem that when we take sentences at a time, we can actually greatly reduce the length of the training examples themselves.
+1707.28	1717.68	And when we take paragraphs, there really is a lot of this data, and there, for example, we need to take the maximum length of 2048.
+1718.28	1734.08	And it’s already quite difficult with __PERSON2__’s setup, that long sequences are simply more complicated, that is, they take longer to process.
+1734.08	1737.58	In terms of the model, it takes longer to train on them.
+1738.38	1755.53	And I’m not saying that it is somehow limited.
+1755.71	1763.71	More likely that on eGo setup, paragraph training is very slow.
+1764.71	1777.28	Yes, and here we go. OK.
+1779.5	1779.86	Okay.
+1821.07	1830.79	Unfortunately, I probably won’t be able to write everything normally, because I understand you, I understand Czech, so I have BIOS anyway.
+1833.81	1835.13	Okay, okay.
+1835.31	1843.92	Thank you. All. Goodbye.

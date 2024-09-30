@@ -1,0 +1,294 @@
+6.51	25.18	I don't know.
+29.18	31.18	We'll see.
+31.18	47.06	Yes, yes, yes.
+47.06	137.95	Okay.
+137.95	141.95	Okay, I'll greet you once again.
+141.95	145.95	Hello, I'm __PERSON1__.
+145.95	155.95	I'll tell you a little bit about what I'm doing as part of the project on the subject of statistical translation methods.
+155.95	165.95	The goal of the project is to train the system for translating from English to Russian.
+165.95	171.95	Ideally, I'll write an article about it.
+171.95	175.95	And send the results.
+175.95	179.95	And then I'll send the results to the conference in the MIT.
+179.95	187.95	So now I have a technical task.
+187.95	191.95	It requires a little work.
+191.95	199.95	So I decided to use the consultation in the first slot.
+199.95	203.95	And in fact, I'm very happy.
+203.95	205.95	I'm very happy.
+205.95	209.95	It's very difficult to speak Russian about it.
+209.95	215.95	Because I never speak Russian with anyone about programming.
+215.95	219.95	I'll try to increase the speech tempo a little.
+219.95	223.95	If it doesn't interfere with the system.
+223.95	233.95	And at the moment I'm trying to move to another training library.
+233.95	239.95	__PERSON2__ and I thought about it.
+239.95	253.95	We've found a lot of things where we can improve our system, our approach.
+253.95	261.95	And we came to the conclusion that it's probably worth trying a library that can cope with training for several times.
+261.95	265.95	On several graphics cards.
+265.95	275.95	And that's why I was watching how to prepare data for training on weekends.
+275.95	285.95	And then I tried to install another library.
+285.95	289.95	But it doesn't work at all.
+289.95	301.95	Because as usual in Python language it's very difficult to configure these libraries correctly.
+301.95	303.95	All together.
+303.95	307.95	So that they work and don't give...
+307.95	311.71	Aha.
+311.71	316.43	Yes.
+316.43	320.43	__PERSON2__ uses Ansloth.
+320.43	322.43	This is the name of the library.
+322.43	324.43	Ansloth.
+324.43	334.43	Which is just about accelerating the training process and memory efficiency.
+334.43	340.43	But for ordinary people who don't pay.
+340.43	346.43	I mean the open version supports training improvement only on one graphics card.
+346.43	352.43	And as it seemed to me it's a very big mistake.
+352.43	362.43	Considering that we can take more GPU on the metacenter and on other clusters.
+362.43	364.43	Why not use it?
+364.43	366.43	And...
+366.43	370.45	Yes.
+370.45	376.45	And __PERSON2__ and I agreed that we would switch to another library.
+376.45	382.45	And in the end I started trying to play with Axolotl.
+382.45	384.45	Axolotl is...
+384.45	386.45	Yes.
+386.45	394.45	A library that integrates some improvements with the already listed library.
+394.45	400.45	But there is also support for several graphics cards.
+400.45	404.45	And a rather rich configuration.
+404.45	406.45	But...
+406.45	408.45	Again I was sitting here all day.
+408.45	410.45	And it made a mistake.
+410.45	412.45	That there was some operation that didn't support...
+412.45	414.45	That there was some operation that didn't support this type of library.
+414.45	420.45	That there was some operation that didn't support this type of library.
+420.45	424.45	And there was type bfloat16.
+424.45	428.45	And for some reason some function for it wasn't implemented.
+428.45	438.45	And I and __PERSON2__ quickly corresponded about the error.
+438.45	440.45	And now we are trying to determine how to better...
+440.45	448.45	how to install libraries better, so that Axolotl itself works.
+448.45	462.45	But it looks very healthy, very reliable, and if you manage to use this library,
+462.45	482.16	then everything will be very, very fast, I hope.
+482.16	487.16	Yes, that's true. Minimally.
+487.16	503.78	Yes, yes.
+503.78	528.02	So...
+528.02	539.02	Actually, initially you can do everything in PyTorch, and it's probably not super difficult.
+539.02	548.02	The difficulties arise because it takes a lot of time,
+548.02	549.02	it takes a lot of time,
+549.02	554.02	first of all, to validate the code,
+554.02	557.02	you will have to write a very large amount of code,
+557.02	559.02	no matter what you say,
+559.02	568.02	but you will need to insert some convenient functions everywhere for reports,
+568.02	574.02	so that we can then look at how our...
+574.02	578.02	how our library grows, for example,
+578.02	585.02	some kind of metric, so that we can follow this on the Internet.
+585.02	591.02	It seems trivial on some toy examples,
+591.02	596.02	but then in practice it pollutes the code very much.
+596.02	602.02	And initially we have PyTorch, then there is Hugging Face,
+602.02	607.02	which provides some kind of trainer,
+607.02	613.02	some kind of training system,
+613.02	618.02	because they already in Hugging Face,
+618.02	625.02	they cope with multiple graphics cards,
+625.02	632.02	and with various such subtleties,
+632.02	636.02	which are quite difficult to check.
+636.02	645.02	I had an object about dialog systems,
+645.02	652.02	and there we implemented everything in PyTorch,
+652.02	654.02	we didn't use anything else,
+654.02	657.02	and it took us a whole semester,
+657.02	664.02	such a fairly simple setup for training,
+664.02	665.02	and it took us a semester,
+665.02	671.02	and it was divided into some parts,
+671.02	674.02	which were already implemented by someone,
+674.02	676.02	and were already validated by someone,
+676.02	679.02	so we just wrote it down,
+679.02	682.02	and someone told us whether we did it right or not.
+682.02	687.02	And when there is no such feedback,
+687.02	691.02	it is very difficult to understand whether something is correctly implemented or not,
+691.02	693.02	and, accordingly,
+693.02	697.02	libraries that already provide a large functionality,
+697.02	700.02	and then over Hugging Face,
+700.02	704.02	or rather Axolotl directly over PyTorch,
+704.02	709.02	it's all quite fluid there,
+709.02	713.02	then they immediately provide support,
+713.02	716.02	most likely already well implemented,
+716.02	718.02	of various types,
+718.02	720.02	of various setups,
+720.02	721.02	just even,
+721.02	728.02	they support some kind of format of datasets,
+728.02	735.02	for which the training process is already more or less optimized.
+735.02	737.02	Well, what do I mean?
+737.02	740.02	If there are short sequences,
+740.02	742.02	for example, 512 tokens,
+742.02	745.02	then it will be used,
+745.02	747.02	the so-called packing,
+747.02	749.02	and, accordingly,
+749.02	751.02	it is also enough to implement it,
+751.02	753.02	but it is not easy,
+753.02	754.02	and I,
+754.02	756.02	in the subject,
+756.02	758.02	in the subject of the previous semester,
+758.02	761.02	we did just this,
+761.02	764.02	well, not just packing,
+764.02	767.02	but we also played with
+767.02	770.02	with how we train the model,
+770.02	772.02	and there it was necessary
+772.02	774.02	to choose the masks correctly,
+774.02	777.02	and correctly during,
+777.02	779.02	during training,
+779.02	780.02	immediately,
+780.02	782.02	as soon as we receive
+782.02	784.02	some kind of response from the model,
+784.02	785.02	we must also
+785.02	788.02	run it through the mask,
+788.02	790.02	and it was all very difficult,
+790.02	792.02	it's a few days,
+792.02	793.02	really,
+793.02	795.02	for one function,
+795.02	797.02	at least,
+797.02	800.02	using some kind of frameworks
+800.02	802.02	gives a guarantee of quality,
+802.02	803.02	most likely,
+803.02	804.02	like this,
+804.02	806.02	and gives some kind of level,
+806.02	808.02	just control already,
+808.02	809.02	on,
+809.02	811.02	on the fact that we do not need to write again,
+811.02	812.02	what,
+812.02	814.02	some bunch of code,
+814.02	816.02	which will take all the arguments
+816.02	817.02	from our configuration,
+817.02	819.02	and we already have a system,
+819.02	821.02	where we will write,
+821.02	823.02	before the configuration file,
+823.02	824.02	what we want,
+824.02	826.02	it is clear that not everything,
+826.02	830.02	not everything will work so well,
+830.02	832.02	not everything will be supported,
+832.02	833.02	some of our,
+833.02	834.02	want,
+834.02	836.02	some of our custom things,
+836.02	838.02	they are not supported,
+838.02	840.02	but in any case,
+840.02	842.02	gives some kind of level of control,
+842.02	843.02	here is such a,
+843.02	844.02	well,
+844.02	845.02	as if at a high level,
+845.02	846.02	that you can come,
+846.02	847.02	write,
+847.02	849.02	path to the dataset,
+849.02	850.02	path to the model,
+850.02	853.02	some technical things,
+853.02	854.02	what type,
+854.02	856.02	what rank,
+856.02	857.02	at the lore,
+857.02	858.02	and that's it,
+858.02	860.02	and how it should work,
+860.02	862.02	and they try to guarantee
+862.02	891.19	this quality,
+891.19	940.67	uh-huh,
+940.67	941.67	uh-huh,
+941.67	1025.39	uh-huh,
+1025.39	1026.39	uh,
+1026.39	1027.39	yeah,
+1027.39	1028.39	yeah,
+1028.39	1029.39	I,
+1029.39	1030.39	I completely agree,
+1030.39	1031.39	uh,
+1031.39	1033.39	and specifically what I rather,
+1033.39	1035.39	need to play with data,
+1035.39	1037.39	rather than the way of training itself,
+1037.39	1039.39	it led me to,
+1039.39	1040.39	what,
+1040.39	1041.39	probably,
+1041.39	1042.39	maybe,
+1042.39	1044.39	I tend to use a library,
+1044.39	1046.39	which decides the training,
+1046.39	1047.39	for me completely,
+1047.39	1048.39	and,
+1048.39	1049.39	and a few things,
+1049.39	1051.39	that training takes place,
+1051.39	1054.39	on several GPU,
+1054.39	1061.51	on several graphics cards, of course, it also attracts me and I understand that this
+1061.51	1067.39	parallelization can happen and at the level of the fact that on each on each
+1067.39	1074.13	the graphics card will be one experiment and we just run a few at one
+1074.13	1078.39	moment or we will have within one experiment several graphics
+1078.39	1089.01	I had the same dilemma when I was writing a diploma and work when
+1089.01	1096.53	graduated but it is called a diploma in Russian anyway and there there too
+1096.53	1102.21	there was an interesting dynamic with several graphics cards and I am very
+1102.21	1108.37	long spent a lot of time that in the end brought
+1108.39	1113.83	very cool result because I could not train anything on 4
+1113.83	1118.39	graphics cards and as soon as I got it for I don't know several
+1118.39	1122.95	months that is, when I already have everything and the rest of the code was ready and
+1122.95	1130.63	when it started working for me I just in a couple of days I did all the experiments and
+1130.63	1137.59	I could react quickly to the results and very quickly as you run
+1137.59	1138.39	new experiments
+1138.39	1142.75	already with changed hyperparameters with changed some configurations
+1142.75	1152.77	so I have such an experience that if I even spend a few weeks on
+1152.77	1158.09	installation of anything but if it is in in the end it will work then it is very
+1158.09	1168.31	will help a lot but I understand I understand I understand the point with the fact that
+1168.39	1173.91	need already how to hurry I need some results get I agree I
+1173.91	1178.51	in any case, that is, I will not be there somehow
+1178.51	1186.07	try contain ratings until the end sit at it and install libraries of course
+1186.07	1192.43	at some point I should print out and go to something closer to full
+1192.43	1195.39	__PERSON2__ but to me I wanted to consult this one, I wanted to consult it and I wanted this I thought well, as I was on theемон-
+1195.39	1196.39	I wanted to consult Parvet but I spent a cycle on all of this on every information in general before more on all here because I didn't have time on everything even from something, we didn't talk often enough with each other but in general it was in interest in such and in some hold and life China was the leader, this animation we talked about it.
+1198.39	1216.39	I want to make a change in the rules at the conference, that all test sets will be at the level of sentences, not sentences.
+1216.39	1227.39	And how should we train the model to make it effective and to translate the sentences.
+1227.39	1244.39	__PERSON2__ and I talked about it, and he said that it is possible to train on sentences, but in a way that in the context of the model
+1244.39	1246.39	will be added a sentence.
+1246.39	1252.39	And references from previous sentences were added within the sentences.
+1252.39	1266.39	And it seemed to me quite intuitive, as it was on dialog systems, that yes, you need to predict only one answer now, one answer of the system,
+1266.39	1273.39	but in the context of this system there will already be the whole branch of the dialogue.
+1273.39	1276.39	And then, probably, another option is that the process is not the same.
+1276.39	1338.93	You just need to take a whole paragraph for a whole paragraph and see how it will work.
+1338.93	1526.3	And I completely agree, and thank you for the confirmation that this is really a good direction.
+1526.3	1529.3	And I have a question.
+1529.3	1531.3	We want to ask our systems for, so to say, a new system.
+1531.3	1532.3	Yes.
+1532.3	1540.3	And we want to ask our systems for, so to say, a limited track, constraint.
+1540.3	1552.3	And I looked at the available datasets, and I was also interested in what datasets this context is preserved.
+1552.3	1558.3	I found the same news commentary.
+1558.3	1560.3	Europarl.
+1560.3	1567.3	Only, in my opinion, for the Russian language it is not there.
+1567.3	1573.98	Or... Yes, it is not there.
+1586.48	1591.48	They, on the contrary, have a strong rejection of the Russian language.
+1591.48	1598.48	I just thought that someone would take it and really annotate all these datasets.
+1598.48	1599.48	Yes.
+1599.48	1603.48	There are datasets in all languages, but no, unfortunately.
+1603.48	1605.48	And, accordingly, in the same...
+1605.48	1611.48	If you take the news commentary, there is no division into paragraphs.
+1611.48	1615.48	There are articles, and they lie together.
+1615.48	1618.48	Chunks lie together.
+1618.48	1620.48	But these boundaries...
+1620.48	1622.48	Borders... Yes.
+1622.48	1627.48	And so I think you can really take some chunks of 10-15 sentences.
+1627.48	1628.48	Yes.
+1628.48	1630.48	For example.
+1630.48	1634.14	Okay.
+1634.14	1684.38	And...
+1684.38	1688.38	Okay, now I understand it too.
+1688.38	1708.38	And then there is still such a little problem, that when we take sentences, we can really reduce the length of the training examples themselves.
+1708.38	1713.38	And when we take the paragraphs, there is really a lot of this data.
+1713.38	1718.38	And there, for example, you need to take the maximum length 2048.
+1718.38	1721.38	And it's already quite difficult.
+1721.38	1723.38	It goes on the __PERSON2__'s setup.
+1723.38	1730.38	That long sequences are just more difficult...
+1730.38	1732.38	More difficult to process...
+1732.38	1734.38	Well, that is, they are processed longer.
+1734.38	1735.38	In terms of...
+1735.38	1737.38	The model is trained on them longer.
+1737.38	1738.38	And...
+1738.38	1755.81	I'm not saying that it is somehow limited.
+1755.81	1763.81	Rather, on his setup, the training of paragraphs is very slow.
+1763.81	1764.81	Yes.
+1764.81	1765.81	And...
+1765.81	1776.7	Okay.
+1776.7	1779.2	Okay.
+1779.2	1780.2	Mm-hmm.
+1780.2	1788.27	Uh-huh.
+1788.27	1789.27	Uh-huh.
+1789.27	1821.41	And I...
+1821.41	1822.41	Unfortunately, I probably won't be able to write a full sentence.
+1822.41	1823.41	I don't know.
+1823.41	1826.41	I probably won't be able to write everything normally, because I understand you.
+1826.41	1827.41	I understand Czech.
+1827.41	1830.41	Therefore, I have a bias in any case.
+1830.41	1831.41	Yes.
+1831.41	1832.41	Okay.
+1832.41	1833.41	Okay.
+1833.41	1834.41	Thank you.
+1834.41	1835.41	That's all.
+1835.41	1840.47	Goodbye.

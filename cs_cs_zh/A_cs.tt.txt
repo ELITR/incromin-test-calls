@@ -1,0 +1,63 @@
+0.140000	5.880000	Ahoj, moment, prosím, já napíšu jeden mail a hned jsem tady.
+18.110000	25.920000	Tak už jsem tu, tak vítejte na shůřce, jsem rád, že jste se připojili, kolegové.
+25.920000	45.450000	A teď, co bychom měli probrat, co jste dělali, jo,
+46.970000	51.770000	chtěli jsme schrnovat, co jsme dělali po JS altu ohledně našeho projektu, že?
+51.770000	71.330000	Ok, tak kdo začne? Tak třeba já.
+96.610000	103.030000	Jo, tak včera jsem měl prezentaci pro celý náš ústav, bylo tam asi 50 lidí,
+103.030000	107.530000	všichni pozorně poslouchali, zatleskali, moc se jim to líbilo.
+112.860000	119.300000	A měl jsem tam dvě části, jednak jsem představil všem, co je to JS alt,
+121.520000	127.040000	protože mnozí z nich, většinou noví PhD studenti,
+127.460000	132.520000	asi nejspíš budou mít příležitost se přidat, tak aby s tím mohli počítat, aby věděli, co to je.
+134.480000	142.280000	A potom jsem, druhá část byla o překladu znakového jazyka z videa do angličtiny.
+147.850000	153.130000	A představil jsem teda naši architekturu, velký jazykový model.
+153.130000	161.130000	A řekl jsem, že je to interdisciplinární projekt a že tam jsou tři reprezentace,
+162.070000	169.390000	reprezentace jazyka, znakového jazyka a tak.
+170.090000	179.690000	A ohlasy na to byly, nebo řekl jsem taky, co jsou ty nejtěžší věci v překladu znakového jazyka.
+180.870000	188.470000	A to, že to je za prvý generování znakového jazyka, to je tak těžké, že to radši ani neděláme.
+188.470000	199.040000	A potom sparse representation.
+199.040000	205.660000	Tím myslím, zřídka, reprezentace, ani nevím, jak je to česky.
+206.680000	212.040000	Další věc, získání dat, autentických dat na překlad.
+212.880000	221.420000	A další věc je modelování tvarů ruk, handshake modeling.
+221.920000	223.020000	Taky nevím, jak je to česky.
+223.720000	231.520000	No a jeden ohlas na to byl kolega, který říkal, že v české televizi je hodně,
+231.540000	237.620000	hodně tlumočení do znakového jazyka a že ty data z české televizi se dají prej snad nepoužít.
+238.360000	244.780000	Ale pak, když se mu vysvětluje, jaká je ta situace, že to není ten směr, který potřebujeme,
+245.220000	257.350000	tak říkal, že no, tak musíme se spojit nejspíš s lidma z celdy a získat ty data nějak přes ně.
+257.350000	276.800000	Z ústavu znakového jazyka, z filozofické fakulty, který by nejspíš měli,
+276.800000	280.580000	byly kontakty na uživatelé znakového jazyka.
+300.280000	315.500000	Ano, zeptali se mě na další projekty na workshopu, takže jsem vyjmenoval ty tři ostatní projekty.
+321.020000	326.920000	A taky se mě zeptali, jak budeme pokračovat.
+326.920000	340.840000	Tak já jsem vzdělil, že budeme hledat příležitost, jak získat projekt, který by nám zaplatil další výzkum.
+375.300000	391.440000	Taky na tom semináři včera kolega mluvil o MT Marathonu v Praze, o Machine Translation Marathonu.
+426.250000	429.470000	__PERSON1__ chce vědět více o projektech, které jsem zmínil.
+429.470000	446.830000	Já jsem zmínil jenom náš projekt z workshopu v Baltimoreu.
+447.790000	459.130000	Taky ostatní projekty z workshopu.
+459.590000	474.080000	Rozumíš, __PERSON1__?
+474.560000	543.120000	Přesně tak, __PERSON1__.
+545.080000	550.020000	Který projekty tě zajímají? Ty z workshopu nebo nový projekty?
+612.790000	617.210000	Jo, tak já odpovím, protože rozumím otázce velmi dobře.
+617.210000	633.250000	Tak já teď jsem naplno zaměstnaný jiným projektem, a to ten Income In, a to je do konce měsíce.
+633.810000	643.640000	Potom budu dělat, nebo chtěl bych dělat to, co mě bude nejvíc bavit.
+644.320000	646.040000	A zatím je jako nejlepší.
+646.060000	657.320000	Zatím příležitost vidím simultánní překlad řeči, ale když mezi tím dostanu příležitost přidat se zase k našemu vedoucímu, tak se přidám.
+657.580000	665.060000	A zatím jsem dával najevo, že klidně pojedu na tu zimní školu, ale nechávám to na vedoucímu.
+674.080000	701.000000	Tak co ty, __PERSON1__? __PERSON1__, jsi tam ještě?
+701.500000	725.380000	Tak __PERSON1__ je odpovídal. __PERSON1__, __PERSON1__?
+731.420000	731.640000	Jo.
+731.640000	731.720000	Jo.
+732.820000	733.120000	Jo.
+734.780000	736.140000	Co teď? Půjdeme za ní, nebo?
+765.270000	766.310000	Tak já tam půjdu, jo.
+861.610000	862.650000	Takže, kde jsme byli?
+1222.000000	1222.240000	Jo.
+1645.980000	1646.260000	Jo.
+1647.640000	1649.500000	Jsem tu, jsem tu, slyšíte mě?
+1651.120000	1652.620000	Pardon, já jsem si napsal jeden.
+1661.940000	1670.160000	Asi bych rád, ale budu to zvažovat, jestli budu rád za to téma, který mi někdo nabídne.
+1700.410000	1703.410000	Rozumím otázce, __PERSON1__. Teď přemýšlím na odpovědí.
+1703.410000	1721.110000	Asi nejspíš si myslím, že ne, protože primárně hledám jiný příležitosti, kterým chci věnovat, ale nechávám si to ještě otevřený.
+1721.110000	1772.580000	Tak mám podaný projekt na postdoktorský výzkum v __PLACE__ a ten projekt je o quality estimation pro simultánní překlad řeči, takže čekám, jestli mě to přijmou, nebo ne.
+1772.580000	1780.140000	A když ne, tak zůstanu na úfalu a budu hledat další příležitosti a nejspíš tenhle projekt budu podávat znova.
+1784.610000	1790.810000	A ještě taky zvažuju výzkum s nějakýma firmama, s kterýma jednám.
+1891.930000	1893.710000	Teď posledních pět sekund.
+1896.100000	1903.260000	Tak děkuji za schůzku, děkuji za spolupráci, __PERSON1__ a __PERSON3__ a uvidíme se později.

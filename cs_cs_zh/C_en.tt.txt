@@ -1,0 +1,207 @@
+39.090000	41.090000	Thank you for joining this meeting.
+41.090000	284.180000	Okay.
+284.180000	354.350000	Does anyone have any interesting questions at the meeting?
+354.350000	393.780000	Can you introduce what more projects you have found?
+393.780000	398.450000	At yesterday's seminar,
+398.450000	404.890000	you said that you found more projects in the studio.
+404.890000	435.800000	I want to know what more projects you have found.
+435.800000	478.430000	Yes.
+478.430000	889.220000	So what you mentioned is the project we did in Baltimore.
+889.220000	890.220000	Yes.
+890.220000	894.220000	We are going to the Olympics in winter.
+894.220000	896.220000	But I'm not sure if I have time to go.
+896.220000	898.220000	If I can go,
+898.220000	901.220000	I may only stay there for a week.
+901.220000	908.220000	Then everyone can think of some new project ideas.
+908.220000	910.220000	Then do it.
+910.220000	911.220000	Yesterday,
+911.220000	914.220000	I went to Pearson.
+914.220000	918.220000	I met other members of our project.
+918.220000	920.220000	Then they discussed
+920.220000	930.680000	what direction we can continue this project.
+930.680000	933.680000	They are already using our
+933.680000	935.680000	SciLava model
+935.680000	937.680000	to do related projects.
+937.680000	939.680000	It's not about doing sign language.
+939.680000	942.680000	They have done, for example,
+942.680000	945.680000	some image recognition projects
+945.680000	947.680000	with other companies.
+947.680000	950.680000	For example,
+950.680000	952.680000	they have a company
+952.680000	954.680000	that wants to identify
+954.680000	956.680000	some very complex
+956.680000	960.680000	and precise images of devices.
+960.680000	962.680000	Then they ask
+962.680000	966.680000	some questions about the big model.
+966.680000	968.680000	How many holes are there
+968.680000	972.680000	on the blueprint of this machine?
+972.680000	973.680000	For example,
+973.680000	975.680000	where are they?
+975.680000	976.680000	Then this question
+976.680000	980.680000	is also related to the image and text.
+980.680000	983.680000	Then there is this kind of interaction.
+983.680000	986.680000	So our SciLava model
+986.680000	988.680000	can also be applied to
+988.680000	991.680000	their problem.
+991.680000	993.680000	Then our leader
+993.680000	995.680000	is the leader of this project.
+995.680000	997.680000	His idea is
+997.680000	1000.680000	to use the framework we already have
+1000.680000	1002.680000	and then use their data
+1002.680000	1005.680000	to continue training.
+1005.680000	1009.680000	Then we can get a better model.
+1009.680000	1013.680000	This is his hope.
+1013.680000	1014.680000	He hopes that
+1014.680000	1016.680000	we can apply this model
+1016.680000	1018.680000	not only to sign language,
+1018.680000	1022.680000	but also to other fields.
+1022.680000	1024.680000	This is one of the projects
+1024.680000	1026.680000	they are doing.
+1026.680000	1027.680000	We also have other
+1027.680000	1029.680000	more interesting projects.
+1029.680000	1031.680000	Then for our
+1031.680000	1033.680000	next work,
+1033.680000	1036.680000	he hasn't decided yet
+1036.680000	1038.680000	what we are going to do
+1038.680000	1040.680000	for next year's GSALT.
+1040.680000	1043.680000	He said that there is a 9% probability
+1043.680000	1045.680000	that we will continue to do
+1045.680000	1047.680000	sign language translation.
+1047.680000	1049.680000	Then next year,
+1049.680000	1051.680000	if we continue to do sign language translation,
+1051.680000	1054.680000	he will focus on
+1054.680000	1061.820000	connecting images
+1061.820000	1063.820000	and language
+1063.820000	1064.820000	to the
+1064.820000	1069.360000	two parts of the language,
+1069.360000	1071.360000	the middle part.
+1071.360000	1075.240000	Then,
+1075.240000	1078.240000	because what we are doing now,
+1078.240000	1081.240000	this sign language model,
+1081.240000	1084.240000	the image part
+1084.240000	1085.240000	and the language part
+1085.240000	1087.240000	are using different models.
+1087.240000	1088.240000	Then they are not,
+1088.240000	1095.340000	their embedding
+1095.340000	1099.340000	is not in the same space.
+1099.340000	1102.340000	So we have to align them.
+1102.340000	1105.340000	Then he already has some ideas
+1105.340000	1107.340000	on how to achieve this.
+1107.340000	1110.340000	Then he is thinking
+1110.340000	1112.340000	that we can do this next year.
+1112.340000	1116.340000	Then the other 91% probability
+1116.340000	1118.340000	we will do
+1118.340000	1119.340000	sign language translation,
+1119.340000	1121.340000	which is to turn from text
+1121.340000	1123.340000	into sign language.
+1123.340000	1124.340000	Then,
+1124.340000	1126.340000	but he doesn't have a very clear idea
+1126.340000	1128.340000	on how to do it.
+1128.340000	1154.750000	In GSALT,
+1154.750000	1155.750000	next year,
+1155.750000	1158.750000	we will continue to do sign language translation.
+1158.750000	1162.750000	But the model we made on GSALT,
+1162.750000	1164.750000	in their school,
+1164.750000	1166.750000	they also used other projects.
+1166.750000	1167.750000	But those projects
+1167.750000	1170.750000	are not in the field of GSALT next year.
+1170.750000	1173.750000	I just think those projects are very interesting.
+1173.750000	1176.750000	So I think I can mention it.
+1176.750000	1230.750000	Yes, yes, yes.
+1230.750000	1232.750000	They have some plans,
+1232.750000	1235.750000	but our leaders have not decided yet.
+1235.750000	1237.750000	Specifically,
+1237.750000	1240.750000	which direction to go.
+1240.750000	1242.750000	Then we,
+1242.750000	1244.750000	for next year's GSALT,
+1244.750000	1246.750000	it has a deadline,
+1246.750000	1250.750000	which is the deadline for submitting the project application.
+1250.750000	1252.750000	It's October.
+1252.750000	1254.750000	So there is still a month to decide.
+1254.750000	1257.750000	He said he would make the decision
+1257.750000	1260.750000	the day before the deadline.
+1260.750000	1268.450000	Then it is said that
+1268.450000	1270.450000	there will be a very strict
+1270.450000	1272.450000	number of people this time.
+1272.450000	1274.450000	There is a limit on the number of people.
+1274.450000	1282.290000	So he also has to make a good decision.
+1282.290000	1283.290000	That is,
+1283.290000	1286.290000	who can participate in next year's project.
+1286.290000	1324.500000	Do you mean the leader's goal?
+1324.500000	1337.830000	Or your goal?
+1337.830000	1339.830000	No, no.
+1339.830000	1341.830000	For him,
+1341.830000	1348.460000	GSALT and other companies' projects are separated.
+1348.460000	1350.460000	GSALT has the goal of GSALT.
+1350.460000	1351.460000	And the company has
+1351.460000	1354.460000	the goal of other companies' projects.
+1354.460000	1361.260000	For us,
+1361.260000	1362.260000	GSALT,
+1362.260000	1364.260000	for us and him,
+1364.260000	1366.260000	GSALT is our main goal.
+1366.260000	1446.820000	I also feel sorry
+1446.820000	1449.820000	because next time I'm going to work,
+1449.820000	1450.820000	maybe
+1450.820000	1452.820000	there is no way to participate in next year's GSALT.
+1452.820000	1455.820000	But I really want to continue to do sign language.
+1455.820000	1457.820000	I don't know if I have a chance
+1457.820000	1459.820000	to do sign language in the company.
+1459.820000	1464.020000	And next year,
+1464.020000	1466.020000	they may have to do
+1466.020000	1467.020000	sign language production.
+1467.020000	1472.020000	I have never worked in that field.
+1472.020000	1474.020000	I also want to try that field.
+1474.020000	1476.020000	But I think it's a pity
+1476.020000	1477.020000	because I have a high probability
+1477.020000	1505.160000	that I can't participate in next year's GSALT.
+1505.160000	1507.160000	When I was a doctor,
+1507.160000	1509.160000	I did it in two directions.
+1509.160000	1512.160000	One is machine translation,
+1512.160000	1572.870000	and the other is the identification and translation of sign language.
+1572.870000	1573.870000	Yes,
+1573.870000	1575.870000	when I was a doctor,
+1575.870000	1576.870000	I did it in two directions.
+1576.870000	1579.870000	But about 60% of my work
+1579.870000	1582.870000	is in machine translation
+1582.870000	1586.870000	and the automatic selection of super parameters.
+1586.870000	1587.870000	Then,
+1587.870000	1591.870000	maybe 40% of my work is in sign language.
+1591.870000	1594.870000	If I choose to do sign language
+1594.870000	1596.870000	in my doctoral thesis,
+1596.870000	1600.870000	I may have to graduate in one more year.
+1600.870000	1601.870000	And I want to graduate earlier.
+1601.870000	1602.870000	So I chose
+1602.870000	1605.870000	the topic of machine translation
+1605.870000	1607.870000	as my doctoral thesis.
+1607.870000	1609.870000	But I think
+1609.870000	1611.870000	what I really like the most
+1611.870000	1612.870000	and what I want to do the most
+1612.870000	1631.000000	is sign language.
+1631.000000	1633.000000	I want to ask Dominic
+1633.000000	1653.500000	if he will participate in GSALT next year.
+1653.500000	1655.500000	__PERSON2__,
+1655.500000	1656.500000	__PERSON2__,
+1656.500000	1658.500000	will you participate in GSALT next year?
+1658.500000	1696.630000	Will you continue to do sign language?
+1696.630000	1699.630000	Will you want to continue to do sign language research?
+1699.630000	1830.660000	I am working in __ORGANIZATION__.
+1830.660000	1837.120000	I have both research and engineering work.
+1837.120000	1840.120000	About 50% or 50%.
+1840.120000	1841.120000	But,
+1841.120000	1845.120000	because the most important thing for them is the product,
+1845.120000	1848.120000	so the most important thing for them is engineering.
+1848.120000	1849.120000	But for me,
+1849.120000	1852.120000	I really want to continue to do research.
+1852.120000	1854.120000	But they won't look at
+1854.120000	1857.120000	how many articles you have published.
+1857.120000	1859.120000	It won't be like
+1859.120000	1862.120000	the doctor asks you.
+1863.120000	1865.120000	What they see at the end is
+1865.120000	1868.120000	how much you have contributed
+1868.120000	1870.120000	to the product.
+1870.120000	1874.850000	But I still want to continue
+1874.850000	1877.850000	to do research for a little more time.
+1877.850000	1879.850000	They will also give me
+1879.850000	1909.940000	the opportunity to do research.
+1909.940000	1912.940000	Thank you, __PERSON2__ and __PERSON3__.
+1912.940000	1914.940000	Goodbye.

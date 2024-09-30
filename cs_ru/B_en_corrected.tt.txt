@@ -1,0 +1,330 @@
+2.732000	6.732000	Thank you very much.
+6.732000	10.732000	I will hear what you say, but
+10.732000	14.732000	you should speak only in your native language. You understand Czech when I speak, don't you?
+14.732000	18.732000	Yeah. So that makes it a bit of a distorted situation.
+18.732000	22.732000	But it does not matter. At least you'll talk
+22.732000	29.702000	in your native language.
+29.702000	33.702000	So I learned Russian for a few years, so
+33.702000	37.702000	some basic words I picked up, but
+37.702000	41.702000	not many left. You can see that
+41.702000	45.702000	it recognized you correctly, if you are also looking at the transcript.
+45.702000	49.702000	And that's good. And it will even be
+49.702000	53.702000	then do automatic summarization. That'll be in the right window.
+53.702000	57.702000	So when we
+57.702000	61.702000	something will not like, and we will have the capacity on it, but in two people it is difficult,
+61.702000	65.702000	so we can correct some of the transcripts.
+65.702000	69.702000	Or we can fix some of those
+69.702000	73.702000	notes. So if you just see,
+73.702000	77.702000	that it doesn't matter, so it's different.
+77.702000	81.702000	And if there were three of us, someone third could listen to us,
+81.702000	85.702000	and because he doesn't speak, he would easily correct it. The editor is like shared.
+85.702000	89.702000	Anyone can write anything there. And others will see the changes too.
+89.702000	93.702000	So once we start using some terms,
+93.702000	97.702000	then, of course, the ASR-ko will be struggling.
+97.702000	105.702000	And at that point, we could be live correcting it. And then it translates itself into that summary.
+105.702000	109.702000	So, we have half an hour in total. Let's try to begin,
+109.702000	113.702000	that you would introduce what you're doing as a project.
+113.702000	117.702000	And in Russian, of course, you'll probably be referring to the terminology yourself.
+117.702000	121.702000	But that's okay, that's in the exercise.
+121.702000	125.702000	And then describe to me,
+125.702000	129.702000	what we need to decide right now.
+129.702000	133.702000	And let's try to do a bilingual consultation.
+133.702000	137.702000	And I'll watch the English transcription and listen to the Russian.
+137.702000	310.502000	Well, that'll be fun.
+310.502000	314.502000	And which libraries have you tried? What have you tried?
+314.502000	346.572000	What works for __PERSON2__ and what doesn't work for you?
+366.572000	367.592000	Yes, exactly.
+367.592000	370.132000	You need to use the cards more definitely.
+468.132000	470.532000	Well, I've always used the basic toolkit.
+470.532000	474.532000	And the basic toolkit for you is PyTorch, isn't it?
+474.532000	478.532000	So, it's the majority in PyTorch.
+478.532000	486.412000	And these libraries are above PyTorch. Right?
+486.412000	490.412000	Couldn't you use PyTorch's
+490.412000	494.412000	as the division into more GPUs?
+494.412000	498.412000	I wouldn't try to use more nodes. I wouldn't try to train on more computers at the same time.
+498.412000	502.412000	I'd just try to train on more graphics cards at the same time.
+502.412000	506.412000	Which is much easier.
+506.412000	510.412000	And then I think PyTorch has something like that right away.
+510.412000	514.412000	I used to work at TensorFlow, but that's where it was with GPUs.
+514.412000	518.412000	And it wrote a few of them, and it worked on its own at that point.
+518.412000	522.412000	So I don't really know what the meaning of the library is.
+522.412000	539.622000	But that's what brings extra functionality.
+539.622000	541.092000	If you really need it.
+616.092000	618.862000	I see.
+698.862000	699.012000	Yeah.
+844.012000	862.952000	So you would have to reimplement this,
+862.952000	866.952000	when you stop using any
+866.952000	870.952000	from those libraries.
+870.952000	872.952000	No, you're not saying that.
+872.952000	874.952000	But you already have a complicated setup.
+874.952000	876.952000	And I understand the example from the dialog systems,
+876.952000	878.952000	where you all semester tried
+878.952000	880.952000	as to render something relatively simple.
+880.952000	882.952000	Here we definitely care about the result.
+882.952000	884.952000	So trained some module.
+884.952000	890.952000	Or a finished module for English, Russian.
+890.952000	892.952000	So I agree with your procedure,
+892.952000	896.952000	that it is probably stupid to do it your way in PyTorch.
+896.952000	898.952000	But given how much time you have,
+898.952000	900.952000	considering how much time you've spent now
+900.952000	902.952000	to break up those libraries,
+902.952000	904.952000	so I would also add there at the same time
+904.952000	906.952000	simply time limitation.
+906.952000	908.952000	When you can't train
+908.952000	910.952000	on multiple GPUs
+910.952000	912.952000	still within, I don't know, a week,
+912.952000	914.952000	or something like that,
+914.952000	916.952000	so put it off
+916.952000	918.952000	and proceed as __PERSON2__.
+918.952000	920.952000	This means on one card.
+920.952000	922.952000	And yes, it will take longer,
+922.952000	924.952000	but simply __PERSON2__ has a well-trodden path
+924.952000	926.952000	and finishing works for him.
+926.952000	928.952000	And also, when you are reminded,
+928.952000	930.952000	let us see how the
+930.952000	932.952000	quality of translation we achieve
+932.952000	934.952000	even with this limited time.
+934.952000	936.952000	It has that advantage again, doesn't it?
+936.952000	938.952000	one card on that cluster
+938.952000	940.952000	you get quite easily.
+940.952000	942.952000	That means that you can,
+942.952000	944.952000	what we already solved years ago,
+944.952000	946.952000	when you just do
+946.952000	948.952000	more complex experiment,
+948.952000	950.952000	when you want to try more variants of configurations,
+950.952000	952.952000	so you have one option,
+952.952000	954.952000	either let it out on many cards
+954.952000	956.952000	and quickly scan one configuration
+956.952000	958.952000	and then examine the next configuration.
+958.952000	960.952000	And do it like this as a sequence.
+960.952000	962.952000	Or, if you can't parallelize,
+962.952000	964.952000	so you can
+964.952000	966.952000	just those configurations
+966.952000	968.952000	run concurrently.
+968.952000	970.952000	And actually it makes no difference.
+970.952000	972.952000	In the final effect you explore anyway
+972.952000	974.952000	10 configurations on 10 cards,
+974.952000	976.952000	but it happens concurrently
+976.952000	978.952000	not in a row.
+978.952000	980.952000	And you don't need the card parallelization.
+980.952000	982.952000	That is, give it another moment,
+982.952000	984.952000	but not for much longer.
+984.952000	986.952000	If it just doesn't work,
+986.952000	988.952000	so never mind,
+988.952000	990.952000	make at least wider
+990.952000	992.952000	examining these variants.
+992.952000	994.952000	This means that
+994.952000	996.952000	as we discussed, just for the simplicity
+996.952000	998.952000	you should
+998.952000	1000.952000	stay mainly with the data experiment.
+1000.952000	1002.952000	That means, let go one run,
+1002.952000	1004.952000	that will use the Russian data
+1004.952000	1006.952000	for finishing.
+1006.952000	1008.952000	Second run, which will use Czech data
+1008.952000	1010.952000	for finishing and then
+1010.952000	1012.952000	the Russian one.
+1012.952000	1014.952000	The third run he makes
+1014.952000	1016.952000	Czech and then
+1016.952000	1018.952000	Russian-Czech together.
+1018.952000	1020.952000	Or Russian-Czech together and then only Russian.
+1020.952000	1022.952000	Just a few
+1022.952000	1024.952000	data configurations.
+1069.952000	1071.592000	Yes, exactly.
+1162.102000	1164.102000	I understand.
+1285.162000	1287.162000	Excellent questions.
+1287.162000	1289.162000	Good that you deal with it.
+1291.162000	1293.162000	This is exactly according to me
+1293.162000	1295.162000	part of those experiments.
+1295.162000	1297.162000	I think that would be
+1297.162000	1299.162000	just had to try,
+1299.162000	1301.162000	how much worse will be the quality of the translation,
+1301.162000	1303.162000	if we translate it by sentences
+1303.162000	1305.162000	and subsequently only
+1305.162000	1307.162000	join to one paragraph.
+1307.162000	1309.162000	Or if we use the context,
+1309.162000	1311.162000	as suggested by __PERSON2__, that he will see it
+1311.162000	1313.162000	previous sentences and one will be added.
+1313.162000	1315.162000	Or if you only connect the sentences
+1315.162000	1317.162000	and you just will be the whole paragraph
+1317.162000	1319.162000	pass as one sentence.
+1319.162000	1321.162000	This procedure is the easiest
+1321.162000	1323.162000	and I think it will be
+1323.162000	1325.162000	as the most effective.
+1325.162000	1327.162000	You can even
+1327.162000	1329.162000	have another variant,
+1329.162000	1331.162000	that you try again
+1331.162000	1333.162000	previous paragraph
+1333.162000	1335.162000	put as context
+1335.162000	1337.162000	and translate the whole current paragraph.
+1339.162000	1341.162000	So it will be such a scrolling window
+1341.162000	1343.162000	basically, but at the level of paragraphs.
+1343.162000	1345.162000	And I think all this
+1345.162000	1347.162000	simply have to be experimented with
+1347.162000	1349.162000	and for that you need
+1349.162000	1351.162000	well
+1351.162000	1353.162000	I think,
+1353.162000	1355.162000	that we are as in a funny situation by
+1355.162000	1357.162000	that we establish some LLM,
+1357.162000	1359.162000	which itself works simply with longer texts.
+1359.162000	1361.162000	I am before
+1361.162000	1363.162000	worked with translation models
+1363.162000	1365.162000	and they could normally only do as one sentence
+1365.162000	1367.162000	to one sentence and then to
+1367.162000	1369.162000	when it got bigger I want two sentences to two sentences,
+1369.162000	1371.162000	so the model just again
+1371.162000	1373.162000	always as he did two sentences, I never let him go
+1373.162000	1375.162000	in a different way. So here at once
+1375.162000	1377.162000	opens the possibility for you
+1377.162000	1379.162000	to train the model
+1379.162000	1381.162000	or finish training
+1381.162000	1383.162000	English, Russian after isolated sentences,
+1383.162000	1385.162000	but then him without preparation
+1385.162000	1387.162000	give straight whole paragraphs.
+1387.162000	1389.162000	And the model can probably do it,
+1389.162000	1391.162000	because he has done such a thing before
+1391.162000	1393.162000	before,
+1393.162000	1399.612000	when as
+1399.612000	1401.612000	as
+1401.612000	1403.612000	language modeling.
+1403.612000	1405.612000	So
+1405.612000	1407.612000	it's just part of the experiments
+1407.612000	1409.612000	and it just multiplies
+1409.612000	1411.612000	the set of options that is needed
+1411.612000	1413.612000	as
+1413.612000	1415.612000	for the researcher.
+1415.612000	1417.612000	So one thing is
+1417.612000	1419.612000	to deal with that multilingualism,
+1419.612000	1421.612000	that we simply want to use Czech data
+1421.612000	1423.612000	for Russian enhancement
+1423.612000	1425.612000	and the second completely independent axis is
+1425.612000	1427.612000	how much context to put there
+1427.612000	1429.612000	at the time of training
+1429.612000	1431.612000	versus
+1431.612000	1433.612000	or finishing I should say
+1433.612000	1435.612000	versus at the time
+1435.612000	1437.612000	just running the model.
+1437.612000	1439.612000	Chili
+1439.612000	1441.612000	already because
+1441.612000	1443.612000	that here we have as many possibilities,
+1443.612000	1445.612000	what we would like to try,
+1445.612000	1447.612000	bych
+1447.612000	1449.612000	just started as soon as possible
+1449.612000	1451.612000	with some baselins.
+1451.612000	1453.612000	Sentence to sentence just to finish
+1453.612000	1455.612000	for English, Russian.
+1455.612000	1457.612000	Subsequently the whole paragraph to the whole paragraph
+1457.612000	1459.612000	only with English,
+1459.612000	1461.612000	Russian
+1461.612000	1463.612000	and then throw in those things with Czech.
+1463.612000	1465.612000	Then add the more complicated.
+1465.612000	1467.612000	I would proceed simply
+1467.612000	1469.612000	from options that are
+1469.612000	1471.612000	programming as the most free
+1471.612000	1473.612000	and
+1473.612000	1475.612000	already give interesting results.
+1475.612000	1477.612000	Results we need
+1477.612000	1479.612000	for decision.
+1479.612000	1481.612000	To the possibilities, which are increasingly complex
+1481.612000	1483.612000	and more complex programmatically.
+1483.612000	1485.612000	And at the time you deal with
+1485.612000	1487.612000	those programmatically more complex things,
+1487.612000	1489.612000	which is just the transmission
+1489.612000	1491.612000	of the two preceding things as context
+1491.612000	1493.612000	and a new one, that's already some
+1493.612000	1495.612000	programmer's little thing there, right?
+1495.612000	1497.612000	But you have to tune it for a while.
+1497.612000	1499.612000	So at the time you're programming this,
+1499.612000	1501.612000	so by then they should be running
+1501.612000	1503.612000	those baselins,
+1503.612000	1505.612000	that you have as soon as possible
+1505.612000	1507.612000	some outputs.
+1507.612000	1509.612000	Like this I like
+1509.612000	1511.612000	developed the wave in more directions.
+1511.612000	1513.612000	From the fastest programmers
+1513.612000	1523.092000	steps.
+1536.092000	1537.802000	Yes,
+1537.802000	1539.802000	I agree, the constraint track.
+1556.802000	1557.612000	Yes.
+1562.072000	1569.612000	Well, no, no.
+1569.612000	1571.612000	Because
+1571.612000	1573.612000	Russian probably not at all in the European Parliament
+1573.612000	1575.612000	is not. Because he may be
+1575.612000	1577.612000	official language of some
+1577.612000	1579.612000	Balkan republics too.
+1579.612000	1581.612000	Except their languages.
+1581.612000	1583.612000	Isn't it? I think Russian maybe
+1583.612000	1585.612000	is not, okay? As a second
+1585.612000	1590.842000	the official language.
+1610.842000	1612.812000	I see.
+1620.812000	1621.112000	They are not there.
+1629.752000	1631.752000	Yes, probably take, no.
+1631.752000	1633.752000	It's like stupid, but probably do it like this, no.
+1635.752000	1637.752000	It is again a baseline solution.
+1637.752000	1639.752000	Be sure to run an experiment with him.
+1639.752000	1641.752000	And then we can try, I'm here
+1641.752000	1643.752000	I can like to ask, but I never
+1643.752000	1645.752000	segmentation to paragraphs
+1645.752000	1647.752000	based on the content as not solved.
+1647.752000	1649.752000	I know that one student did it here,
+1649.752000	1651.752000	but I don't know if he has anything. He tried
+1651.752000	1653.752000	automatically disaggregate text
+1653.752000	1655.752000	from Wikipedia. That as
+1655.752000	1657.752000	you take the main text from Wikipedia
+1657.752000	1659.752000	and it basically has to determine where
+1659.752000	1661.752000	are the boundaries of the individual sections.
+1661.752000	1663.752000	So this could
+1663.752000	1665.752000	if the tool is finished,
+1665.752000	1667.752000	so we could try to let it go.
+1667.752000	1669.752000	And divide like this
+1669.752000	1671.752000	those news comments, so that we have,
+1671.752000	1673.752000	paragraph boundaries and in that case you would
+1673.752000	1675.752000	you stick to those boundaries paragraphs.
+1675.752000	1677.752000	But
+1677.752000	1679.752000	as baseline certainly
+1679.752000	1681.752000	take it in ten sentences and don't worry about it.
+1681.752000	1682.372000	Well, nothing can be done.
+1739.372000	1740.342000	Mhm. Yeah.
+1740.342000	1742.342000	Now I do not know if I am a hundred percent
+1742.342000	1744.342000	understood this, if __PERSON2__'s
+1744.342000	1746.342000	setup is limited and cannot
+1746.342000	1748.342000	2048
+1748.342000	1750.342000	tokens handle.
+1762.342000	1763.832000	Mhm, is slow.
+1763.832000	1765.832000	Yeah.
+1765.832000	1767.832000	Yeah.
+1767.832000	1769.832000	Well, there.
+1769.832000	1771.832000	I would proceed so that
+1771.832000	1773.832000	first you will be
+1773.832000	1775.832000	fine tune-ovat in those sentences
+1775.832000	1777.832000	and then you try to use it
+1777.832000	1779.832000	on paragraphs.
+1779.832000	1781.832000	And this same model you will still be in the next
+1781.832000	1783.832000	phase to finish training
+1783.832000	1785.832000	already slow, but on whole paragraphs
+1785.832000	1787.832000	and you try this difference.
+1787.832000	1789.832000	Yeah. So that's how I would proceed.
+1789.832000	1791.832000	Unfortunately we ran out of time.
+1791.832000	1793.832000	I would now need to terminate
+1793.832000	1795.832000	that call.
+1795.832000	1797.832000	But surprisingly it was
+1797.832000	1799.832000	understandable and applicable.
+1799.832000	1801.832000	I still prepare maybe some questionnaire.
+1801.832000	1803.832000	I would send as how to you
+1803.832000	1805.832000	it seemed. So try if you have any
+1805.832000	1807.832000	as experience from this call,
+1807.832000	1809.832000	just try to write them down on paper now.
+1809.832000	1811.832000	Simply, if it was usable
+1811.832000	1813.832000	lead the conversation in bilingual way
+1813.832000	1815.832000	and what you can think of.
+1815.832000	1817.832000	Only in 3 minutes just a few
+1817.832000	1819.832000	notes and see if any of it
+1819.832000	1821.852000	we get.
+1826.852000	1828.852000	It's clear. Well, yes.
+1828.852000	1830.852000	That's clear.
+1830.852000	1832.852000	But I also understand almost.
+1832.852000	1834.852000	So I also reacted to the Russian.
+1834.852000	1836.852000	Thank you very much for trying
+1836.852000	1838.852000	and I go to try another,
+1838.852000	1840.852000	as it will be next. Thank you.
+1840.852000	1842.852000	Thank you.
+1842.852000	1844.852000	Goodbye.

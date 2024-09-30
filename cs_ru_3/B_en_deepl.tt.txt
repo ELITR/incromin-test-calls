@@ -1,0 +1,188 @@
+13.1	34.08	Okay. Hello, can you hear me? Can I hear you? OK.
+34.08	58.91	Were we gonna talk about the recap or something?
+58.91	104.06	Yeah, I'm already seeing translations into English.
+104.06	111.06	So I was quite interested in this topic because I've been working with LLM-cams somehow
+111.06	116.06	and it seemed like it could be a pretty straightforward follow-up to what I was doing,
+116.06	124.06	but realistically I'm spending more time on the ancient language translation now, which is, like, Akkadian.
+162.01	166.01	I wouldn't say I have much experience with LLMs,
+166.01	175.01	but I have used Mistral for WMT24 translation.
+175.01	179.01	I haven't used them much on other cues,
+179.01	184.01	and that's why I'm a little hesitant about, like, how to properly evaluate the summarization and stuff like that.
+184.01	226.57	I guess I didn't quite understand the question now, like what exactly which model I'm using,
+226.57	246.11	or what I want to use in the future?
+246.11	249.11	Like I haven't implemented the summarization itself yet,
+249.11	255.58	I've actually been working on the other project, and I haven't really looked at that,
+255.58	257.58	but I'm considering...
+257.58	263.58	I was just looking for some scientific papers that would be straightforward to use,
+263.58	270.58	and I was wondering if I could implement that basic transition from BERT to LLM,
+270.58	275.58	and then maybe over time figure out how to get the best results out of that.
+275.58	302.25	I guess you could say that.
+302.25	310.63	Like I'm more interested in translation than summarization at the moment.
+310.63	316.63	But it felt more like...
+316.63	318.63	I'm like able to somehow already...
+318.63	322.63	Or I know the technologies that are used to deploy LLMs by having used it,
+322.63	323.63	for the translation.
+323.63	326.63	So I felt like I would be able to implement that in that project,
+326.63	331.63	and maybe set up a job for someone who's interested.
+331.63	335.63	More like...
+335.63	381.22	Pick the best model, train it for like summarization and stuff like that.
+381.22	410.41	I don't know what you mean by assignment right now.
+410.41	466.45	Well, it was more a question that I don't understand what you're asking me.
+466.45	467.45	I still don't know.
+467.45	517.8	What's the actual question.
+517.8	523.8	Well, my idea was that he was going to get part of the transcript,
+523.8	529.8	some segment, and it would generate a short summary,
+529.8	568.98	but of course there's the problem of updating it to newer values.
+568.98	571.98	Well I didn't mention it, but I agree.
+571.98	574.98	I think he gets the previous part of that summarized text,
+574.98	579.98	and part of the new transcript, which is not summarized.
+579.98	619.05	No, at the beginning it will only work with the original transcript of the dialog,
+619.05	626.05	but once there's a summary,
+626.05	630.05	it'll see what the model actually did before.
+630.05	669.37	Well, I don't know enough about that.
+669.37	671.37	I've only dealt with the technical side so far,
+671.37	675.37	how to sort of replace the older BERT with the LLMs,
+675.37	680.37	but I haven't thought about how to change the architecture from the way it's behaving now.
+680.37	684.37	Because if we look at the output of the current summarization,
+684.37	691.37	it's doing the summation a lot more often than I thought it would.
+691.37	713.85	So I think that was partly the assignment from Bojar, that they actually don't like it,
+713.85	716.85	that they don't really believe that BERT has improved much.
+717.85	720.85	And that they would like to use some LLMs for that.
+720.85	744.23	I'm not even that hesitant about it.
+744.23	751.23	My plan was to do a temporary fork of the code,
+751.23	755.23	try to add the LLM support, and then see if that helps anything.
+755.23	763.23	But it's possible that the real problem is more with how much text to actually add to the summarization.
+763.23	768.23	So maybe it needs more changes to make it work better.
+768.23	780.37	I think it's also a question of who the summarization is for.
+780.37	785.37	It's supposed to serve the person that's going to be reading it during that conversation,
+785.37	788.37	or just update it once in a while,
+788.37	792.37	to make it as accurate as possible as a summary of all the ideas that people have talked about.
+792.37	796.37	Because if I look at the summary of what he's doing now,
+796.37	800.37	I think he's actually trying to list something too often,
+800.37	804.37	but it's not really saying much.
+805.37	840.5	And what does one want to summarize in one sentence?
+840.5	845.5	So I think you could... In general, one could use some abstraction,
+845.5	853.5	that uses something like the OpenAI API.
+853.5	862.5	And a bunch of models support the same query server.
+862.5	865.5	So the model could be changed like...
+865.5	869.5	The model itself could be changed as just changing its name,
+869.5	877.5	but it's more like getting... Or I guess I'm more concerned with how to add that support to the project,
+877.5	883.5	so it's not too much work to maintain it in the future.
+883.5	936.58	So I wasn't really planning on training my own model,
+936.58	940.58	I was planning on using some pre-trained Llama,
+940.58	943.58	that someone had already prepared for this purpose.
+943.58	944.58	That's why I was just looking for...
+945.58	948.58	some papers where people could evaluate it.
+948.58	952.58	Because, like I said, I'm not...
+952.58	955.58	The summarization task as such, to me, is...
+955.58	957.58	Or I don't find it that interesting at the moment,
+957.58	960.58	and it also seems to me that by working on the other project,
+960.58	964.58	I wouldn't have time to, like, train several models,
+964.58	971.58	so that's kind of what I was thinking on the side to come in and support the general
+971.58	974.58	some existing models with the idea that someone would come along eventually.
+975.58	981.58	And then would collect that data and try to pick either as a model,
+981.58	986.58	that will have the best performance or at least be cheaper to run.
+986.58	994.58	But I think to start with some Llama retrained for general like probably instructions
+994.58	996.58	and assists might not be so bad.
+996.58	1006.46	I feel like doesn't really understand the model at the moment,
+1006.46	1028.72	so I don't know if we'll get along.
+1028.72	1030.72	I agree.
+1030.72	1073.84	My idea was this,
+1073.84	1077.84	I'm not gonna do the fine tuning or the retraining right now.
+1077.84	1079.84	I'll just throw something in there first that already exists,
+1079.84	1082.84	with some sort of reasonable-looking prompt
+1082.84	1086.84	and then over time, when we have some working as simple,
+1086.84	1089.84	even if maybe not with good implementation results,
+1089.84	1095.84	then we would start working on trying to pick a better model,
+1095.84	1102.84	or if we already have enough data, we could try to retrain it somehow.
+1103.84	1127.82	Are you actually planning on working on this project too, or where are you at?
+1127.82	1132.82	Yeah, I was wondering if you're involved in this, the summarization,
+1132.82	1185.19	or if you're just interested.
+1185.19	1188.19	And how would that multimodality help the translation?
+1188.19	1192.19	Is there like a lot of contextual information in there, or?
+1192.19	1197.19	Because I've always felt like people pretend like I have text,
+1197.19	1200.19	add a picture to it and that somehow that helps,
+1200.19	1202.19	but I haven't really seen a lot of like examples,
+1202.19	1281.22	for real use.
+1281.22	1287.34	And then I understand.
+1287.34	1289.34	That sounds pretty interesting.
+1289.34	1295.34	The question is whether it's easy to actually make the image
+1295.34	1298.34	to prevent those bad examples,
+1298.34	1301.34	because, well, you probably have more experience with that than I do.
+1328.54	1332.54	At least we can see that in practical examples
+1332.54	1336.54	the AI still can't be fully trusted.
+1336.54	1394.56	With the summarization or the ancient languages?
+1394.56	1399.56	Yeah, I do actually, I primarily do the ancient languages,
+1399.56	1405.56	which is Akkadian in that case, and the other language was, I think, Sumerian.
+1405.56	1409.56	And I'm just trying to use some multimodal model,
+1409.56	1415.56	that would translate directly from image data or rendered text,
+1415.56	1419.56	instead of using the text itself as input.
+1420.56	1424.56	Because you...
+1424.56	1429.56	Because the cuneiform has some problems with it,
+1429.56	1434.56	when it's transcribed into some sort of phonetic form,
+1434.56	1469.89	because it's ambiguous in some ways.
+1471.89	1475.89	It's more just a little project within the marathon.
+1475.89	1480.89	I don't see any great use for it, but I thought it was interesting to try,
+1481.89	1483.89	training those multimodal models,
+1483.89	1487.89	because I've only used pure text models before.
+1487.89	1492.89	And at the same time, I think it's kind of interesting, except that we're bumping into a little bit,
+1492.89	1497.89	that we have relatively little training data for these languages.
+1497.89	1503.89	We've run into the fact that we find that the evaluation data is too similar to the training data,
+1503.89	1508.89	so for some like preliminary results, not yet with the visual model,
+1508.89	1511.89	but even with like a classic machine...
+1511.89	1516.89	not classical, well, just MarianMT translation,
+1516.89	1518.89	we were getting suspiciously good scores,
+1518.89	1521.89	so now we're doing a little more data mining,
+1521.89	1525.89	but I don't see any like practical use for it though,
+1525.89	1528.89	so I think it's kind of an interesting mini project,
+1528.89	1529.89	but it's definitely...
+1529.89	1532.89	I guess you could say it's less useful than the summarization,
+1532.89	1546.56	it just kind of got me wondering now that I've spent the last two days digging into it.
+1546.56	1550.56	Well, the summarization is certainly like a..,
+1550.56	1553.56	more useful to normal people,
+1553.56	1558.94	but here again, this is like some new technology,
+1558.94	1559.94	that I can touch,
+1559.94	1628.54	so that's why I chose the ancient languages.
+1628.54	1631.54	It's true, but then again, you always wonder,
+1631.54	1634.54	it's a pity that language, that nobody speaks it,
+1634.54	1638.54	but I wouldn't want to speak the language myself,
+1638.54	1640.54	which fewer people speak than English,
+1640.54	1644.54	because it complicates communication,
+1644.54	1646.54	you have to learn English first,
+1646.54	1648.54	in order to communicate at all,
+1648.54	1651.54	and if I spoke some kind of low-resource language,
+1651.54	1654.54	we're probably not talking today,
+1654.54	1657.54	because Whisper couldn't handle it.
+1657.54	1673.34	I was wondering...
+1673.34	1696.9	Excuse me?
+1696.9	1697.9	Oh, I see.
+1697.9	1701.9	Going back to the multimodal models,
+1701.9	1705.9	which you said you had some experience with,
+1705.9	1707.9	you have some specific examples,
+1707.9	1709.9	like have you played with that...
+1709.9	1711.9	what's it called...
+1712.9	1713.9	LlamaV?
+1713.9	1761.26	Oh, I must have misunderstood the previous example,
+1761.26	1764.26	I thought you were just doing the multimodal models,
+1764.26	1768.82	but... Thank you.
+1768.82	1840.27	Now you're talking about the summarized output,
+1840.27	1844.27	because if I look to the right at the current summation,
+1844.27	1847.27	I think it's about a third in Czech,
+1847.27	1850.27	occasionally there's a random Vietnamese or something,
+1850.27	1853.27	occasionally Spanish pops up,
+1853.27	1856.27	English pops up occasionally,
+1856.27	1897.21	oh, I also see completely random topics,
+1897.21	1900.21	I also see something like
+1900.21	1903.21	"there's no such thing as a cure for cancer",
+1903.21	1921.38	which is a topic we haven't discussed at all.
+1921.38	1925.38	Like we definitely agree that this tool needs a lot of work,
+1925.38	1928.38	before it's reliable.
+1928.38	1950.87	Anything else you can think of that we'd like to talk about?
+1950.87	1964.78	Or should we call it quits?
+1966.78	1971.78	I'd say approximately yes, because it says 35-36
+1971.78	1977.78	and we started when we managed to invite the artificial user,
+1977.78	1981.78	listening to us.
+1981.78	1984.78	So I think we should be done.
+1984.78	2006.85	I guess I'll stop here?
+2006.85	2009.85	Well, thank you, I enjoyed talking to you.
+2009.85	2015.25	Maybe we've established that English is still useful.

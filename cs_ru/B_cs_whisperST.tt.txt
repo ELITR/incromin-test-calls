@@ -1,0 +1,269 @@
+2.8	8.8	1, 2, 3, 1, 2, 3, we'll see if it does something.
+8.8	42.95	So here it is 1, 2, 3, 1, 2, 3, 1, 2, 3, great.
+42.95	62.54	Does it recognize it? Yes it recognizes it. Excellent.
+62.54	65.54	Please, connect here.
+65.54	84.48	And I'll send the second link, and it's here.
+84.48	107.65	So we'll see when the data is released, if it will work for us.
+107.65	133.12	Ah, great, that someone would be released. Yes.
+133.12	137.78	So.
+137.78	140.78	Thank you very much.
+140.78	144.78	I can hear what you say,
+144.78	148.78	but you should only speak your mother tongue.
+148.78	151.78	Do you understand Czech when I speak it or not?
+151.78	156.78	Yes. It's a bit of a crossed situation, but that's okay.
+156.78	164.75	At least you'll speak your mother tongue.
+164.75	169.75	I've been learning Russian for a few years,
+169.75	175.75	so I've grasped the basic vocabulary, but there's not much left.
+175.75	178.75	It's clear that it recognized you correctly,
+178.75	181.75	if you also look at the recipe.
+181.75	184.75	And that's good.
+184.75	188.75	And it will even do the automatic summarization,
+188.75	190.75	it will be in the right window.
+190.75	194.75	So if we don't like something,
+194.75	196.75	and we'll have the capacity to do so,
+196.75	198.75	but it's difficult for two people,
+198.75	201.75	we can correct some of the recipes,
+201.75	206.75	or we can correct some of the notes.
+206.75	210.75	So when you see, if we were three here,
+210.75	213.75	someone else could listen to us,
+213.75	215.75	and because they don't speak at the moment,
+215.75	217.75	it would be easy to correct it.
+217.75	220.75	The editor is shared, anyone can write anything there,
+220.75	222.75	and see the other changes.
+222.75	225.75	So if we don't start using some terms,
+225.75	228.75	the ESR will be in the game at that moment,
+228.75	232.75	and at that moment we could correct it live,
+232.75	235.75	and then it will automatically go into the summary.
+235.75	239.75	So I would maybe, we have the whole picture,
+239.75	241.75	the whole half hour,
+241.75	244.75	let's try to start with the idea
+244.75	247.75	that you would present what you are doing as a project,
+247.75	250.75	and Russian, of course,
+250.75	253.75	you will probably be the one to touch on the terminology,
+253.75	256.75	but that's okay, it's in the exercise.
+256.75	259.75	And then you can write to me
+259.75	263.75	what we currently need to decide,
+263.75	266.75	and we'll just try to do a bilingual consultation.
+266.75	268.75	And I will then watch English before I start,
+268.75	270.75	and listen to Russian.
+270.75	272.75	It will be a pleasure.
+272.75	444.55	And which bookshops have you tried?
+444.55	448.55	What have you tried, what works for __PERSON2__,
+448.55	450.55	and what doesn't work for you?
+450.55	476.34	Yes, exactly,
+476.34	501.64	it is necessary to use those cards more,
+501.64	503.64	absolutely.
+503.64	520.82	Yes, I have read a lot of books,
+520.82	600.58	and I have been reading a lot of them,
+600.58	602.58	and I have been reading a lot of them,
+602.58	605.58	I'm always using the base toolkit,
+605.58	611.58	and the basic toolkit for you is PyTorch,
+611.58	613.58	so it's mostly in PyTorch,
+613.58	616.58	and these libraries are on top of PyTorch,
+616.58	617.58	is that so?
+617.58	625.46	And it wouldn't be possible to use PyTorch
+625.46	628.46	as a bullying unit?
+628.46	631.46	I wouldn't try to practice more nodes,
+631.46	634.46	I wouldn't try to practice more computers at the same time,
+634.46	636.46	I would only try to practice more GPUs,
+636.46	640.46	on the graphics cards at the same time, which is much easier.
+640.46	644.46	And then I think that PyTorch has something like that.
+644.46	648.46	I was working with TensorFlow, but it was with GPUs,
+648.46	654.46	and they were written there as several, and at that moment it worked itself.
+654.46	658.46	So I don't know what the importance of the library has,
+658.46	675.67	what it brings in terms of functionality, if you really need it.
+675.67	1007.0	So you would have to re-implement this if you stopped using some kind of library.
+1007.0	1009.0	Or no, you don't say that.
+1009.0	1011.0	But you already have a complex setup,
+1011.0	1013.0	and I understand the example of dialog systems,
+1013.0	1017.0	where you tried to run something quite simple the whole semester.
+1017.0	1020.0	Here we are definitely talking about the result,
+1020.0	1026.0	i.e. a trained module or a pre-trained model for English and Russian.
+1026.0	1033.0	So I agree with your approach that it's probably stupid to do it on your own in PyTorch.
+1033.0	1039.0	But in terms of how much time you have spent on the distribution of libraries,
+1039.0	1041.0	I would also add a time limit there.
+1041.0	1043.0	It's a little bit of a time limit,
+1043.0	1045.0	but it's a time limit.
+1045.0	1051.0	If you can't train on more GPUs for a week or something like that,
+1051.0	1055.0	then put it aside and proceed as __PERSON2__ does,
+1055.0	1057.0	that is, on one card.
+1057.0	1060.0	Yes, it will take a while,
+1060.0	1065.0	but __PERSON2__ has a long journey and it works for him to train,
+1065.0	1071.0	so we can see how we can achieve the quality of the translation even with this time limit.
+1071.0	1077.0	Again, it has the advantage that you can get one card on the cluster quite easily.
+1077.0	1081.0	That means that you can, as we have already dealt with before,
+1081.0	1085.0	when you are doing a more complex attempt,
+1085.0	1088.0	when you want to try more configuration variants,
+1088.0	1090.0	then you have one option,
+1090.0	1094.0	either to run it on many cards and quickly explore one configuration,
+1094.0	1097.0	and then explore another configuration and do it sequentially.
+1097.0	1099.0	Or if you can't parallelize,
+1099.0	1104.0	then you can just run the configurations sequentially.
+1104.0	1107.0	And actually, there is no difference.
+1107.0	1112.0	In the end, you will explore 10 configurations on 10 cards at the same time,
+1112.0	1115.0	but it happens sequentially, never behind you,
+1115.0	1118.0	and you don't need the parallelization over the cards.
+1118.0	1120.0	That means give it a little while,
+1120.0	1122.0	but not for long.
+1122.0	1124.0	If it just doesn't work,
+1124.0	1126.0	then it doesn't matter,
+1126.0	1129.0	at least do a broader exploration of those cards,
+1129.0	1130.0	of those variants.
+1130.0	1132.0	That means, as we talked about,
+1132.0	1134.0	just for simplicity,
+1134.0	1137.0	you should mainly stay with the data experiment.
+1137.0	1138.0	That means,
+1138.0	1142.0	let's say one run that uses the Russian data for training,
+1142.0	1146.0	the second run that uses the Czech data for training,
+1146.0	1148.0	and then the Russian one.
+1148.0	1154.0	The third run that makes Czech and then Russian-Czech together,
+1154.0	1157.0	or just Russian-Czech together and then only Russian.
+1157.0	1159.0	Just a few, a few different options.
+1159.0	1206.64	And then you can explore the data configurations.
+1206.64	1250.08	Yes, exactly.
+1250.08	1300.15	I understand.
+1300.15	1302.15	I understand.
+1302.15	1338.78	Yes.
+1338.78	1346.63	Yes.
+1346.63	1421.21	Yes.
+1421.21	1424.21	Great questions.
+1424.21	1426.21	It's good that you're dealing with it.
+1426.21	1431.21	And I think that's exactly part of the experiments.
+1431.21	1434.21	I think you should just try
+1434.21	1437.21	to see how much the translation quality will be worse
+1437.21	1439.21	when we translate it in sentences
+1439.21	1443.21	and then just connect it to one paragraph.
+1443.21	1445.21	Or when we use the context,
+1445.21	1446.21	as __PERSON2__ suggests,
+1446.21	1449.21	that it will see the previous sentences and add one,
+1449.21	1451.21	or if you just connect the sentences
+1451.21	1456.21	and just put the whole paragraph in one sentence.
+1456.21	1462.21	This process is the easiest and I think it will be the most efficient.
+1462.21	1465.21	And you can even have another option,
+1465.21	1470.21	that you try to put the previous sentence as a context
+1470.21	1474.21	and translate the whole current sentence.
+1474.21	1477.21	So it will be like a translation walking code,
+1477.21	1480.21	but at the level of the sentence.
+1480.21	1483.21	And I think that all of this just has to be experimented with.
+1483.21	1486.21	And you need to do that.
+1486.21	1489.21	We are in a lag situation by putting some LLM in the base.
+1489.21	1490.21	We are in a lag situation by putting some LLM in the base.
+1490.21	1493.21	We are in a lag situation by putting some LLM in the base.
+1493.21	1496.21	Which works itself with other texts.
+1496.21	1499.21	I used to work with translation models
+1499.21	1502.21	and they usually just knew one sentence per sentence.
+1502.21	1504.21	And then when it got bigger,
+1504.21	1506.21	that I want two sentences per two sentences,
+1506.21	1508.21	the model always did two sentences,
+1508.21	1510.21	I never let it go any other way.
+1510.21	1513.21	So here you suddenly have the opportunity
+1513.21	1515.21	to train the model,
+1515.21	1517.21	or to train it on English-Russian after isolated sentences.
+1517.21	1519.21	to train the model, or to train it on English-Russian after isolated sentences.
+1519.21	1521.21	But then without preparation,
+1521.21	1523.21	to give it the whole paragraph.
+1523.21	1525.21	And the model will probably manage it,
+1525.21	1528.21	because it has already done such a thing before,
+1528.21	1538.66	when it was a language modeling.
+1538.66	1543.66	So it's just part of the attempts.
+1543.66	1546.66	And just multiply the number of possibilities
+1546.66	1550.66	that are needed for research.
+1550.66	1552.66	One thing is to apply the language model,
+1552.66	1554.66	that we want to use Czech data
+1554.66	1556.66	to improve Russian.
+1556.66	1559.66	And the other is a completely independent approach,
+1559.66	1561.66	how much context to give there.
+1561.66	1563.66	And that during training versus,
+1563.66	1565.66	or I should say before training,
+1565.66	1567.66	versus during the launch of the model.
+1567.66	1569.66	versus during the launch of the model.
+1569.66	1572.66	So, because we have so many possibilities here,
+1572.66	1574.66	what we would like to try,
+1574.66	1576.66	we can do it in a very simple way.
+1576.66	1578.66	We can do it in a very simple way.
+1578.66	1580.66	We can do it in a very simple way.
+1580.66	1583.66	I would like to start with some baselines.
+1583.66	1586.66	I would like to start with some baselines.
+1586.66	1588.66	From one sentence to another,
+1588.66	1591.66	just to train for English and Russian.
+1591.66	1594.66	Then the whole paragraph after the whole paragraph,
+1594.66	1596.66	just from English and Russian.
+1596.66	1599.66	And then add those things with Czech.
+1599.66	1601.66	Then add the more complex ones.
+1601.66	1604.66	I would proceed from the possibilities,
+1604.66	1607.66	which are programmatically the most free,
+1607.66	1610.66	and then straight away,
+1610.66	1612.66	which give interesting results,
+1612.66	1614.66	results that we need for decisions,
+1614.66	1617.66	to the possibilities that are still more complex
+1617.66	1619.66	and more complex programmatically.
+1619.66	1621.66	And when you're going to deal with
+1621.66	1623.66	the more complex programmatically,
+1623.66	1625.66	which is just like passing two previous things
+1625.66	1627.66	as a context and to it some new one,
+1627.66	1629.66	it's already some kind of programming detail there,
+1629.66	1631.66	but you have to fix it in a moment.
+1631.66	1633.66	So when you're programming this,
+1633.66	1635.66	at that time, the baselines should run,
+1635.66	1637.66	so you have a program that is already running,
+1637.66	1639.66	so you have a program that is already running,
+1639.66	1642.66	so you have some kind of output as soon as possible.
+1642.66	1647.66	And I would develop the wave in more directions
+1647.66	1654.02	from the most programmatically fast steps.
+1654.02	1673.85	Uh-huh. Uh-huh. Uh-huh.
+1673.85	1675.85	Yes, I agree, the constraint track.
+1675.85	1697.12	Uh-huh. Uh-huh. Uh-huh.
+1697.12	1704.66	Yes.
+1704.66	1706.66	Well, probably not,
+1706.66	1710.66	because Russian is not in the European Parliament at all.
+1710.66	1712.66	Because it is, although it is maybe an official language,
+1712.66	1714.66	also in the Baltic Republics.
+1714.66	1716.66	Also, except for their languages.
+1716.66	1718.66	Or is it not?
+1718.66	1720.66	I think that Russian is not.
+1720.66	1722.66	Like the other official language.
+1722.66	1738.86	Uh-huh. Uh-huh. Uh-huh.
+1738.86	1756.16	Uh-huh. Uh-huh. Uh-huh. Uh-huh.
+1756.16	1758.16	Uh-huh. Uh-huh. Uh-huh. Uh-huh. Uh-huh.
+1758.16	1764.8	Uh-huh. Uh-huh. Uh-huh.
+1764.8	1766.8	Uh-huh. Uh-huh. Uh-huh.
+1766.8	1768.8	Uh-huh. Uh-huh. Oh, yes, I suppose so.
+1768.8	1770.8	It's stupid, but let's do it this way.
+1770.8	1772.8	It's a baseline solution again.
+1772.8	1774.8	Definitely try it with it.
+1774.8	1782.8	and then we can try, I can ask here, but I have never dealt with segmentation on a stop on the basis of content.
+1782.8	1789.8	I know that one student did it here, I don't know if he has anything, he tried to automatically delete Wikipedia text.
+1789.8	1797.8	Take the main Wikipedia text and it basically has to specify where the boundaries of individual sections are.
+1797.8	1808.8	If the tool is finished, we could try to release it and share the news comments like this, so that we have the boundaries of the sections.
+1808.8	1817.8	In this case, you would stick to the boundaries of the sections, but as a baseline, take it after ten sentences and don't deal with it.
+1817.8	1866.42	You can't do anything.
+1866.42	1882.39	Now I don't know if I understood 100% if __PERSON2__'s setup is limited and not allowed.
+1882.39	1886.39	I don't know if he can do 2048 in one go.
+1886.39	1899.88	It's slow.
+1899.88	1901.88	Yes.
+1901.88	1903.88	Yes.
+1903.88	1911.88	Well, he did it like this, that in the beginning you will only use individual sections, you will fine-tune them in different languages,
+1911.88	1914.88	and then you will try to use it on the stop.
+1914.88	1922.88	And you will train this same model in another phase, slowly, but on all stops, and you will try this difference.
+1922.88	1923.88	Yes.
+1923.88	1925.88	So I would proceed like this.
+1925.88	1927.88	Unfortunately, we ran out of time.
+1927.88	1930.88	I would now have to finish the speech.
+1930.88	1934.88	But surprisingly, it was understandable and useful.
+1934.88	1937.88	I will prepare some more questions.
+1937.88	1939.88	I would send them as if you knew it.
+1939.88	1944.88	So try, if you have any experience with this speech, try to write it down on paper.
+1944.88	1950.88	Just if it was useful to introduce a bilingual speech like this and what you think of it.
+1950.88	1952.88	Just in three minutes, just a few seconds.
+1952.88	1956.88	And we'll see if we can get anything out of it.
+1956.88	1963.9	Is it clear?
+1963.9	1964.9	Yes.
+1964.9	1965.9	Yes.
+1965.9	1966.9	That's clear.
+1966.9	1968.9	But I also understand almost.
+1968.9	1970.9	So I also reacted to this language.
+1970.9	1972.9	Thank you very much for the attempt.
+1972.9	1975.9	And I'm going to try another one, how it goes on.
+1975.9	1976.9	Thanks.
+1976.9	1977.9	Thank you.
+1977.9	1978.9	Goodbye.

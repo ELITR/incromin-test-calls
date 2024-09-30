@@ -1,0 +1,52 @@
+35.600000	262.870000	Chtěli jsme shrnout, __PERSON2__ začni. Zajímalo by mě, jak dopadla prezentace na fakultním semináři ve Vítkovicích s lidmi odkud.
+496.580000	506.500000	Ano, já to myslím, že jestli to chápu od __PERSON2__ dobře, tak __PERSON2__ mluvil o jiných projektech, které dělali ostatní teamy v Americe.
+506.780000	522.920000	Ale potom taky zmiňoval možnost mít projekty z hlediska financování výzkumu ve znakové řeči, jestli jsem to pochopil správně, možná jsem něco někde ztratil.
+522.920000	528.960000	Nevím, jestli se bavíme jenom o projektech, co se týče workshopu, nebo o projektech ve smyslu financování.
+528.960000	583.500000	Tak to asi nejdůležitěji teďka rozebírat tyhle detaily a mohli bychom se přesunout na jiné téma.
+583.500000	595.280000	Mě by zajímalo, kdo z vás plánuje pokračovat v práci, kterou jsme dělali společně na týmu našem.
+595.280000	602.560000	A kdo plánuje pokračovat dál s naším vedoucem na projekt rozpoznávání znakové řeči.
+602.560000	741.620000	Aha, probávám si mikrofon.
+741.620000	748.000000	Přesuneme to a vrátíme to zpět nebo něco, nevím.
+762.780000	767.240000	Není to v pořádku, ok, vidím.
+767.240000	822.600000	Jo, jo.
+822.600000	825.380000	Já vás neslyším ponad, jo.
+825.380000	837.360000	Ještě vás neslyším.
+837.360000	839.860000	Jo, já už vás slyším.
+839.860000	878.420000	Bavili jsme se o tom, kdo z nás bude pokračovat na projektu s naším vedoucem a ty jsi říkal, že na to asi teďka čas mít nebudeš, ale budeš ho snad mít později.
+878.420000	884.400000	Že se ještě uvidí a teď byla na řadě __PERSON1__, aby řekla, jestli ona chce pokračovat v projektu.
+884.400000	1141.580000	Může se jenom zeptat, ale jestli tomu rozumím správně, tak chce náš vedoucí pokračovat ve znakovém jazyce příští rok na JSALTu, nebo to je mimo JSALT?
+1141.580000	1183.610000	Ok, ok, ok.
+1183.610000	1198.030000	Jestli to rozumím správně, tak náš vedoucí má nějaký plány, jak udělat ten model.
+1198.030000	1207.030000	Tak, aby ty vizualní embeddingy a ty textový embeddingy byly v jednom prostoru.
+1207.030000	1219.710000	Ok.
+1219.710000	1297.000000	Mají spoustu plánů. Takže plán je spíš se spolehat na nový projekty, buď od firem, nebo od vlády, který by přišli v průběhu příštího roku.
+1297.000000	1301.000000	Není plán cílit na JSALT jako primární cílo.
+1301.000000	1330.800000	Od cíly našeho vedoucího.
+1330.800000	1358.300000	Ok, ok.
+1358.300000	1379.260000	No, ještě jsem neříkal, co já plánuju.
+1379.260000	1395.260000	Za mě ty dva měsíce byla skvělá zkušenost a jsem rád, že jsem měl možnost dva měsíce v kuse dělat na jednom projektu a že se mi podařilo pracovat na části projektu, který si myslím, že dobře rozumím.
+1395.260000	1402.260000	Takže jsem mohl využít veškerý znalosti, který jsem doposud získal a navíc se naučit nějaký další.
+1402.260000	1404.260000	Takže jsem rád, že jsem vyvíjel demo.
+1404.260000	1407.260000	Demonstrační aplikaci.
+1407.260000	1416.260000	Ale bohužel nemám úplně čas pracovat na tom projektu dál do budoucna, přestože mě to zajímá.
+1416.260000	1423.260000	Takže budu pokračovat ve svém vlastním doktorátu, abych ho dokončil.
+1423.260000	1433.260000	Ale pokud ostatní chtějí pokračovat, tak bude jenom rád, když uvidím, že ta práce, kterou jsme dělali, tak bude.
+1433.260000	1436.260000	A se na ní stavět i do budoucna.
+1436.260000	1490.610000	Aha, aha.
+1490.610000	1530.990000	__Šovan__, ty jsi se zabývala znakovou řečí během svého doktorátu jako vedlejší projekt.
+1530.990000	1545.990000	Protože když jsme byli v Americe a ty jsi měla obhrbu svého doktorátu, tak jsi mluvila hodně o optimalizaci hyperparametrů a neuronových sítí.
+1545.990000	1547.990000	Tak jsem měl dojmu, že...
+1548.990000	1556.990000	Že ta znaková řeč pro tebe je jako hodně vedlejší věc, kterou děláš z vlastní zálepy.
+1556.990000	1561.990000	Ale nevěděl jsem, že se ti to trochu překrývá s doktorátem.
+1561.990000	1623.390000	Tak to je skvělý, to jsem nevěděl.
+1623.390000	1648.470000	__PERSON2__?
+1648.470000	1650.470000	Já je.
+1650.470000	1740.350000	__PERSON2__, jaký jsou tvoje plány a teďka výhledově do budoucna?
+1740.350000	1741.350000	Jako...
+1741.350000	1745.350000	Protože ty jsi dodělal doktorát, co plánuješ dělat dál.
+1745.350000	1807.950000	__PERSON1__, myslíš si, že ty teď budeš pracovat do __ORGANIZATION__.
+1807.950000	1811.950000	Myslíš si, že tam budeš dělat spíš výzkum nebo spíš inženýrskou práci?
+1811.950000	1889.080000	Dobrá.
+1889.080000	1891.080000	Kolik nám zbývá času?
+1891.080000	1912.490000	Děkuji.
+1912.490000	1914.490000	Děkuji taky. Mějte se.
