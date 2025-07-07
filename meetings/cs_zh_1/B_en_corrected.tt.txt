@@ -1,0 +1,282 @@
+0.000000	10.062000	Good afternoon.
+10.162000	11.122000	Good afternoon.
+12.202000	13.662000	Thank you. Well done.
+14.442000	15.262000	See you soon.
+16.202000	20.182000	And now it shows...
+20.182000	22.082000	Yes, I hear you.
+22.642000	27.282000	Now it turns out we'd better switch bookmarks.
+27.282000	29.122000	and just watch the English.
+29.442000	32.282000	Because you probably don't understand Czech. That's right.
+34.872000	37.312000	Do you understand English or not at all?
+50.732000	53.252000	Okay, so I guess you don't understand.
+53.252000	57.932000	I don't understand Chinese at all, you probably don't understand Czech.
+58.272000	59.352000	That's the ideal situation.
+59.992000	66.952000	So let's see how this meeting goes.
+73.882000	77.462000	It's running a little late,
+77.702000	80.542000	but we always have to have the patience to wait,
+80.542000	82.542000	for the English translation to appear.
+82.662000	86.002000	And then look it up in English.
+86.422000	88.662000	And then in that left window you see the transcript,
+89.342000	92.782000	on the right-hand side you'll see a summary.
+93.262000	99.122000	So I'd like to talk most about the article today,
+99.162000	104.582000	right, organizational stuff, about the LREC presentation,
+105.202000	107.242000	but I haven't done anything on that yet.
+109.042000	112.642000	Do you remember the state of preparation,
+112.662000	115.242000	for the LREC presentation.
+115.422000	120.022000	And I'd also like to know how much time you have to prepare.
+120.042000	122.542000	You, I think, sent some slides,
+123.362000	126.322000	but I don't know if you have time to interfere yet,
+126.342000	128.582000	to get this right for __PERSON1__.
+158.652000	159.952000	Let's see if...
+159.972000	160.972000	Oh, okay.
+160.992000	164.372000	The system went down and accidentally disconnected.
+165.412000	168.172000	That article I was talking about,
+168.632000	169.752000	so it's...
+169.752000	171.752000	at the LREC conference.
+172.872000	174.192000	And now I don't know if he recognizes it.
+174.212000	175.492000	Yes, it does.
+176.292000	178.132000	So it's got that delay.
+178.432000	184.742000	And that's why we always have to wait.
+186.882000	187.882000	I'd like to,
+189.382000	191.042000	so that during our meeting
+192.122000	196.102000	to make sure that for __PERSON1__,
+196.122000	198.182000	who will be presenting at LREC,
+198.522000	200.222000	we'll have a good foundation.
+250.572000	254.212000	Yes, we don't have much time, you're right.
+255.552000	259.252000	One problem is that the presentation itself has to be done.
+259.272000	266.012000	And the second and bigger problem is that it's already the end of the month, I think,
+266.032000	268.452000	or something like, well, maybe by the end of April,
+269.832000	274.992000	__PERSON1__ has to upload the video for the presentation.
+275.512000	279.372000	So we should actually finish the presentation this week.
+280.572000	285.872000	But I would still use the slot we have here
+285.892000	291.792000	and try to do it this way in Chinese-Czech.
+291.812000	294.052000	Although of course it's much slower.
+294.072000	306.082000	As you can see in the transcript, in the transcript,
+306.102000	310.742000	I do occasionally try to correct some gross errors,
+310.762000	312.662000	that the translation made.
+312.682000	316.862000	So when I see that the English is unintelligible,
+316.862000	319.902000	I just rewrite it.
+319.922000	322.762000	So hopefully now maybe you've noticed,
+322.782000	324.182000	that I was talking about April,
+324.202000	329.102000	that originally came up and got recognized very badly.
+329.122000	330.702000	And you can do the same.
+330.722000	335.342000	You can also mark a piece of that text in the left window normally
+335.362000	337.042000	and overwrite it.
+337.062000	363.712000	Yes, exactly.
+363.732000	368.292000	I'd try to discuss the presentation in Chinese.
+368.312000	371.512000	Could you please,
+371.532000	376.532000	put a link to the presentation in the right window,
+376.552000	378.532000	in the summary?
+378.552000	381.532000	It is possible to overwrite something in the summary.
+381.552000	387.532000	So I'll prepare the text and you put in the link.
+387.552000	413.332000	Please try it now,
+413.352000	441.322000	so we can talk about the presentation right away.
+441.342000	444.322000	Oh, I don't see it yet.
+444.342000	446.322000	Where did you put it?
+446.342000	447.322000	That's weird.
+447.342000	448.322000	In the summary.
+448.342000	450.342000	Why can't I see it?
+450.362000	463.872000	Well, maybe that's not where we're transmitting.
+463.892000	465.872000	I don't see it right there.
+465.892000	466.872000	That's weird.
+466.892000	469.872000	Then please put it on the left.
+469.892000	471.872000	Make it different.
+471.892000	474.872000	Read a bit of that link.
+474.892000	477.872000	It's www.google.com something.
+477.892000	481.872000	And www.google.com instead.
+481.892000	485.872000	then put that link directly in that left window.
+485.892000	487.872000	Because it didn't show up in the right one for me.
+487.872000	525.052000	So there is some technical problem.
+525.072000	528.052000	Aha.
+528.072000	537.052000	Then try opening that Minuteman guy again.
+537.072000	540.052000	Go to the link again.
+540.072000	545.052000	Minuteman mole, Miniting, CO, HC and so on.
+545.072000	553.012000	I'll put the link again, maybe in the chat here in the Jitsi meetup.
+553.052000	555.032000	There's a chat somewhere.
+555.052000	557.032000	And I can put the link in it.
+557.052000	559.032000	Or it's the same one from the email.
+559.052000	576.492000	Just try a reload.
+576.512000	590.472000	So I don't know if that's gonna work now or not.
+590.492000	592.472000	You put it in there somewhere, right?
+592.512000	593.472000	Oh.
+593.512000	595.472000	So I still don't see it.
+595.512000	604.742000	So please put the link in the Jitsi chat.
+604.782000	606.742000	In the Fair Meeting.
+606.782000	609.742000	In Fair Meeting, we see each other on camera.
+609.742000	612.742000	So there's a chat and put the link in there.
+612.762000	616.742000	So for some reason it's not transmitting correctly.
+616.762000	625.162000	Please put the link in there where we can see it on the camera.
+625.182000	644.672000	So please try to reload the miniting so it's there in front of us again.
+644.692000	650.672000	And try to paste the link directly into the main meetup chat, which is at fairmeeting.net.
+650.692000	655.372000	And again...
+658.412000	668.152000	So I really hope this is uploading well.
+668.172000	670.152000	Oh, great, thank you.
+670.172000	672.152000	I see it in the chat.
+672.172000	673.152000	Okay.
+673.172000	679.152000	And now we can take a look at the presentation.
+679.172000	682.152000	We have the slide numbers.
+682.172000	684.152000	We don't actually know how long...
+684.172000	685.152000	Yeah, we do.
+685.172000	688.152000	It's supposed to be 15 minutes long.
+688.172000	692.152000	It's probably smartest if you put the two windows side by side.
+692.172000	694.212000	Transcript.
+694.212000	696.212000	And then the slides.
+696.232000	698.212000	Let's see the slides.
+698.232000	711.292000	So confirm when you see the slides and our interview at the same time, the transcript.
+711.312000	735.792000	Oh, now I see what you're writing.
+735.812000	737.792000	That's interesting.
+737.812000	738.792000	Now it's...
+738.812000	739.792000	Now I see what you're writing.
+739.812000	742.792000	Now your corrections are projecting correctly.
+742.812000	744.792000	I don't know why it was crashing before.
+744.812000	750.792000	Let's make it so that I'll share the screen and have both there.
+750.792000	752.792000	That'll be the easiest option.
+752.812000	755.792000	So I'll put Screen Sharing.
+755.812000	761.232000	Enter Screen.
+761.252000	763.232000	Okay, so now...
+763.252000	765.232000	And that's not it.
+765.252000	769.232000	Now I just need to find the right window.
+769.252000	772.232000	Okay, now I hope you can see my screen.
+772.252000	787.132000	And on my screen, Transcript is on the left and the slides are on the right.
+787.152000	805.482000	Well done, well done.
+805.482000	808.482000	That's great, so we can get on with the slides.
+808.502000	814.482000	We have to list all the authors here, so that would require...
+814.502000	817.482000	I'm going to write notes on it.
+817.502000	819.482000	Hopefully it'll work.
+819.502000	820.482000	How do you do that?
+820.502000	821.482000	He won't allow it.
+821.502000	823.482000	Oh, Share.
+823.502000	827.482000	And why can't I edit?
+827.502000	830.482000	File View Only. No Edits.
+830.502000	831.502000	Aha.
+831.542000	839.082000	Could you please change the access rights.
+839.132000	845.322000	But that's weird, editor, anyone can edit it.
+845.342000	848.322000	Please add me.
+848.342000	851.322000	Ondrej Bojar, Gmail.
+851.342000	855.332000	And what's the call sign?
+855.352000	857.332000	Gmail.com.
+857.352000	861.332000	I'll try it for myself.
+861.352000	863.332000	That didn't add up.
+863.352000	873.302000	Oh.
+873.322000	897.542000	It's behaving all wrong, but never mind.
+897.582000	899.562000	But...
+899.582000	903.512000	Yeah.
+903.532000	905.512000	Okay.
+905.532000	909.512000	So you think I should make a copy of the slides?
+909.532000	912.512000	Make a copy of entire presentation.
+912.532000	914.512000	Yes.
+914.532000	917.512000	And then we'll edit the copy at my place. Is that right?
+917.532000	920.512000	I should make a copy.
+920.532000	958.232000	So now I've made a copy.
+958.252000	964.212000	And I'd like to ask you to rename...
+964.252000	967.232000	the old file to old version.
+967.252000	972.232000	To make it clear that we don't want to use the old file.
+972.252000	1003.442000	Good. And I'll take advantage of giving you access to the new one here.
+1003.462000	1010.262000	So now in chat you can pick up and also look at the...
+1010.282000	1012.262000	All right, you're probably already there.
+1012.282000	1015.262000	So we need...
+1015.282000	1019.262000	We need to list all the authors here.
+1019.262000	1045.892000	I'd list everybody and rip __PERSON1__ off.
+1045.912000	1092.252000	Thanks for the correction.
+1092.272000	1101.252000	So, I think we should have a slide that says what the talk is going to be about.
+1101.272000	1103.252000	So this is...
+1103.272000	1107.252000	I would add an outline here.
+1107.272000	1141.492000	And now we need to see what's on these slides here.
+1141.492000	1183.692000	All in all, __PERSON1__ has 15 minutes to talk.
+1183.692000	1186.692000	Yeah, thank you.
+1186.712000	1191.692000	Maybe that's a good suggestion.
+1191.712000	1196.692000	The hiding, the hiding of some of those slides, I would leave that to __PERSON1__.
+1196.712000	1198.692000	Maybe he'll want to talk about everything.
+1198.712000	1201.692000	But I agree we can leave something out.
+1201.712000	1208.692000	And in that case, we should include everything in the outline, in the introduction.
+1208.692000	1212.732000	And mention that only some of it will be presented.
+1212.752000	1227.302000	Oh, okay.
+1227.322000	1228.302000	Yeah, thank you.
+1228.322000	1230.302000	Yes, the "done" is confusing.
+1230.322000	1232.302000	I agree with you.
+1232.322000	1234.302000	Right.
+1238.302000	1242.302000	So, what do we add to the outline overall.
+1247.302000	1249.302000	The goal of the project, of course.
+1249.322000	1250.302000	And then.
+1274.322000	1280.302000	We'll just talk briefly about the models here.
+1280.322000	1286.952000	So the models used.
+1286.972000	1297.552000	And then the tests.
+1297.552000	1304.952000	And we had how many tests? Two tests, right?
+1304.972000	1309.952000	So we have Cluster Separation.
+1309.972000	1313.972000	And then we have Embedding Prediction.
+1313.992000	1325.002000	And then we have Classification of Labels.
+1325.022000	1346.932000	Right.
+1346.952000	1350.932000	I think the slides are probably good now.
+1350.952000	1360.932000	That basically, all we need to do is ask __PERSON1__ to try and say something and fix the slides.
+1360.952000	1364.952000	Or do you think something's missing?
+1364.992000	1397.242000	Oh, wait.
+1397.262000	1413.992000	What about the visualization?
+1414.012000	1417.992000	So, do you think any.
+1418.012000	1424.852000	And isn't this image, isn't this enough here?
+1424.892000	1427.912000	Or are you talking about this slide 6?
+1429.712000	1430.712000	Oh, yeah.
+1430.732000	1451.562000	So that's six.
+1451.582000	1488.232000	Oh, yeah, I see.
+1488.252000	1494.632000	I've tweaked the opening slide a little bit.
+1494.652000	1501.802000	I just added what our target is.
+1501.822000	1504.942000	So maybe we'll do it this way.
+1504.962000	1505.802000	And this is where I would...
+1505.842000	1506.662000	I'd like to make the font bigger.
+1506.702000	1508.662000	Which I don't know if we can do individually here.
+1508.662000	1511.902000	The font's a little too small.
+1514.712000	1515.092000	13.
+1516.572000	1520.692000	That doesn't magnify anything, I'd have to do that.
+1521.432000	1522.252000	But then it finds it.
+1522.352000	1523.732000	Oh, it's zooming, all right.
+1532.342000	1535.822000	Well, I think we should help __PERSON1__,
+1543.822000	1547.282000	write a sentence about what it's actually testing.
+1548.342000	1551.342000	Or here's another little thing.
+1581.822000	1628.522000	So I think this is a good introduction to the corpus.
+1629.222000	1634.962000	Here's an introduction to the embeddings we're going to use.
+1634.962000	1638.842000	Here's the definition of what a transform vector is.
+1643.542000	1646.702000	Then here's a visualization of the transformation vectors.
+1647.002000	1649.422000	For the two spaces.
+1651.062000	1655.962000	And I don't know if __PERSON1__ should comment on that right away.
+1659.972000	1666.192000	And here's where I want to formulate the question.
+1667.192000	1670.572000	So the goal of the test.
+1684.692000	1687.612000	We just need to ask the test question.
+1692.772000	1694.812000	So what exactly is going on here.
+1694.812000	1695.812000	We want to...
+1701.672000	1702.732000	The clusters are fixed.
+1702.952000	1704.672000	The clusters are determined by, by...
+1707.772000	1754.692000	I think the kalin junk is like a technical way to measure something.
+1754.832000	1755.752000	So it's okay.
+1756.152000	1757.792000	People either know it or they don't.
+1758.412000	1760.192000	That's the important thing you're saying.
+1760.752000	1765.392000	A bigger number means more separation between the clusters.
+1765.572000	1766.952000	More separation between the clusters.
+1767.812000	1770.132000	But what's the problem?
+1770.132000	1770.932000	Problem.
+1771.132000	1774.612000	Is that we haven't made it clear what the clusters are.
+1774.832000	1778.292000	They're clusters of transformation vectors,
+1778.432000	1781.092000	or they're clusters of individual sentences.
+1867.212000	1871.572000	So that's exactly what we need to write here.
+1936.192000	1939.292000	Unfortunately, we're out of time for this call.
+1940.052000	1943.412000	But I'd like to ask you,
+1943.412000	1946.412000	if you would add similar wording,
+1947.752000	1951.672000	to the other tests.
+1952.732000	1958.672000	In one sentence, with an example if necessary,
+1960.632000	1965.832000	if you would always explain what the test does.
+1979.852000	1981.492000	Well, thank you very much.
+1982.092000	1984.792000	I'll send you a link to the questionnaire,
+1985.232000	1988.092000	if this call was usable
+1988.092000	1989.692000	and how much it slowed us down.
+1990.912000	1993.912000	If it was, it didn't have those technical difficulties,
+1994.692000	1996.892000	I think it would work pretty well.
+1997.512000	2003.432000	That's a workable method, although I don't understand Chinese at all.
+2017.672000	2019.412000	I, yes, very well.
+2019.532000	2021.392000	Okay, so thank you very much.
+2021.972000	2024.032000	Please double the slides a little bit,
+2024.412000	2025.772000	then we'll send them to __PERSON1__
+2025.772000	2030.692000	and ask him if he's able to present them yet.
+2030.692000	2033.952000	and that will get it ready and he'll present it and he will.
+2034.312000	2049.862000	Okay, so thank you very much and I'm ending this call.
+2051.362000	2054.542000	And then we'll have another normal call if necessary.
+2055.622000	2056.922000	Thank you, thank you, goodbye.
+2057.282000	2057.882000	Goodbye.
+2057.882000	2087.862000	Thank you, thank you.

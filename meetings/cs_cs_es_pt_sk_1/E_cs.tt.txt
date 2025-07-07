@@ -1,0 +1,79 @@
+4.66	40.1	Ale myslím, že je to ještě problém, že
+40.1	44.1	je to halucinované, když nikdo nebude mluvit.
+44.1	57.33	Ok, ok.
+57.33	60.33	Je to opravdu zajímavé vidět, jaké jsou tyto
+60.33	74.82	falské pozitivní řeči.
+74.82	77.82	Ale teď si myslím, že to funguje lepší, že
+77.82	95.57	to vytváří většinou.
+95.57	98.57	Tak jo, tak to vyzkoušíme.
+98.57	100.57	Á, už je to.
+101.57	105.39	To má nějaké chyby.
+105.39	107.39	Ta samarizace vypadá divoce.
+107.39	118.84	Jo, jasně, jasně, pravda.
+118.84	124.84	Počkat, proč mě to přeložilo do angličtiny?
+124.84	134.4	Nebo jsem to řekl anglicky?
+134.4	136.4	Á, ok, ok.
+136.4	141.57	Aha, ok.
+141.57	172.61	To je cool. To je zajímavý quirk.
+172.61	176.61	Jo, tentokrát to vypadá, až to portugalštinu chytá.
+212.66	214.66	Protože to bylo jako zpět.
+214.66	216.66	Je to v pohodě.
+216.66	217.66	Děkuji.
+217.66	224.49	Máte zpět.
+224.49	226.49	Co tam tam je?
+226.49	227.49	Děkuji, kotáři, já mi udělám hlavu.
+227.49	228.49	Děkuji.
+228.49	229.49	Tak, dobrá.
+229.49	231.99	Děkuji, sociální společnost.
+231.99	242.94	Jak jsi tu učený?
+242.94	243.94	Tak já se tu učím.
+243.94	244.94	Děkuji.
+244.94	245.94	Takže, jedno.
+245.94	248.94	Jakým zpětnou zpětnou zpětněnou zpětněnou návrkem
+248.94	254.28	jsi tu měl jako představit jak velký, který
+254.28	266.9	nám vůbec nebyl zpětný?
+266.9	267.9	Jak to nebyl?
+267.9	279.27	Děkujeme.
+333.03	353.56	Děkujeme.
+1011.42	1015.9	ale prostě na sídlišti úplně bez šance mi přijde.
+1029.78	1036.32	Že to __PERSON4__ tak říkal,
+1036.48	1042.52	že všechny stravenkové body používá na právě rohlík,
+1042.62	1045.26	že si z toho nakoupí ty poukázky do rohlíku
+1045.26	1049.2	a pak prostě udělá vždycky na začátku měsíce nákup za 4 tisíce,
+1049.32	1051.9	čímž si vyčerpá všechny stravenkové body na kornu,
+1051.9	1054.32	které mu přesně nemusí řešit.
+1056.68	1058.74	Nebo tak nějak, jak byl ten limit,
+1058.86	1062.0	tak přesně se to vešlo do těch poukázek na rohlík
+1062.0	1063.76	a prostě mu to přivezou do baráku
+1063.76	1067.08	a je to až tím, že bydlo někde daleko za Prahou,
+1067.2	1069.38	tak mu to vždycky co ušetřilo čas.
+1084.16	1086.74	Jako vím, že občas jsem se stavil v Globusu,
+1087.62	1092.2	když jsme třeba byli něco řešit v Ikeji
+1092.2	1093.68	a pak jsme se chtěli stavit na nákup,
+1093.68	1094.96	protože je tam někde poblíž,
+1095.06	1095.68	ale jinak je to...
+1095.82	1098.04	Je to pro mě vždycky Globus absurdně velkej
+1098.04	1100.12	a občas se tam člověk ztratí,
+1100.32	1102.78	než tam něco najde v tom obrovském obchodě.
+1102.92	1103.7	Je to taková hrozná změna
+1103.7	1106.72	oproti těm malejším sídlištním Albertům.
+1141.67	1143.09	Jo, jo, taky jsem byl dvakrát.
+1143.23	1145.29	Jo, a od příštího týdne to posouvají,
+1145.33	1147.49	že to bude od půl deváté a ne od devíti.
+1147.63	1151.91	Takže to je v čase snídaně a ne v čase branče
+1151.91	1154.43	a pokud člověk má od devíti mítingy,
+1154.43	1155.95	tak se nasídá před tím,
+1156.07	1158.01	protože jsem se byl s kolegy, kteří jako
+1158.01	1160.29	to je super, já mám od devíti do desíti mítingy
+1160.29	1166.02	a v deset jako už nesnídám.
+1166.08	1169.0	Takže pojďte v pondělí na snídaní od půl devátý.
+1172.46	1173.3	Nice, nice.
+1179.14	1180.76	Jo, Transcript to dělá blbě.
+1180.86	1183.74	Je to půl deváta, je to osm třicet,
+1183.88	1185.08	nikoli devět třicet.
+1190.0	1192.08	Ne, osm třicet.
+1193.0	1197.24	Snídaně začíná v osm třicet.
+1203.8	1206.52	Jo, jo, jo, teď už dobrý, teď už v pořádku.
+1207.28	1207.88	Hodná AI.
+1239.46	1301.48	Titulky vytvořil JohnyX.
+1301.5	1333.62	Titulky vytvořil JohnyX.

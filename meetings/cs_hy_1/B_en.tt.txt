@@ -1,0 +1,209 @@
+3.804000	9.444000	Great, good afternoon.
+9.444000	13.444000	I hope you have the transcript open
+13.444000	17.444000	so you can understand what I'm saying.
+17.444000	28.324000	I assume you can't speak Czech, is that right?
+28.324000	32.324000	I don't hear anything at all.
+32.324000	41.214000	I don't think the microphone is on, it should recognize you.
+41.214000	45.214000	Yes, I'm speaking Armenian,
+45.214000	63.454000	but I don't hear any English.
+63.454000	67.454000	Great, so now we can try it.
+67.454000	71.454000	As you can see, the transcript sometimes makes mistakes,
+71.454000	75.454000	and if those mistakes would somehow ruin your chances
+75.454000	79.454000	to understand what I said, I'll try to fix them,
+79.454000	83.454000	just like I fixed the one about please.
+83.454000	87.454000	So you can do the same thing, but I definitely recommend that
+87.454000	91.454000	you don't look at the transcript.
+91.454000	95.454000	It really ruins a person's ability to read and speak.
+95.454000	99.454000	So, when you start speaking, just speak,
+99.454000	103.454000	and then look again and see if you have a chance
+103.454000	107.454000	to understand the translation or not.
+107.454000	111.454000	And as far as the content of this meeting is concerned,
+111.454000	115.454000	let's proceed as if it were a simple consultation on your project.
+115.454000	119.454000	So, please remind me of the state of the project,
+119.454000	123.454000	what's going on, what's not,
+123.454000	127.454000	and the conversation will be a little more complicated and slower,
+127.454000	195.724000	but let's try it for fun.
+195.724000	199.724000	I don't know if the translation is good.
+199.724000	203.724000	I don't understand your teaching much.
+203.724000	207.724000	I don't know why it's...
+207.724000	209.724000	You don't want to translate any spoken word, right?
+209.724000	210.724000	No.
+210.724000	212.724000	I don't understand the translation of a spoken word, right?
+212.724000	214.724000	So...
+214.724000	218.724000	Oh, I think I'm getting something here.
+218.724000	222.724000	I think it's completely fine
+222.724000	226.724000	if you use technical terms in Armenian
+226.724000	230.724000	from English, as you would use them with an Armenian colleague.
+230.724000	236.724000	So you don't have to force yourself to find new words in Armenian.
+236.724000	238.724000	Just speak as if you were speaking to an Armenian.
+238.724000	242.724000	And it's common for me,
+242.724000	244.724000	when I'm talking to a Czech colleague,
+244.724000	248.724000	I sometimes use, I don't know,
+248.724000	252.724000	terms like reinforcement learning or beam search.
+252.724000	257.724000	We just use English terminology, and it's not a problem at all.
+257.724000	260.724000	And the model would, of course, here, the one that translates us now,
+260.724000	263.724000	he should be able to deal with it.
+263.724000	265.724000	So that's about communication.
+265.724000	267.724000	And now to your project.
+268.724000	272.724000	You've changed the LAM 3.
+272.724000	276.724000	So you've tried LAM 3,
+276.724000	284.164000	or...
+284.164000	324.424000	Or you're just planning to try it out.
+324.424000	327.424000	I definitely agree that it's good
+327.424000	330.424000	that you didn't distract attention.
+330.424000	335.424000	So if you use LAM 3 in your bachelor's thesis,
+335.424000	338.424000	you can use it here in this project as well.
+338.424000	343.424000	It's quite demanding to use the same tools
+343.424000	346.424000	and the most similar settings.
+346.424000	348.424000	You've just saved your work,
+348.424000	351.424000	you've used the synergy of the two projects.
+351.424000	355.424000	So yes, you can definitely go to LAM 3,
+355.424000	358.424000	just solve the task of your project,
+358.424000	419.054000	that is, translate from English into Armenian.
+419.054000	421.054000	I think the translation is now very poor quality.
+421.054000	424.054000	Confirm whether it makes sense,
+424.054000	426.054000	the translation,
+426.054000	429.054000	whether the English is complying with what you said
+429.054000	431.054000	or not complying with it.
+431.054000	434.054000	From what I can guess,
+434.054000	439.054000	so far you haven't gone too far in the project for the seminar.
+439.054000	442.054000	You will have time from mid-May.
+442.054000	450.054000	And by then, we'll have to wait.
+451.054000	473.184000	Is that so?
+473.184000	476.184000	Now I don't understand at all
+476.184000	481.184000	if you're talking about,
+481.184000	484.184000	or in what relationship is the Google model
+484.184000	489.184000	and LAM 3 for your project.
+489.184000	492.184000	In your project, you just need to,
+492.184000	495.184000	no, like this.
+495.184000	498.184000	Tell me briefly what the goal of your project is.
+498.184000	499.184000	Let's start from the beginning.
+499.184000	500.184000	Tell me completely briefly,
+500.184000	504.184000	what exactly is your task?
+504.184000	553.964000	So yes, great, I agree.
+553.964000	555.964000	I remember it the same way.
+555.964000	561.964000	So your task is to translate from English into Armenian
+561.964000	564.964000	and at the same time compare
+564.964000	567.964000	whether the better models are
+567.964000	571.964000	pure transformer from Mariana
+571.964000	575.964000	or large pre-trained LLM models.
+575.964000	578.964000	And the large language models we've been planning so far
+578.964000	581.964000	were LLM 2 and GPT 4.
+581.964000	586.964000	And now you're saying LLM 3.
+586.964000	623.204000	So you'd like to change LLM, is that right?
+623.204000	624.204000	Yes.
+624.204000	627.204000	I understand that the translation is a bit of a waste
+627.204000	630.204000	and it cuts in half of your knowledge.
+630.204000	633.204000	You can't do anything else with it
+633.204000	637.204000	than repeat it over and over again and say otherwise.
+637.204000	643.204000	So in conclusion, you should have four models in total.
+643.204000	649.204000	Mariana, GPT 4, LLM 2 and LLM 3.
+649.204000	652.204000	And with all four models,
+652.204000	655.204000	you should translate the exercise sentences,
+655.204000	661.204000	the test set and then evaluate the quality of the translation.
+661.204000	689.544000	I definitely agree.
+689.544000	691.544000	And now I'm technically interested in how you can translate it.
+691.544000	694.544000	Now I'm interested in how big of a test set you already have
+694.544000	697.544000	for the Armenian language
+697.544000	700.544000	and from which domain, from which area
+700.544000	703.544000	and which of the models you have already launched
+703.544000	706.544000	and have the outputs.
+706.544000	709.544000	So it's roughly translated.
+709.544000	712.544000	10,000 to 20,000 tokens
+712.544000	715.544000	are already being used in the translation.
+715.544000	794.284000	So you can translate it in a few words.
+794.284000	797.284000	And then you can also use it in a few words.
+797.284000	800.284000	The translation of the token sounds very promising.
+800.284000	804.284000	Ideally, there would be, for example, 2,000 YETs,
+804.284000	809.284000	which typically corresponds to 40,000 tokens.
+809.284000	815.924000	That means 20,000 is enough,
+815.924000	843.884000	but 10,000 would be rather little.
+843.884000	846.884000	The translation is not good, it doesn't matter,
+846.884000	848.884000	but we understand each other, fortunately.
+848.884000	856.884000	So now I agree that you should start moving forward
+856.884000	861.884000	and work only with the 10,000 tokens you have.
+861.884000	868.254000	And now I want to ask about the outputs.
+868.254000	871.254000	Because you will simply run GPT-4.
+871.254000	875.254000	You can also run the LAM.
+875.254000	879.254000	You have the LAM 3 running from your bachelor's degree.
+879.254000	881.254000	Does it work for you somewhere?
+881.254000	914.944000	Can you get outputs from LAM 3?
+914.944000	919.944000	So I would ask you to come next Friday,
+919.944000	922.944000	so right on Friday,
+922.944000	927.944000	when you could bring at least part of the test set,
+927.944000	930.944000	the English source and then all the translations
+930.944000	932.944000	that you can get by Friday.
+932.944000	936.944000	That means from GPT-4, from LAM 3,
+936.944000	940.944000	and that will probably be all for now.
+940.944000	942.944000	I don't know if you can do LAM 2.
+942.944000	980.534000	Mariana, you probably haven't started training yet, right?
+980.534000	984.534000	Say it again in other sentences.
+984.534000	988.534000	Say it in parts,
+988.534000	992.534000	but try to speak in clearly formulated sentences.
+992.534000	1025.624000	Always start with a sentence and finish with a clear one.
+1025.624000	1026.624000	Think about it.
+1026.624000	1028.624000	Maybe the model is running,
+1028.624000	1032.624000	but it doesn't show the arguments of the sentence.
+1032.624000	1034.624000	Try that again,
+1034.624000	1037.624000	and really after isolated sentences.
+1037.624000	1040.624000	Please confirm that next Friday,
+1040.624000	1042.624000	when we meet,
+1042.624000	1044.624000	you will bring me,
+1044.624000	1047.624000	you will show me the test set,
+1047.624000	1049.624000	the English source
+1049.624000	1052.624000	and the outputs of some of those systems.
+1052.624000	1056.624000	Tell me which systems you think you could have on Friday.
+1056.624000	1068.724000	Yes.
+1069.724000	1071.724000	In seven days from now,
+1071.724000	1074.724000	so on the 3rd of May.
+1074.724000	1089.004000	So please confirm which systems,
+1089.004000	1141.164000	which outputs you will have available on the 3rd of May.
+1141.164000	1143.164000	You can correct the text.
+1143.164000	1146.164000	Just sign the word that is wrong with a mouse
+1146.164000	1148.164000	and then rewrite it, correct it.
+1149.164000	1159.324000	It should work.
+1159.324000	1170.244000	I understand.
+1170.244000	1173.244000	Please try to have at least a piece.
+1173.244000	1175.244000	You don't have to have everything,
+1175.244000	1178.244000	but at least try to get at least a small sample
+1178.244000	1180.244000	of the three pieces,
+1180.244000	1201.804000	so that we can compare them.
+1201.804000	1203.804000	Excellent.
+1203.804000	1205.804000	So next week we will see
+1205.804000	1207.804000	how the systems are running.
+1207.804000	1214.804000	And at the same time we will talk about
+1214.804000	1218.804000	what you lack to train your own model
+1218.804000	1223.804000	on parallel data using NMT Toolkit Maria.
+1223.804000	1243.174000	Great.
+1243.174000	1245.174000	You have translated it correctly.
+1245.174000	1247.174000	Good.
+1247.174000	1259.634000	I think we can probably finish this talk.
+1259.634000	1265.634000	I will send you a link to the questionnaire
+1265.634000	1268.634000	where I would like you to answer
+1268.634000	1270.634000	whether it was useful
+1270.634000	1273.634000	and how much it damaged our conversation.
+1273.634000	1276.634000	And I definitely appreciate it.
+1276.634000	1280.634000	And I definitely found it fun and informative.
+1280.634000	1283.634000	And I think that if we had enough time,
+1283.634000	1285.634000	we could guess like this.
+1285.634000	1307.544000	But of course it is very hard work.
+1307.544000	1313.544000	I see that it does not translate what you say.
+1313.544000	1322.484000	Okay.
+1322.484000	1324.484000	So thank you very much.
+1324.484000	1325.484000	I will finish this talk.
+1325.484000	1327.484000	I will send a link to the questionnaire.
+1327.484000	1329.484000	And we will see each other on Friday.
+1329.484000	1331.484000	And we will look at the presentations of the great languages.
+1331.484000	1333.484000	And we will look at the presentations of the great languages.
+1333.484000	1337.484000	And we will look at the presentations of the great languages.
+1337.484000	1341.484000	You have also mentioned various prompts in today's talk.
+1341.484000	1345.484000	So you can try as many or few prompts.
+1345.484000	1348.484000	If the texts will be different at all.
+1348.484000	1351.484000	Or if the presentations will be the same with different prompts.
+1351.484000	1354.484000	But the main thing is to have a sample from each model.
+1354.484000	1385.794000	Okay.
+1385.794000	1386.794000	So thank you.
+1386.794000	1388.794000	Have a nice weekend.
+1388.794000	1390.794000	And see you on Friday.
+1390.794000	1399.734000	Thank you.
+1399.734000	1401.734000	See you on Friday.

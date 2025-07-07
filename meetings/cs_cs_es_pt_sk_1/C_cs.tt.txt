@@ -1,0 +1,46 @@
+7.66	9.66	Děkujeme.
+85.34	88.8	Možná je to proto, že teď mluvíme na angličtině.
+90.12	91.88	Bude to být víc.
+212.5	319.17	Můžeme to představit.
+319.39	332.34	To podle mě chudá krafel nezvládne.
+344.12	345.66	Možná zkus rajčata.
+442.14	444.98	To totiž je tortillade patatas.
+445.4	446.16	To je jako...
+446.86	447.9	Nebo já si to myslím,
+447.98	450.46	že jsou to jako brambory s vajíčkem.
+451.42	451.7	Víš?
+451.7	453.64	Je to takové španělské jídlo.
+454.98	456.7	Jako, že to není tortilla.
+456.84	458.12	Tam vůbec není tortilla.
+459.0	461.0	To je prostě zapečený brambory
+461.0	463.78	s vajíčkem a s cibulí.
+495.12	497.88	Já jsem to jednou taky zkoušela vařit.
+502.62	503.8	Dobře si myslím.
+667.86	668.68	Dobře si myslím.
+668.68	668.74	Dobře si myslím.
+668.74	668.8	Dobře si myslím.
+668.8	668.82	Dobře si myslím.
+668.82	668.9	Dobře si myslím.
+668.9	668.92	Dobře si myslím.
+668.92	669.0	Dobře si myslím.
+669.0	669.1	Dobře si myslím.
+669.1	669.16	Dobře si myslím.
+669.16	669.26	Dobře si myslím.
+669.26	669.36	Dobře si myslím.
+669.36	669.42	Dobře si myslím.
+669.42	669.52	Dobře si myslím.
+669.52	669.62	Dobře si myslím.
+669.62	669.72	Dobře si myslím.
+669.72	670.0	Dobře si myslím.
+670.0	670.1	Dobře si myslím.
+670.1	670.3	Dobře si myslím.
+670.3	670.4	Dobře si myslím.
+670.4	670.5	Dobře si myslím.
+670.5	670.56	Dobře si myslím.
+670.56	670.64	Dobře si myslím.
+670.64	734.5	Takže to je věc, která se vám představuje, která se vám představuje.
+734.52	813.82	Takže to je věc, která se vám představuje, která se vám představuje.
+813.84	1060.9	Takže to je věc, která se vám představuje, která se vám představuje.
+1060.92	1105.37	Takže to je věc, která se vám představuje, která se vám představuje.
+1105.39	1305.74	Takže to je věc, která se vám představuje, která se vám představuje.
+1305.76	1351.8	Takže to je věc, která se vám představuje.

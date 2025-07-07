@@ -1,0 +1,157 @@
+2.800000	5.680000	Sowe're recording. Hello, __PERSON1__.
+27.210000	28.370000	Yes, we're ready to start.
+35.780000	37.900000	So what would you like to see, __PERSON1__?
+39.040000	42.360000	I'd be interested,
+44.040000	47.360000	what the topic of your project is here at our workplace.
+73.710000	75.650000	OK, that's an interesting topic.
+75.650000	82.470000	And what kind of work is that? What's your thesis?
+116.070000	123.590000	The Divine Comedy, the Divine Comedy by Dante, that's some medieval work, isn't it?
+136.210000	141.370000	Yeah, I see.
+142.510000	146.530000	The translations aren't perfect, but I can figure it out,
+146.970000	149.130000	because I know the context we're talking about.
+178.130000	178.540000	OKAY.
+180.420000	181.720000	And your work?
+181.740000	184.500000	That's a master's or a doctorate.
+204.830000	207.270000	How many years? Third year?
+226.550000	226.770000	No.
+228.190000	232.330000	Only, if I understand correctly, you have one year left of your PhD.
+240.380000	240.600000	OK.
+244.010000	251.920000	And how long will you be in our town?
+265.750000	266.070000	OK.
+274.260000	279.740000	And the ellipse analysis you're doing, can you explain that more?
+279.740000	281.020000	What's an ellipse?
+312.860000	313.140000	OK.
+316.580000	317.980000	And what are they for?
+318.400000	322.500000	You'll think why sometimes part of a sentence is left out.
+354.930000	356.830000	OK. That's interesting.
+364.940000	368.980000	OK, so thanks for letting me know about your work here.
+370.620000	371.460000	What else?
+372.200000	376.920000	Did you also have any questions you wanted to know during our meeting?
+391.980000	393.700000	OK, of course.
+393.700000	399.120000	So I recently finished my doctoral thesis.
+399.120000	411.400000	My topic was simultaneous multisource speech translation from the original and simultaneous interpretation.
+420.600000	420.700000	OK.
+424.120000	427.460000	Simultaneous speech translation means that when someone speaks,
+427.680000	433.360000	then the machine translates at the same time they speak.
+452.360000	455.280000	Well, there's a...
+455.280000	461.440000	It's a technological problem, just doing a quick calculation on a computer,
+461.580000	463.380000	but I'm not too concerned with that.
+464.380000	469.860000	And mine is more of a linguistic problem to understand,
+470.240000	473.680000	when the machine has enough context to translate,
+473.680000	481.580000	or if it should wait until it has enough resources.
+494.820000	496.260000	We had a project...
+497.860000	502.860000	We had a three-year project to make a translation system
+502.860000	516.510000	from five languages into 43 European languages to deploy at the conference.
+516.510000	546.320000	So we're dealing with...
+546.320000	552.320000	Well, on the one hand, we would like to translate natural language,
+555.320000	560.400000	and if the language is complex, then the machine should be able to do natural complex language.
+560.400000	564.400000	But on the other hand, for practical tools,
+564.400000	569.400000	people sometimes use a tool that's not perfect,
+569.400000	575.400000	and then they adapt their language to what they want.
+575.400000	584.400000	But our primary goal is to make machine translation understand complex language.
+605.400000	605.780000	Yeah.
+622.780000	624.070000	Can you repeat that?
+624.070000	625.450000	I'm understanding body language here.
+655.450000	656.450000	Yeah.
+656.450000	657.450000	Exactly.
+657.450000	658.450000	Ideal would be,
+658.450000	668.080000	if machine translation took into account the visual side of language.
+668.080000	671.080000	It's called paralinguistics.
+671.080000	673.080000	But we don't do that yet.
+673.080000	675.080000	We only do it from sound.
+675.080000	677.920000	But it is.
+681.920000	684.920000	But now this summer I was in America for a workshop,
+684.920000	689.920000	where I worked on sign language translation.
+689.920000	694.870000	And there, on the other hand, is only the visual side.
+694.870000	702.870000	The gestures, the posture and the facial expressions.
+722.870000	724.460000	Didn't you see the facial expression where?
+740.460000	742.120000	I said in sign language,
+742.120000	748.630000	one of the elements of language, sign language, is facial expression.
+779.630000	783.770000	And then the main topic of my PhD thesis was,
+783.770000	788.770000	to combine multiple parallel languages into one.
+788.770000	792.770000	So when the original speaker
+792.770000	796.770000	plus simultaneous interpretation into another language,
+796.770000	799.770000	then the machine should listen to both
+799.770000	803.890000	and combine them for better translation, for better quality.
+820.890000	825.890000	Yes, for better quality, because often,
+825.890000	828.890000	when there are homonyms or similar sounding words,
+832.890000	837.610000	that's a common source of mistakes in speech translation.
+837.610000	843.610000	And when a second language is available to unify that meaning,
+843.610000	845.560000	that should help the quality.
+886.560000	891.560000	I've only done experiments on three languages.
+891.560000	897.030000	On Czech, English, German.
+897.030000	900.030000	Because it's a problem to get data for a lot of languages,
+900.030000	903.030000	so I only got data for these three languages
+903.030000	909.260000	and I didn't look at the others.
+909.260000	913.260000	But I did get data from the European Parliament
+913.260000	917.260000	and I looked for a moment at Czechoslovakian interpretation.
+917.260000	920.750000	So on the interpretation between Czech and Slovak.
+925.150000	930.750000	And there I saw that the interpreter didn't have much distance from the original,
+930.750000	934.750000	because Czech and Slovak are very similar languages.
+934.750000	936.980000	So there was very little delay.
+1000.980000	1003.290000	OK. And he's comparing the four gospels by the four authors,
+1003.290000	1007.290000	or different versions of the Gospels.
+1024.290000	1027.570000	Should I ask the same question again?
+1036.570000	1046.570000	OK. Your colleague from __PLACE3__ said you were working on semantic role association
+1046.570000	1049.570000	in multilingual biblical texts.
+1050.570000	1053.570000	On the gospels.
+1053.570000	1058.570000	And I wonder if he's working on multilingual versions
+1058.570000	1060.570000	of the same gospel,
+1060.570000	1069.080000	or that the same story is told four times in four gospels.
+1069.080000	1072.100000	And this handles those four versions of one story. 
+1094.100000	1095.100000	OK.
+1096.100000	1099.100000	And what languages is he working on?
+1125.100000	1128.600000	Yeah, I'm here.
+1134.880000	1137.880000	So yeah, interesting.
+1142.880000	1143.480000	And can you tell me about 
+1145.100000	1151.100000	about your workplace that you're from?
+1170.100000	1175.080000	I wonder if you can tell me about the university you came from?
+1180.080000	1181.570000	Maybe...
+1228.570000	1236.570000	OK. And I was wondering, like, what's the most famous project or outcome
+1239.570000	1241.080000	in linguistics from your university?
+1254.080000	1256.200000	Yes.
+1328.200000	1331.200000	AND OK. That's interesting.
+1331.200000	1339.200000	And are the three universities __PLACE3__, __PLACE2__ and the third one?
+1339.200000	1341.360000	Are they far apart? OK.
+1405.360000	1407.210000	If I was in Italy?
+1419.210000	1425.210000	Yes, I was at the conference in Florence in 2019, I think.
+1425.210000	1427.160000	At ACL. 
+1432.210000	1434.160000	Were you there too?
+1444.160000	1449.030000	Were you also at the 2019 ACL conference in Florence?
+1467.030000	1468.550000	OK.
+1475.210000	1479.160000	I came to Florence by train from the Czech Republic.
+1480.550000	1483.550000	By night train from Vienna.
+1483.550000	1485.950000	And back by train too.
+1496.950000	1502.020000	Because I wanted to save the environment and because it was interesting.
+1522.020000	1527.320000	So I took the night train from Vienna to Florence for the conference.
+1535.320000	1537.840000	Yes, the night train.
+1552.840000	1555.450000	Yeah, I understand.
+1564.450000	1571.750000	And this internship with us, is this your first internship during your PhD? First foreign experience?
+1598.750000	1593.400000	Yeah.
+1625.400000	1631.400000	And in your PhD, there's a requirement to have an internship abroad?
+1633.400000	1636.530000	Or did you go voluntarily?
+1651.210000	1654.160000	For how long?
+1672.530000	1674.530000	I see.
+1674.530000	1680.140000	So did you get the funds for your stay from the university or from someone?
+1705.140000	1707.770000	Yeah.
+1707.770000	1709.770000	Are you living in the dorm?
+1709.770000	1713.800000	Or
+1726.770000	1728.800000	Yeah.
+1731.800000	1734.370000	Where are you staying in our city?
+1736.370000	1739.370000	In what device? Is it a student dorm?
+1743.370000	1745.520000	Or some other kind of accommodation?
+1767.520000	1768.180000	Yeah.
+1768.180000	1770.180000	I understand.
+1770.180000	1773.680000	So it's up the hill from here, right?
+1784.680000	1785.680000	Yeah.
+1789.680000	1793.190000	Now we're down to the last 30 seconds.
+1795.190000	1797.170000	Anything else you'd like to know?
+1811.170000	1813.170000	Yeah.
+1813.170000	1817.170000	I had two internships during my master's degree.
+1817.170000	1827.250000	10 months in Germany and 3 months in Portugal at a company.
+1827.250000	1833.250000	And I was in Japan for 3 months during my PhD.
+1833.250000	1836.250000	And this summer just after my doctorate in America.
+1837.250000	1839.120000	9 weeks.
+1859.120000	1861.120000	Exactly.
+1861.120000	1865.080000	So thank you for the call, __PERSON1__. We have to go now.
+1867.080000	1869.080000	Bye, then.

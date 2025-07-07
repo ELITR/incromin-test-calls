@@ -1,0 +1,25 @@
+36.034	40.286	And we wanted to save it as
+75.426	86.238	I would like to know how was the presentation at the faculty seminar.
+261.794	263.102	So that's good.
+497.602	526.526	I think that if I understand it correctly, he talked about other projects that other teams were doing in the US. But then he also mentioned the possibility of having projects based on research funding. And in short, if I understood it correctly, maybe I lost it somewhere. I don't know if we're just talking about projects related to the workshop,
+526.85	528.862	or projects in terms of funding.
+577.346	602.302	It is probably the most important thing to discuss these details now. We could move on to another topic. I would be interested in who of you plans to continue in the work we have done together on our team. And who plans to continue with our leader on the project of recognition of sign language.
+730.114	750.462	Try unplugging it and putting it back in or something, I don't know.
+762.85	767.71	Not working, okay, I see. Yeah.
+822.658	839.55	I can't hear you. Yes, I can hear you.
+865.602	884.126	We talked about who of us will continue on the project with our leader and you said that you probably won't have time for it now, but you will probably have it later, that she will see you again and now it was up to her to say if she wants to continue in the project.
+1124.226	1140.894	I can only ask, but even if I understand it correctly, does our leader want to continue in sign language next year, or is it out of the question?
+1182.402	1206.846	If I understand correctly, our leader has some plans how to make the model so that the visual embeddings and the text embeddings are in one space.
+1223.234	1224.03	the progress.
+1286.114	1301.118	So the plan is to rely on new projects, either from the company or from the government, which we don't plan to target next year as a primary goal.
+1329.666	1358.494	Okay, okay. Okay, okay.
+1376.29	1405.214	I haven't told you yet what I'm planning. For me, those two months were a great experience and I'm glad that I had the opportunity to work on one project for two months and that I managed to work on a part of the project that I think I understand well. So I could use all the knowledge that I had gained and also learn some more. So I'm glad that I developed a demo.
+1406.082	1434.142	demonstration application. But unfortunately I do not have time to work on the project further in the future, although I am interested in it. So I will continue in my own doctorate to finish it. But if others want to continue, I will be glad when I see that the work we did will be
+1434.69	1436.19	And it's not going to happen in the future either.
+1492.45	1497.022	I was dealing with sign language during my doctorate as a next project.
+1531.906	1560.798	When we were in the US and you had an interview with your doctorate, you talked a lot about hyperparameter optimization of neural networks. So I had an impression that the sign language for you is a much more advanced thing that you do from your own conscience. But I didn't know it was a little too much for you.
+1560.898	1562.174	with the doctor.
+1621.858	1650.622	That's great, I didn't know that. We cannot hear you? Yeah, we can hear you now.
+1735.842	1745.47	What are your plans for the future? Because you finished what Flamie wanted to do.
+1804.226	1812.062	Do you think that you will work at home now? Do you think that you will do research or engineering work there?
+1888.93	1914.078	Okay, how much time do we have left? Thank you, you too. Have a nice day.

@@ -1,0 +1,49 @@
+5.97	9.61	So I will just say some words to see if it's working.
+26.16	31.3	I can see something is there, so maybe it's working, so we can continue.
+45.93	48.63	Yeah, because it is picking up some noise from the microphone
+48.63	55.45	and there is some threshold and the threshold is how to set up for everyone.
+92.02	93.34	Tak poďme mluviť v českých,
+126.99	132.31	pretože ten prekladový model vie vyhalucinovať angličtinu,
+132.31	134.73	ak dostane moc krátky text, napríklad.
+135.95	139.25	Čiže on to ako správne preloží, ale vyhalucinovať je to v angličtine.
+242.68	247.94	Akurát som sa pozrel, my používame model MeloB od Facebooku
+247.94	251.94	a on bol trenovaný na iba jednom type portugalčinu.
+252.7	254.94	Takže pohúžia, že vieme robiť len jednu portugalčinu.
+277.36	280.5	Tak ja môžem pohračovať v našej konverzácii o jedle.
+281.86	285.12	A moje oblúbené jedlo...
+286.18	289.22	je teda ryba s batatmi,
+291.53	294.03	pretože sa to dá rýchlo uvariť
+294.03	300.21	a je to chutné a je to celkom zdravé.
+314.07	318.83	__PERSON1__, ty si vzpomínal niečo s paradajkami, ak sa nemýlim.
+319.65	321.39	Chcel by si to prosím zopakovať.
+336.64	337.24	Paradajky.
+353.06	362.36	Tomej, ten model vie, my to robíme tak, že audio,
+363.64	368.56	v ktorom hovoríš, tak to sa prekladá do angličtiny
+368.56	370.02	a z toho sa robí prepis.
+372.99	378.09	Jo, cez výsper do angličtiny a z angličtiny texty cez MeloB do ostatných jazykov.
+398.72	400.92	Aké je teda jeho oblúbené jedlo?
+429.74	432.08	Takže tento rok je to bramurová tortila.
+492.1	492.42	Super.
+500.1	500.86	Jak to dopadlo?
+554.2	558.88	Daví, máte ešte nejaké špeciality v Brazílii,
+559.02	562.0	ktoré by si nám odporučil?
+562.0	562.82	Máte ešte nejaké špeciality, ktoré by si nám odporučil na jedeniach?
+599.67	602.47	To je mne zaujímavé, ale čo je to tapioca?
+632.72	637.18	Mohol by si prosím zopakovať, z čoho je vyrobená tá múka?
+709.5	709.66	OK.
+901.15	903.19	Kam chodíte zvyčajne nakupovať?
+906.74	908.84	Ja som si celkom oblobil Albert.
+949.02	949.44	Pesko?
+950.18	984.84	Ja si ešte občas objednám z VOLT marketu,
+985.76	987.54	pretože to mám po ceste domov.
+988.08	990.54	Keďže si platíme VOLT+,
+990.54	992.3	tak za každý pikátor,
+992.3	994.3	dostanem 10% zľavu.
+995.0	998.3	Takže keď urobím veľký nákup za 2000,
+998.3	1000.8	tak sa mi vráti dve stovky vždy.
+1261.15	1263.15	Môžeš to prosím zopakovať, __PERSON3__?
+1263.15	1270.14	Môžeš to prosím zopakovať?
+1276.64	1278.64	Môžeš to skúsiť povedať ešte raz?
+1292.33	1294.33	A chcel by si ju teda niekedy vyskúšať,
+1294.33	1295.33	tak ako __PERSON1__?
+1340.41	1342.91	Dobre, tak to asi môžme ukončiť.

@@ -1,0 +1,173 @@
+25.74	27.74	Yes, I can hear you.
+32.74	34.43	Can you hear me in Portuguese?
+40.78	41.66	Right.
+85.14	86.09	OK.
+131.4	133.5	Got it. No problem.
+145.57	147.87	I understand. No problem, we can continue.
+161.6	165.08	Right. I really liked Prague when I visited.
+165.68	166.78	I thought it was a very beautiful city.
+180.3	181.29	Yes, it's my first time.
+181.29	183.21	And it's the first time I've travelled to Europe too.
+196.0	197.2	I don't understand, sorry.
+207.93	209.01	Could you repeat that, please?
+226.55	230.79	Yes, it takes around 10 hours to get to Prague.
+241.25	241.77	Yes.
+245.64	246.7	Have you ever been to Brazil?
+264.73	267.69	Are you planning to travel to North or South America?
+285.19	285.67	I see.
+287.35	290.39	Travelling has made me realise how different cultures are.
+304.64	307.68	A bit more in North and South America.
+324.41	329.53	Yes, Europe is very rich, there are many countries, so it makes total sense.
+368.53	372.32	I visited the Old Town, Charles Bridge, Prague Castle and today I went to the National Theatre to see an opera concert.
+388.32	395.76	That's right, to see the opera. It's my first time seeing the opera. It's not very common in the other places I've visited.
+413.76	415.02	The specific idea of what?
+432.02	449.9	It's not the performance. Actually, the presentation is about secrets. I haven't read the opera transcript properly, but it sounds quite interesting.
+468.9	477.54	That's a big difference. Public transport is very efficient here in Prague, there are many types of transport in the same city.
+478.88	486.88	In Brazil it's more common to only use buses in the cities and in the big metropolises, the metro in general, buses and the metro.
+486.88	496.5	But here I've noticed that it's very efficient to buy tickets and the timetables are very accurate.
+525.5	527.5	Yes, I see.
+529.5	533.94	But is public transport different in other European cities?
+575.94	578.31	Because it would be difficult to live in those countries.
+608.31	609.08	Ah, got it.
+610.42	616.8	But I thought Prague was very beautiful. The buildings are medieval, there are lots of castles, it's very different from Brazil.
+616.8	621.8	It's hard to find castles in Brazil and South America in general.
+662.8	672.28	I'm very curious to visit these cities in the countryside, but I'm a bit scared that I'll need to speak Czech to be able to visit the tourist sites.
+672.28	678.6	Do you think it would be possible without speaking the local language?
+708.6	710.6	Got it.
+710.6	712.6	I'm very curious to see that.
+712.6	714.6	In Brazil too.
+714.6	722.6	It's more in the capital cities that people speak English, but in the countryside we only speak Portuguese.
+722.6	726.6	Of course it's possible to find someone or other who can speak English.
+755.6	760.73	Yes, but when Brazilians travel to Portugal they also struggle a bit to understand.
+760.73	768.73	The Portuguese speak very fast Portuguese, so it's harder for us Brazilians to understand.
+768.73	774.73	We often prefer to speak English with the Portuguese, but the Portuguese understand us Brazilians very well.
+789.73	797.4	Within the Czech Republic there are differences in dialects, accents, how does that work?
+848.4	849.73	I understand.
+849.73	855.73	But within the countries of the Czech Republic is there a difference in cuisine?
+855.73	860.73	For example, is there only one specific dish in one city and another specific dish in another?
+860.73	864.73	Or is it a standardised food, a standardised cultural style?
+901.73	902.48	Curious.
+912.08	913.41	I see.
+913.41	917.41	In Brazil, each state has its own typical food.
+917.41	922.41	So in the north-east we eat a lot of seafood.
+922.41	925.41	In the South it's more beef.
+925.41	931.41	In the Centre-West it's a mixture, so we eat all kinds of food, it's very cultural.
+931.41	933.41	And we're influenced by other cultures too.
+933.41	937.41	So you can find pizza, French food, Italian food.
+937.41	944.95	But especially in the North and South it's food specific to those regions.
+973.95	974.95	I see.
+974.95	980.95	We're very rich culturally in terms of ethnicity.
+980.95	984.95	You can find all kinds of people in Brazil.
+984.95	987.95	There is no signature that defines us.
+987.95	989.35	And we have many communities.
+1000.35	1002.35	So there's a Japanese community, a...
+1002.35	1010.35	African community, Italian communities, German communities.
+1010.35	1014.35	So there are German neighbourhoods, there are Italian neighbourhoods.
+1014.35	1018.35	So because of that, food is also influenced.
+1033.35	1035.82	I think it's more in Brazil.
+1035.82	1039.82	I haven't travelled much to South America to say.
+1039.82	1041.82	But I see this distinction more in Brazil.
+1041.82	1043.82	Brazil is very big.
+1058.82	1062.74	The interesting thing about the difference between the two countries is that Brazil is always hot.
+1062.74	1066.74	So we, of course, have our division of seasons.
+1066.74	1068.74	Summer, winter.
+1068.74	1071.74	But it's never a very cold winter, you know?
+1071.74	1072.74	It doesn't snow.
+1072.74	1076.74	So we can get by without cold sweaters, so to speak.
+1076.74	1082.74	But here I understand, and in Europe in general, you have well-defined seasons.
+1082.74	1085.74	You do have a very cold winter.
+1085.74	1086.74	It's very curious.
+1130.74	1132.46	And how was the snow experience?
+1132.46	1134.46	Do you practise any sports?
+1134.46	1137.46	Do you change your habits when it snows?
+1137.46	1140.46	I say, what's it like to do the market?
+1140.46	1142.46	To walk the streets?
+1142.46	1144.11	Do you have to change your habits when winter comes?
+1169.11	1171.11	I've always wanted to go skiing.
+1171.11	1175.11	But it's quite difficult in South America in general.
+1175.11	1176.11	Very interesting.
+1176.11	1182.76	To replace skiing, we practically skateboard.
+1194.76	1196.32	Like this.
+1196.32	1202.8	And on the subject of...
+1202.8	1207.8	Do you have a temperature controller in your house?
+1207.8	1209.8	When it's winter?
+1209.8	1211.53	Or do you have no equipment?
+1235.53	1236.53	I see.
+1236.53	1237.53	That makes sense.
+1237.53	1239.53	In Brazil we don't have heaters.
+1239.53	1241.53	We have air conditioning.
+1241.53	1245.53	So, whenever it's too hot, we switch on the air conditioning.
+1245.53	1248.53	It's very difficult to enter a building without air conditioning.
+1248.53	1250.53	So it's always very cool.
+1250.53	1254.16	Especially in the centre of the country.
+1287.16	1288.16	I see.
+1288.16	1291.16	But comparing the heat issue.
+1291.16	1294.16	Have you been suffering a lot from the heat lately?
+1294.16	1299.16	Is the heat of the last few years the same as it has been for the last 10 years?
+1299.16	1300.16	How has it been for you?
+1321.16	1322.57	I see.
+1322.57	1326.57	In Brazil we've also felt that the heat has increased in general.
+1326.57	1333.57	There have been some natural catastrophes such as floods and very strong storms.
+1333.57	1340.57	So all of this is a consequence of climate problems.
+1362.57	1363.18	I don't understand.
+1377.18	1379.16	Could you repeat that, please?
+1379.16	1381.16	Yes, that's true.
+1381.16	1383.16	I've been feeling that too.
+1383.16	1387.54	A curiosity I was wondering about.
+1387.54	1390.54	How do you deal with tourists?
+1390.54	1393.54	There are a lot of tourists in town.
+1393.54	1396.54	Do you have a control programme?
+1396.54	1408.68	How does it work?
+1411.12	1421.12	I mean, with the capacity of people, is there a limit to entering concerts?
+1421.12	1424.12	Limits for visiting tourist sites?
+1424.12	1426.08	Or is there not?
+1447.08	1448.08	Got it.
+1448.08	1455.08	And after you came to Prague, did you get used to the buildings, the style of the city?
+1455.08	1457.75	Or do you still miss your hometown a bit?
+1496.75	1498.75	That's quite curious.
+1421.75	1522.31	I see.
+1522.31	1524.31	That makes sense.
+1524.31	1531.31	Are you thinking of moving to another region or another country here in Europe?
+1562.31	1563.51	I see.
+1563.51	1572.51	And do you recommend any neighbourhoods to visit that have a strong Czech culture?
+1572.51	1576.51	Because I see that a lot of the food is not Czech.
+1576.51	1580.51	They're from Russia, or they're from Poland, or they're from other regions.
+1580.51	1684.63	Do you recommend any places that actually have Czech culture?
+1604.63	1610.63	Ah, I mean, do you recommend any places for me to visit that have a very strong Czech culture?
+1610.63	1618.63	Because I see that here, especially in the city centre, there's a lot of Russian culture and Polish culture.
+1618.63	1621.63	I get a bit confused about what's Czech and what's not.
+1648.63	1651.2	Yes, restaurants and crystal shops.
+1651.2	1655.2	I've seen that crystal shops are quite common in the Czech community.
+1655.2	1657.76	Is that correct?
+1694.76	1695.76	Yes, that's right.
+1695.76	1707.76	It's interesting that you mentioned that because the day before yesterday I went to the city centre to see the tower in the old square.
+1707.76	1711.76	And I really wanted to buy some water, but it was very expensive.
+1711.76	1717.76	It was 80 Czechs, which is equivalent to 6 euros.
+1717.76	1718.76	It's extremely expensive, I thought.
+1718.76	1722.76	So it makes sense what you said.
+1765.76	1766.84	Yes, it does.
+1766.84	1773.84	I've visited a few other sights and I'm fascinated by the city.
+1773.84	1775.84	There's so much to do.
+1775.84	1778.84	Even though it's a small town, there's plenty to do.
+1778.84	1782.84	And I'll definitely come back here to continue my journey.
+1807.84	1809.48	Oh, could you repeat that? I don't understand.
+1823.48	1826.06	Yes, I'm planning to come back in a while to travel.
+1826.06	1829.06	To come back to travel, to really go sightseeing.
+1829.06	1835.06	I came to Prague to take part in the event, which has been marvellous.
+1861.06	1866.56	Is there any difference between the cities? What would draw your attention to one or the other?
+1866.56	1868.56	What characterises them in your opinion?
+1910.56	1911.13	I don't understand.
+1942.13	1944.2	Yes, that's right.
+1944.2	1951.2	I really like getting recommendations from local people, because there's less chance of me getting frustrated.
+1970.2	1972.5	Oh, could you repeat that, please?
+1997.5	2007.13	Ah, I think so, especially if you like seeing nature in general.
+2007.13	2020.13	In Brazil we have a great diversity of beaches, streams, parks, especially beaches.
+2020.13	2022.13	We have dunes.
+2022.13	2027.13	So you can visit a lot of different things in the country.
+2027.13	2029.13	In the same place.
+2029.13	2031.13	Mainly in terms of nature.
+2031.13	2036.13	So, if you go to the north of the country, you'll find lots of beaches with crystal-clear water.
+2036.13	2039.13	And it's really very nice.
+2060.13	2062.8	Ah, could you repeat that, please?
+2067.8	2068.35	Ah, could you repeat that, please?
+2084.35	2086.93	Ah, right. OK.

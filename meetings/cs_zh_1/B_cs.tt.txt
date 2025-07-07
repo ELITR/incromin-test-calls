@@ -1,0 +1,299 @@
+0.000000	10.062000	Dobré odpoledne.
+10.162000	11.122000	Dobré odpoledne.
+12.202000	13.662000	Děkuju. Výborně.
+14.442000	15.262000	Už se vidíme.
+16.202000	20.182000	A teď se ukazuje...
+20.182000	22.082000	Ano, slyším.
+22.642000	27.282000	Teď se ukazuje, že bude lepší přepnout si záložky
+27.282000	29.122000	a sledovat jenom tu anglištinu.
+29.442000	32.282000	Protože česky asi nerozumíte. Je to tak.
+34.872000	37.312000	Rozumíte češtině nebo vůbec?
+50.732000	53.252000	Dobře, takže asi nerozumíte.
+53.252000	57.932000	Já vůbec nerozumím čínsky, vy asi nerozumíte česky.
+58.272000	59.352000	Tak to je ideální situace.
+59.992000	66.952000	Takže vyzkoušejme, jak nám tahle schůzka bude probíhat.
+73.882000	77.462000	Má to poněkud větší spoždění,
+77.702000	80.542000	ale musíme mít trpělivost vždycky počkat,
+80.542000	82.542000	až se objeví ten překladník.
+82.662000	86.002000	A pak si to v angličtině prohlédnout.
+86.422000	88.662000	A v tom levém okně tedy vidíte transkript,
+89.342000	92.782000	v té pravé části se bude objevovat nějaký souhrn.
+93.262000	99.122000	Tak já bych si chtěl dneska povídat nejvíc o tom článku,
+99.162000	104.582000	že organizační věci, k té přípravě prezentace na LREC,
+105.202000	107.242000	ale nic jsem k tomu ještě neudělal.
+109.042000	112.642000	Pamatujete vysy, v jakém stavu je příprava,
+112.662000	115.242000	která je na LRECovou prezentaci.
+115.422000	120.022000	A taky bych chtěl vědět, kolik máte času na tu přípravu.
+120.042000	122.542000	Vy jste, myslím, posílal nějaké slidy,
+123.362000	126.322000	ale nevím, jestli ještě máte čas do toho zasahovat,
+126.342000	128.582000	abychom to pro __PERSON1__ dobře připravili.
+158.652000	159.952000	Tak uvidíme, jestli...
+159.972000	160.972000	Aha, dobře.
+160.992000	164.372000	Ten systém se nějak pokazil a omylem se odpojil.
+165.412000	168.172000	Ten článek, o kterém jsem mluvil,
+168.632000	169.752000	tak je...
+169.752000	171.752000	na konferenci LREC.
+172.872000	174.192000	A teď já nevím, jestli to rozpoznám.
+174.212000	175.492000	Ano, rozpoznává to.
+176.292000	178.132000	Tak má to tedy tu prodlevu.
+178.432000	179.432000	A...
+182.342000	184.742000	proto musíme vždycky počkat.
+186.882000	187.882000	Chtěl bych,
+189.382000	191.042000	abychom během naší schůzky
+192.122000	196.102000	se ujistili, že pro __PERSON1__,
+196.122000	198.182000	který bude prezentovat na LRECu,
+198.522000	200.222000	budeme mít dobré podklady.
+250.572000	254.212000	Ano, nemáme na to moc času, máte pravdu.
+255.552000	259.252000	Jeden problém je, že samotná prezentace se musí udělat.
+259.272000	266.012000	A druhý a větší problém je, že už do konce měsíce, myslím,
+266.032000	268.452000	nebo něco jako, no možná do konce dubna,
+269.832000	274.992000	musí __PERSON1__ nahrát video k té prezentaci.
+275.512000	279.372000	Takže tu prezentaci bychom skutečně měli dokončit tento týden.
+280.572000	285.872000	Ale já bych přesto použil ten slot, který tady máme
+285.892000	291.792000	a zkusil to zvládnout takhle česko-čínsky.
+291.812000	294.052000	I když je to samozřejmě mnohem pomalejší.
+294.072000	306.082000	Jak vidíte v tom přepisu, v tom transcriptu,
+306.102000	310.742000	tak já se občas pokouším opravovat nějaké hrubé chyby,
+310.762000	312.662000	který ten překlad udělal.
+312.682000	316.862000	Takže když vidím, že ta angličtina je nesrozumitelná,
+316.862000	319.902000	tak to prostě přepíšu.
+319.922000	322.762000	Takže doufám, že teď třeba jste zaznamenala,
+322.782000	324.182000	že jsem mluvil o dubnu,
+324.202000	329.102000	co se tam původně objevilo a rozpoznáno velmi špatně.
+329.122000	330.702000	A vy můžete dělat to samé.
+330.722000	335.342000	Vy můžete také normálně označit kousek toho textu v levém okně
+335.362000	337.042000	a přepsat to.
+337.062000	363.712000	Ano, přesně tak.
+363.732000	368.292000	Zkusil bych probrat tu prezentaci takhle česko-čínsky.
+368.312000	371.512000	Mohla byste, prosím,
+371.532000	376.532000	vložit odkaz na tu prezentaci do toho pravého okna,
+376.552000	378.532000	do toho souhornu?
+378.552000	381.532000	Ono je možné i do toho souhornu něco přepisovat.
+381.552000	387.532000	Takže já tam připravím text a vy tam vložíte odkaz.
+387.552000	413.332000	Prosím, zkuste to teď,
+413.352000	441.322000	ať se o té prezentaci můžeme rovnou bavit.
+441.342000	444.322000	Aha, já to zatím ještě nevidím.
+444.342000	446.322000	Kam jste to vložila?
+446.342000	447.322000	To je divné.
+447.342000	448.322000	V tom souhorní.
+448.342000	450.342000	Souhornu, proč já to nevidím?
+450.362000	463.872000	No, tak možná tam se nám to nepřenáší.
+463.892000	465.872000	Já to tam vpravo nevidím.
+465.892000	466.872000	To je divné.
+466.892000	469.872000	Tak to, prosím, vložte doleva.
+469.892000	471.872000	Udělejte to jinak.
+471.892000	474.872000	Přečtěte kousek toho odkazu.
+474.892000	477.872000	Je to www.google.com něco.
+477.892000	481.872000	A místo toho www.google.com
+481.892000	485.872000	pak dejte přímo ten odkaz v tom levém okně.
+485.892000	487.872000	Protože v tom pravém mně se to neobjevilo.
+487.872000	525.052000	Takže je tam nějaký technický problém.
+525.072000	528.052000	Aha.
+528.072000	537.052000	Tak zkuste znova otevřít ten to Minitman k měč.
+537.072000	540.052000	Znova běžte na ten odkaz.
+540.072000	545.052000	Minitman k měč, Miniting, CO, HC a tak dál.
+545.072000	553.012000	Já ten odkaz vložím ještě jednou třeba do chatu tady v tom Jitsi meetingu.
+553.052000	555.032000	Tady je někde chat.
+555.052000	557.032000	A do něj můžu vložit ten odkaz.
+557.052000	559.032000	Nebo je to ten samý z toho mailu.
+559.052000	576.492000	Prostě zkuste reload.
+576.512000	590.472000	Tak nevím jestli to teď bude fungovat nebo ne.
+590.492000	592.472000	Jste ho tam vložila někam, jo?
+592.512000	593.472000	Aha.
+593.512000	595.472000	Tak já to pořád nevidím.
+595.512000	604.742000	Tak ten link prosím vložte do chatu v Jitsi.
+604.782000	606.742000	V tom Fair Meeting.
+606.782000	609.742000	Ve Fair Meetingu tam se vidíme na kameře.
+609.742000	612.742000	Tak tam je chat a do něj ten odkaz tady vložte.
+612.762000	616.742000	Čili z nějakého důvodu to nepřenáší správně.
+616.762000	625.162000	Tam co se vidíme na kameře, tak tam prosím vložte ten odkaz.
+625.182000	644.672000	Tak prosím, zkuste reload Miniting, takže je tam před námi znovu.
+644.692000	650.672000	A zkuste link přímo do chatu na hlavní míta, která je na fairmeeting.net.
+650.692000	655.372000	A zase...
+655.392000	656.452000	A zase...
+656.472000	657.472000	Ano.
+657.492000	658.392000	Ano.
+658.412000	668.152000	Takže opravdu doufám, že to představíte.
+668.172000	670.152000	Aha, výborně, děkuju.
+670.172000	672.152000	Vidím to v chatu.
+672.172000	673.152000	Tak.
+673.172000	679.152000	A teď se můžeme tedy podívat na tu prezentaci.
+679.172000	682.152000	Máme tam čísla slajdů.
+682.172000	684.152000	Vlastně nevíme, jak dlouhé...
+684.172000	685.152000	Jo, víme.
+685.172000	688.152000	Má to být dlouhé 15 minut.
+688.172000	692.152000	Teď bude asi nejšikovnější, když si dáte ta dvě okna vedle sebe.
+692.172000	694.212000	Jednak Transcript.
+694.212000	696.212000	A jednak ty slajdy.
+696.232000	698.212000	Ať se díváme na ty slajdy.
+698.232000	711.292000	Čili potvrďte, až uvidíte současně slajdy a současně ten náš rozhovor, ten přepis.
+711.312000	735.792000	Aha, teď vidím, co píšete.
+735.812000	737.792000	To je zajímavé.
+737.812000	738.792000	Teď se to...
+738.812000	739.792000	Teď vidím, co píšete.
+739.812000	742.792000	Teď ty vaše opravy se tam správně promítají.
+742.812000	744.792000	Nevím, proč to předtím zlobilo.
+744.812000	750.792000	Uděláme to tak, že já nazdílim obrazovku a budu tam mít obojí.
+750.792000	752.792000	To bude nejjednodušší varianta.
+752.812000	755.792000	Čili já dám Screen Sharing.
+755.812000	761.232000	Enter Screen.
+761.252000	763.232000	Tak, takže teď...
+763.252000	765.232000	A to není ono.
+765.252000	769.232000	Teď musím jenom najít správné okno.
+769.252000	772.232000	Tak, teď doufám, vidíte moji obrazovku.
+772.252000	787.132000	A na mé obrazovce je Transcript vlevo a vpravo jsou ty slajdy.
+787.152000	805.482000	Výborně, výborně.
+805.482000	808.482000	Tak to je skvělé, takže se můžeme věnovat těm slajdům.
+808.502000	814.482000	Tady musíme uvést všechny autory, čili to by chtělo...
+814.502000	817.482000	Já tam budu psát k tomu poznámky.
+817.502000	819.482000	Snad to bude fungovat.
+819.502000	820.482000	Jak se to dělá?
+820.502000	821.482000	Nechce to dovolit.
+821.502000	823.482000	Aha, Share.
+823.502000	827.482000	A proč já nemůžu editovat?
+827.502000	830.482000	File View Only. No Edits.
+830.502000	831.502000	Aha.
+831.542000	833.482000	Mohla byste, prosím, změnit...
+833.482000	839.112000	...práva k přístupu.
+839.132000	845.322000	Ale to je divné, editor, kdokoliv to může editovat.
+845.342000	848.322000	Prosím, přidejte tam i mě.
+848.342000	851.322000	Ondřej Bojar, Gmail.
+851.342000	855.332000	A jak ten znamenáč?
+855.352000	857.332000	Gmail.com.
+857.352000	861.332000	Já zkusím si to sám pro sebe.
+861.352000	863.332000	To se nepřidalo.
+863.352000	873.302000	Aha.
+873.322000	897.542000	To se chová úplně špatně, ale nevadí.
+897.582000	899.562000	Ale...
+899.582000	903.512000	Jo.
+903.532000	905.512000	Dobře.
+905.532000	909.512000	Čili myslíte si, že já bych měl udělat kopii těch slajdů?
+909.532000	912.512000	Make a copy entire presentation.
+912.532000	914.512000	Ano.
+914.532000	917.512000	A pak budeme editovat tu kopii u mě. Je to tak?
+917.532000	920.512000	Měl bych udělat kopii.
+920.532000	958.232000	Takže teď jsem udělal kopii.
+958.252000	964.212000	A chtěl bych vás poprosit, abyste přejmenovala...
+964.252000	967.232000	ten starý soubor na old version.
+967.252000	972.232000	Aby bylo jasné, že ten starý soubor nechceme používat.
+972.252000	1003.442000	Výborně. A já ještě využiju toho, že tady vám dám přístup k tomu novému.
+1003.462000	1010.262000	Takže teď v chatu si můžete vyzvednout a taky se podívat na ten...
+1010.282000	1012.262000	Výborně, už tam asi jste.
+1012.282000	1015.262000	Čili tady potřebujeme...
+1015.282000	1019.262000	Tady musíme uvést všechny autory.
+1019.262000	1045.892000	Já bych uvedl všechny a __PERSON1__ potrhnul.
+1045.912000	1092.252000	Děkuju za opravu.
+1092.272000	1101.252000	Tak, myslím si, že bychom měli mít slide, který říká, o čem bude ta přednáška.
+1101.272000	1103.252000	Čili tadyhle...
+1103.272000	1107.252000	Já bych tu přidal ještě outline.
+1107.272000	1141.492000	A teď musíme tady se podívat, co je na těch slidech.
+1141.492000	1143.452000	Celkově má __PERSON1__ mluvit.
+1143.472000	1183.692000	Můžu mluvit 15 minut.
+1183.692000	1186.692000	Jo, děkuju.
+1186.712000	1188.692000	Možná to...
+1188.712000	1191.692000	Je to dobrý návrh.
+1191.712000	1196.692000	To schování, to skrytí některých těch slideů, to bych nechal na __PERSON1__.
+1196.712000	1198.692000	Třeba se mu bude chtít mluvit o všem.
+1198.712000	1201.692000	Ale souhlasím, že můžeme něco vynechat.
+1201.712000	1208.692000	A v takovém případě bychom v tom outline, v tom úvodu měli uvést všechno.
+1208.692000	1212.732000	A zmínit, že jenom něco z toho se bude prezentovat.
+1212.752000	1227.302000	Aha, dobře.
+1227.322000	1228.302000	Jo, děkuju.
+1228.322000	1230.302000	A na to Dan je matoucí.
+1230.322000	1232.302000	Souhlasím s vámi.
+1232.322000	1234.302000	Tak.
+1238.302000	1242.302000	Takže, co do té outline celkově přidáme.
+1247.302000	1249.302000	Cíl projektu samozřejmě.
+1249.322000	1250.302000	A potom...
+1250.322000	1270.992000	...
+1270.992000	1274.302000	...
+1274.322000	1280.302000	Tady se bude jenom krátce mluvit o těch modelech.
+1280.322000	1286.952000	Takže použité modely.
+1286.972000	1293.532000	A potom...
+1293.552000	1295.532000	...
+1295.552000	1297.532000	... testy.
+1297.552000	1304.952000	A my jsme měli kolik testů? Dva testy, že jo?
+1304.972000	1309.952000	Čili máme Cluster Separation.
+1309.972000	1311.972000	A pak tam máme...
+1311.972000	1313.972000	... Embedding Prediction.
+1313.992000	1322.002000	A pak tam máme...
+1322.022000	1325.002000	... Classification of Labels.
+1325.022000	1346.932000	Tak.
+1346.952000	1350.932000	Já si myslím, že ty slidy už teď jsou asi dobré.
+1350.952000	1360.932000	Že v podstatě bude stačit, když __PERSON1__ poprosíme, aby k tomu zkusil něco říct a ty slidy opravil.
+1360.952000	1364.952000	Nebo vám připadá, že něco chybí?
+1364.992000	1397.242000	Tak očkejte.
+1397.262000	1413.992000	...
+1414.012000	1415.992000	...
+1416.012000	1417.992000	...
+1418.012000	1419.992000	...
+1420.052000	1420.792000	És Prahalov.
+1420.812000	1424.852000	Není to tady dostatečné obrázek?
+1424.892000	1427.912000	Nebo se mluvíte o tomhle slajdu 6?
+1429.712000	1430.712000	Aha, jo.
+1430.732000	1451.562000	Takže už 6.
+1451.582000	1488.232000	Aha, jo, chápu.
+1488.252000	1494.632000	Já jsem ještě vylepšil trochu ten úvodní slajd.
+1494.652000	1501.802000	Jenom jsem tam připsal, co je náš cíl.
+1501.822000	1504.942000	Takže možná to uděláme písem.
+1504.962000	1505.802000	A tady bych...
+1505.842000	1506.662000	Já bych chtěl zvětšit písmo.
+1506.702000	1508.662000	Což nevím, jestli se tu dá udělat jednotlivě.
+1508.662000	1511.902000	To písmo je poněkud moc malé.
+1514.712000	1515.092000	13.
+1516.572000	1520.692000	Že to nezvětšuje nic, to bych musel takhle.
+1521.432000	1522.252000	Jenže pak to najde.
+1522.352000	1523.732000	A, jde to zvětšovat, dobrý.
+1532.342000	1535.822000	No a myslím si, že bychom měli __PERSON1__ pomoct,
+1536.562000	1543.822000	tím, že u každého toho testu
+1543.822000	1547.282000	napíšeme větu, co to vlastně testuje.
+1548.342000	1551.342000	Či tady ještě drobnost.
+1581.822000	1628.522000	Tak myslím si, že tohle je dobrý úvod k tomu korpusu.
+1629.222000	1634.962000	Tady je úvod k těm embeddingům, které použijeme.
+1634.962000	1638.842000	Tady je definice toho, co to je transformační vektor.
+1643.542000	1646.702000	Tady je pak vizualizace transformačních vektorů.
+1647.002000	1649.422000	Pro ty dva prostory.
+1651.062000	1655.962000	A nevím, jestli k tomu už rovnou by měl __PERSON1__ něco komentovat.
+1659.972000	1666.192000	A tady to chce formulovat tu otázku.
+1667.192000	1670.572000	Čili cíl testu.
+1684.692000	1687.612000	Musíme prostě položit tu otázku z toho testu.
+1692.772000	1694.812000	Čili co se tu přesně děje.
+1694.812000	1695.812000	My chceme...
+1701.672000	1702.732000	Ty klastry jsou pevně dané.
+1702.952000	1704.672000	Ty klastry jsou dané tím...
+1707.772000	1754.692000	Já myslím, že ten kalinský harabáž je jako technický způsob, jak se něco změří.
+1754.832000	1755.752000	Čili to je v pořádku.
+1756.152000	1757.792000	To lidé buď znají nebo neznají.
+1758.412000	1760.192000	K tomu říkáte tu důležitou věc.
+1760.752000	1765.392000	Větší číslo znamená větší oddělení těch klastrů.
+1765.572000	1766.952000	Větší odlišení těch klastrů.
+1767.812000	1770.132000	Ale co je problém?
+1770.132000	1770.932000	Problém.
+1771.132000	1774.612000	Je, že jsme neřekli jasně, co jsou ty klastry.
+1774.832000	1778.292000	Jsou to klastry transformačních vektorů,
+1778.432000	1781.092000	anebo jsou to klastry těch jednotlivých vět.
+1867.212000	1871.572000	Tak a to je přesně to, co tady musíme napsat přesně.
+1936.192000	1939.292000	Bohužel už nám vypršel čas na tenhle hovor.
+1940.052000	1943.412000	Ale já bych vás chtěl poprosit,
+1943.412000	1946.412000	když byste přidala podobnou formulaci,
+1947.752000	1951.672000	k těm dalším testům.
+1952.732000	1958.672000	Čili jednou větou, případně s nějakým příkladem,
+1960.632000	1965.832000	když byste vždycky vysvětlila, co ten test provádí.
+1979.852000	1981.492000	Tak, děkuji moc krát.
+1982.092000	1984.792000	Já vám ještě pošlu odkaz na dotazník,
+1985.232000	1988.092000	jestli tenhle hovor byl jako použitelný
+1988.092000	1989.692000	a nakolik nás to zbrzdilo.
+1990.912000	1993.912000	Když by to bylo, nemělo ty technické potíže,
+1994.692000	1996.892000	tak si myslím, že by to celkem fungovalo.
+1997.512000	2003.432000	Že je to použitelná metoda, ačkoliv já vůbec nerozumím čínsky.
+2017.672000	2019.412000	Já, ano, výborně.
+2019.532000	2021.392000	Tak jo, takže děkuji moc krát.
+2021.972000	2024.032000	Prosím, doupravte trochu ty slidy,
+2024.412000	2025.772000	pak je pošleme __PERSON1__
+2025.772000	2030.692000	a poprosíme ho, jestli už je s nimi schopen prezentovat
+2030.692000	2033.952000	a tím to bude připraveno a on to odprezentuje a bude.
+2034.312000	2049.862000	Tak jo, takže děkuji moc krát a končím tenhle hovor.
+2051.362000	2054.542000	A pak si ještě případně zavolám i jindy už normálně.
+2055.622000	2056.922000	Děkuji, díky, nashledanou.
+2057.282000	2057.882000	Nashledanou.
+2057.882000	2087.862000	Děkuji, děkuji.

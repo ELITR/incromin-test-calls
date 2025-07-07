@@ -1,0 +1,22 @@
+ELITR CS_RU 3
+Attendees: CS, RU
+Purpose of meeting: 
+
+-start talking about CS's interest on project
+--small misunderstanding between speakers about input and output of the model
+--technical talk about how the model can work
+--discuss how to inovate the model to work better
+
+-switch to talk about RU project
+--describe what is his project about and why is it important
+
+-back to talk more about CS's other project, primar one
+--decribe how it is trained and the sense of it
+--RU compares CS's project with his main interest at work
+---small talk about low-resource languages
+--brief talk about multimodel models
+
+-reading the translation of their talk
+--agreed the it still need to be trained
+
+-finish with a brief assessment of the call

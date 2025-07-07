@@ -1,0 +1,70 @@
+20.840000	23.720000	oh it's saying something weird that marathi translations are bad
+24.440000	25.960000	and the transcriptions are bad too
+120.390000	126.390000	uh this marathi is a bit off it's a bit strange can we switch to hindi maybe is it possible
+127.270000	130.470000	this marathi i think i think it's struggling with marathi quite a lot
+145.420000	145.900000	okay
+247.230000	253.230000	foreign
+253.230000	267.290000	foreign
+267.290000	269.290000	me
+274.170000	276.990000	foreign
+279.870000	280.990000	foreign
+292.350000	293.470000	foreign
+354.890000	356.890000	foreign
+383.210000	384.330000	foreign
+416.940000	418.060000	foreign
+511.260000	513.180000	um
+524.360000	525.480000	um
+527.480000	529.480000	foreign
+545.310000	552.430000	so the automatic speech recognition that uh for marathi seems to be very bad but the asr
+552.430000	556.110000	form check seems to be good and then the translation from czech to marathi is okay
+556.110000	560.750000	but marathi asr is so bad that it works less than 50 percent of the time
+610.040000	611.160000	okay
+686.990000	691.550000	foreign
+691.550000	743.480000	um
+743.480000	748.120000	foreign
+748.120000	760.330000	um
+760.330000	769.230000	foreign
+771.630000	772.430000	foreign
+772.430000	804.780000	um
+804.780000	805.260000	uh
+805.260000	805.500000	uh
+805.500000	805.980000	uh
+805.980000	871.140000	40% understand me and 50-60% don't understand me. Yes, I want to be a Swamil. I don't think
+871.140000	927.400000	the last sentence is right. Is it a complete sentence? Yes, I understood that. And your
+927.400000	953.110000	wish is that I also participate in that panel. I didn't understand that. I didn't understand
+953.110000	1020.510000	what to do in the panel. Say it again. I didn't understand the last sentence. I don't know
+1020.510000	1098.550000	if his speech is correct. I understood that. Yes, we can give advice. I can give advice.
+1098.550000	1112.760000	By participating in this panel, I can give you advice. Yes, if I speak long sentences,
+1112.760000	1125.870000	then the speech is correct. But if I speak short sentences, then the speech is not correct.
+1125.870000	1142.640000	Correct, correct. If I speak long sentences, it is correct. Yes, I understood, I understood.
+1142.640000	1147.640000	Correct, correct. Now I understood. Small sentences or small sentences are not correct.
+1147.640000	1161.430000	Long sentences or long sentences are correct. Yes, this means that for Marathi speech recognition
+1161.430000	1196.140000	or pronunciation, long sentences or long sentences have to be used. Correct. Yes, yes, yes, yes.
+1196.140000	1214.150000	Correct. This means correct. That's why when someone speaks, he has to speak at least 5 seconds.
+1214.150000	1275.980000	Yes, say it. What do you want to know? I think this project is very nice. And the reason
+1275.980000	1285.980000	is that because of this project, the conversations we have, the general conversations we have
+1285.980000	1295.980000	with the participants, can be used very well at that time. Therefore, if small sentences
+1295.980000	1338.970000	can be used, then everything will be fine. Yes, I like your project and I think your project
+1338.970000	1348.970000	if it is, as we say in English, simultaneous speech, if your project can be used for that,
+1348.970000	1397.770000	then everything will be fine. Other plans, meaning this idea, this project or any other thoughts about your project,
+1397.770000	1467.260000	yes, correct. I don't know how many people will like this project or not, but the benefit of this project
+1467.260000	1477.260000	is definitely there. Because nowadays, the research or research that is done, if the research
+1477.260000	1486.260000	of the world does not collaborate or work together with people, then we will not be able to do good research.
+1486.260000	1494.260000	But if using Minuteman, we can speak to people who are doing research all over the world, then we can do
+1494.260000	1518.560000	even better research. Even if this project does not get funding, the benefit of this project is there.
+1518.560000	1540.470000	I feel that if you use the whisper model directly, then there is not much benefit. But this whisper model
+1540.470000	1551.470000	if you can improve for the Indian language, then this model will be useful and Minuteman will also be used a lot.
+1551.470000	1584.330000	Right now, the AI for Bharat group has made speech-to-text and text-to-speech models for all Indian languages.
+1584.330000	1612.440000	You can use them. They are already ready. I am sending you the link. One second.
+1612.440000	1640.470000	Give me one minute. I am sending you the link now. These are all excellent models.
+1640.470000	1657.930000	And because of these models, you will be able to understand the pronunciation of any Indian language.
+1657.930000	1673.300000	Whisper-to-speech is very, very good. Next month, we will also be providing data for speech translation.
+1673.300000	1675.300000	The data for speech translation is very, very good.
+1676.300000	1728.720000	We have 10,000 hours of data. Yes, we do not have the data for speech translation quality estimation.
+1728.720000	1736.720000	But we have the quality estimation data for normal speech or text-to-text speech.
+1736.720000	1745.720000	And we are now using LLM to find out how to do the quality estimation.
+1745.720000	1765.520000	But the quality estimation data for simultaneous speech translation is very, very good.
+1766.520000	1768.520000	We do not have the quality estimation data.
+1768.520000	1839.230000	But if we get the quality estimation data for the spoken language domain, it will be very good.
+1839.230000	1844.230000	Okay. I also got a lot of information on this call.
+1844.230000	1846.910000	Thank you.

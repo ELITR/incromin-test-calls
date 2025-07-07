@@ -1,0 +1,392 @@
+0.000000	8.100000	Dobrý den, dobrý den, děkuju.
+9.820000	11.460000	Zatím neslyším.
+14.600000	16.020000	Tak, ano, už slyším.
+17.740000	19.320000	Rozumíte česky nebo ne?
+21.320000	24.380000	Tak, já taky trošku rozumím rusky,
+24.380000	26.380000	ale zkusme to,
+27.400000	31.380000	čili zkusme konat normální konzultaci,
+32.080000	37.940000	ale prostě tak, že každý budeme mluvit jenom ve svém jazyce.
+38.500000	43.440000	A jestli teďka vidíte toho Minutemana, ty zápisky,
+43.920000	45.260000	ten druhý odkaz,
+47.890000	50.770000	tak se ho když tak otevřte.
+50.770000	61.840000	Tak, a tam je vidět v levém okně přepis,
+62.040000	63.620000	rovnou teda překlad do anglištiny.
+64.060000	65.740000	Má to trochu spoždění, samozřejmě,
+66.100000	68.540000	takže ten náš hovor není jako
+68.680000	71.680000	úplně bleskový, když bychom na to potřebovali spoléhat.
+71.680000	76.680000	A v tom pravém okně se po čase objeví automatický souhrn.
+76.680000	80.680000	A když by něco, když by jeden z nás měl čas
+80.680000	83.680000	a viděl třeba špatně rozpoznaný termín,
+83.680000	85.680000	jako WMT,
+85.680000	90.680000	tak to klidně může v tom textu opravit.
+90.680000	93.680000	Čili teď WMT to zrovna zvládlo dobře,
+93.680000	98.680000	ale můžete prostě jako v myší označit,
+98.680000	100.680000	a toto slovo přepsat.
+100.680000	103.680000	Ale spíš to klidně necháme,
+103.680000	107.680000	necháme prostě, ať to žije svým životem.
+107.680000	110.680000	A budeme používat ten anglický přepis na to,
+110.680000	113.680000	když se jako navzájem nebudeme rozumět.
+113.680000	117.680000	Což jsem teď právě dělal, povídal jsem si s Danem,
+117.680000	119.680000	a já trošku rusky rozuměl,
+119.680000	121.680000	takže jsem vlastně vynímal už tu ruštinu,
+121.680000	124.680000	ale přece jenom, když tam jakmile se pustil jako s vervou do obsahu,
+124.680000	127.680000	tak jsem musel pak počkat, až se mi to objeví anglicky.
+128.680000	130.680000	A pak jsem se pokračoval dál.
+130.680000	134.680000	Takže možná na úvod, kdybyste zase mě připomněla,
+134.680000	138.680000	jaké jste fázy a co řešíte za projekt.
+138.680000	142.680000	No a pak zkusíme prostě normálně konzultovat do 11.30.
+142.680000	146.680000	A přitom budeme mít tady z toho ty zápisky,
+146.680000	151.680000	ty si pak třeba jako zkopírujte, nebo tak, co jsme dohodli.
+151.680000	160.020000	Takže teď uvidím, jak moc mi rozumíte.
+173.020000	175.570000	Je to, já myslím, že můžeme obojí.
+175.570000	180.570000	Nemusíte to číst, v podstatě čtěte to jenom v době,
+180.570000	184.570000	kdy mi neporozumíte, kdy já prostě řeknu něco nejastého.
+184.570000	186.570000	Já to takhle rozhodně používám s vaší ruštinou,
+186.570000	189.570000	protože nedokážu, to bych to byl hrozně pomalý,
+189.570000	191.570000	kdybych jako opravdu spolehal na to.
+191.570000	194.570000	A navíc mám i takový pokus, doufám, že budu si povídat
+194.570000	198.570000	s někým z Izraele a s někým z Azerbajžanu,
+198.570000	200.570000	a tam nebudu rozumět vůbec.
+200.570000	203.570000	Takže tam budu opravdu spolehat a podobně on nebude vůbec rozumět mě.
+203.570000	208.570000	Takže ten stupeň porozumění prozkoumám s jinými lidmi.
+221.570000	226.040000	No, já naopak teď právě pozoruju, že vám rozumím hůř než Danovi.
+226.040000	233.040000	Čili je tam mnoho aspektů při porozumění tomu druhému jazyku.
+233.040000	236.040000	Tak uvidíme. Prostě mluvte jako normálně.
+236.040000	241.040000	Tedy snažte se prostě mluvit zřetelně a plynule, že jo, to je jasný.
+241.040000	243.040000	Ale...
+243.040000	244.040000	Ale...
+244.040000	246.040000	Zkusme se soustředit na obsah.
+246.040000	251.040000	Takže teď mě zajímá, co se vám s Lizou daří v projektu
+251.040000	253.040000	a jak jste daleko.
+253.040000	256.040000	Jestli se podařilo najít nějaké systematické chyby v překladu,
+256.040000	262.040000	nebo na čem pracujete aktuálně a jestli máte nějaké otázky.
+277.040000	278.110000	Ano?
+278.110000	281.960000	WMT, WMT.
+317.960000	319.960000	Ano, to je běžné.
+319.960000	322.960000	Termíny s těmi budete mít problémy v mateřtině.
+322.960000	325.960000	I proto si je procvičte, to je v pořádku.
+325.960000	329.960000	Ale mluvte úplně klidně i jako jak je potřeba.
+329.960000	332.960000	Já taky používám prostě anglické termíny občas.
+332.960000	336.960000	Snažím se jim v češtině vyhybat, ale prostě když české nejsou,
+336.960000	339.960000	tak rozhodně řeknu beam search a podobné věci.
+339.960000	342.960000	Takže to klidně prostě mluvte.
+342.960000	346.960000	Nehleďte na ten přepis, mluvme jako normálně.
+346.960000	349.960000	A ten přepis si s tím nějak musí poradit.
+349.960000	353.960000	A nebo následně prostě jestli si s tím neporadí,
+353.960000	356.960000	tak je to aspoň jako pěkný příklad do test setu,
+356.960000	359.960000	na kterém se budou vybírat ty lepší systémy,
+359.960000	374.840000	ty, které to zvládnou.
+374.840000	381.840000	Přivlastňovat si podstatná jména a přidávná jména.
+381.840000	382.780000	Tak ano.
+398.780000	401.780000	Teď to mu nerozumím.
+407.780000	409.780000	Tak, řekněte příklady.
+418.780000	421.200000	Teď se opět...
+421.200000	423.200000	Mluvíme...
+423.200000	426.200000	Jak byl ten anglický originál tam?
+426.200000	428.200000	Z čeho to překládá?
+428.200000	431.200000	Someone's cat?
+431.200000	436.400000	OK.
+436.400000	438.400000	Cat of somebody.
+438.400000	440.400000	Aha, jo, tady je na tom...
+440.400000	443.400000	Ale ve skutečnosti vy mi to chcete říct rusky.
+443.400000	446.400000	Čili...
+446.400000	448.400000	Ještě to řekněte rusky.
+448.400000	457.960000	Místo...
+457.960000	460.960000	Kotkovo. Mhm. A to se rusky sice dá říct,
+460.960000	462.960000	ale je to velmi nepřirozené.
+462.960000	464.960000	Nebo proč je to špatně?
+464.960000	473.850000	Je to jako chyba?
+475.850000	478.990000	Aha, jo, takhle.
+478.990000	481.990000	Aha...
+481.990000	483.990000	No...To je zajímavé.
+500.170000	502.170000	Jako genetiv.
+502.170000	505.170000	Vlastně jako genetiv kohočeho.
+505.170000	511.920000	Tady je taky možnost sdílet obrazovku.
+511.920000	515.920000	To má teda samozřejmě tu nevýhodu, že v tom transcriptu se to nijak neprojeví.
+515.920000	517.920000	A já nevím, co sbíráme v nahrávce.
+517.920000	519.920000	Myslím, že sbíráme jenom zvuk.
+519.920000	522.920000	Takže bude potom bez toho obrazu těžký...
+522.920000	527.920000	Ale když si chcem o tom popovídat, tak klidně i můžete nasdílet obrazovku.
+527.920000	534.790000	Tak. No a teď jde o to...
+534.790000	537.790000	Tohle je jeden případ.
+537.790000	539.790000	Tohle přivlastňování.
+539.790000	541.790000	Že to dělá jako příliš anglicky. Že to je prostě ten anglickej cat.
+558.790000	560.940000	Ano. Ano, to je pravda.
+560.940000	562.940000	Bohužel musíme počkat.
+562.940000	565.940000	Já budu mluvit dál, aby se tam objevilo něco dalšího.
+565.940000	567.940000	Ale mluvil jsem o sdílení obrazovky.
+567.940000	572.940000	Můžete sdílet obrazovku s těmi příklady.
+572.940000	579.940000	A tím se to zkomplikuje pro následné použití, ale to nevadí.
+579.940000	586.150000	Jo, čili. Zatím jste vypíchla, upozornila na
+587.150000	589.150000	ten jeden problém.
+589.150000	594.150000	Na ten problém přivlastňování.
+638.700000	640.700000	Mhm. Ano.
+640.700000	642.700000	Aha, čili to...
+642.700000	644.700000	Teď, jestli rozumím správně...
+644.700000	646.700000	Aha, co to dělá...
+646.700000	648.700000	Jestli rozumím správně,
+648.700000	651.700000	tak to vždycky přeložilo špatně.
+651.700000	657.700000	A teď teda to je divný, mě se tadyhle zbláznil ten Minuteman zřejmě.
+657.700000	659.700000	Protože já tam teď nevidím...
+659.700000	662.700000	Aha, ano, ano, já to uložím.
+662.700000	665.700000	Takže teď se podívám na problémy.
+665.700000	671.650000	Takže v dvěch příkladách...
+671.650000	676.650000	Jo, čili vždycky to přeložilo špatně.
+676.650000	696.520000	Čili to je skutečně jako systematická chyba.
+696.520000	701.120000	Taky špatně, jo.
+701.120000	704.120000	To znamená, že prostě přivlastňování to vůbec neumí dobře.
+746.120000	747.050000	Hm, jinak...
+762.780000	764.780000	Mhm. Jo.
+764.780000	766.780000	Rozumím.
+766.780000	768.780000	Tak.
+768.780000	772.780000	A teď jde o to, jak naložit s takovýmhle poznatkem,
+772.780000	776.780000	protože zatím cíl... Celkově naším cílem je udělat nějaké jako test shoot,
+776.780000	778.780000	si můžeme myslet, jo.
+778.780000	782.780000	Tak zatím máme jeden jev.
+782.780000	786.780000	Samozřejmě, že je dobrý tenhle jev ilustrovat mnoha různými příklady,
+786.780000	790.780000	čili například byste z nějakého anglicko-ruskýho korpusu
+790.780000	793.780000	vytáhla spoustu příkladů.
+793.780000	796.780000	Anebo ještě radši z věd, který nemají žádnej překlad,
+796.780000	800.780000	jako vyrobila synteticky třeba nějaký...
+800.780000	804.780000	Já nevím, dělala jste v prologu Definite Clause Grammars?
+804.780000	806.780000	Znáte to nebo neznáte?
+813.780000	814.340000	Jo.
+814.340000	819.340000	To je jako prastarej způsob, jak dělat...
+819.340000	823.340000	...jsou to věty typicky nesmyslný, jo.
+823.340000	825.340000	Prostě papoušek leze do skříně,
+825.340000	832.340000	dáte různý slovesa, různý podstatní jména
+832.340000	835.340000	a v podstatě náhodně je zkombinujete.
+835.340000	845.290000	Jediný, co ten systém hlídá, co vaše pravidla hlídají,
+845.290000	848.290000	je, aby ty vědy byly gramaticky správně.
+848.290000	850.290000	Což jsou to jako nesmyslný věty.
+850.290000	854.290000	Takže byste mohla třeba mít...
+854.290000	856.290000	...opravuje automobil...
+857.290000	859.290000	...a...
+859.290000	864.290000	...prostě vymyslíte si cokoliv
+864.290000	868.630000	a nechat je rozgenerovat.
+868.630000	872.630000	A takovýhle test set bude celý zaměřený na ten...
+872.630000	876.630000	...vlyv toho přivlastňování.
+876.630000	880.630000	Jak to uděláš, kdybys zničil botu,
+880.630000	885.630000	tak jestli to bude překládat lépe.
+885.630000	886.630000	Ale...
+886.630000	887.630000	...čili...
+887.630000	888.630000	...ten...
+888.630000	890.630000	...postup, jak z tohohle udělat test set,
+890.630000	893.630000	by byl prostě test set zaměřený na přivlastňování.
+893.630000	896.630000	A bylo by tam přivlastňování v syntetických větách,
+896.630000	898.630000	v reálných větách.
+898.630000	904.630000	A pak by se vyhodnotilo, do jaké míry je to dobře nebo špatně.
+904.630000	911.630000	Otázka je, jestli dokážeme ještě najít další podobný problematický jev.
+911.630000	916.630000	To by bylo asi dobré zkusit se na něj podívat.
+916.630000	920.630000	A potom další krok, co bych velmi doporučoval,
+920.630000	924.630000	podívejte se na ty články, které má DFKI.
+924.630000	928.630000	Jsou to anglicko-německé, ale myslím, že testují už i Němčinu, nejsem si jistý.
+928.630000	935.630000	DFKI na už několik let, Eleftherios Avramidis je hlavní autor.
+939.630000	945.630000	Má vždycky článek, test suite, a tam mají přesně takovouhle kolekci vět.
+945.630000	948.630000	A mají bohatý repertoár těch jevů.
+948.630000	952.630000	A oni to budovali už z doby frázového překladu,
+952.630000	956.630000	takže mnoho z těch věcí funguje asi bez problémů dneska.
+956.630000	959.630000	Ale pořád ještě tam nějaké jevy problematické zůstávají.
+959.630000	966.630000	Takže by mě zajímalo, jestli DFKI pokrývá Němčinu,
+966.630000	970.630000	pokrývá Ruštinu, a nebo je to jenom Němčina.
+970.630000	973.630000	A pak by mě zajímalo,
+973.630000	974.630000	...
+974.630000	979.630000	jestli mají nějak jako nástroj na to, který vy byste mohla snadno použít
+979.630000	985.630000	a vyhodnocovat takhle analogické věci pro Ruštinu.
+985.630000	990.630000	A pak mě zajímá, jaké další jevy přidat.
+990.630000	991.630000	Tak.
+1007.050000	1014.050000	Ta test set je popsaná, DFKI prostě má svoji utajenou,
+1014.050000	1015.050000	oni neříkají přesně ty věty, ale
+1016.050000	1023.050000	mají jako čast těch vět, mají cílovou stranu schovanou a zdrojovou stranu vždycky dají do WMT
+1023.050000	1025.050000	a systémy to přeloží.
+1025.050000	1031.050000	A oni potom vyhodnotí, DFKI vyhodnotí, které systémy, které jevy zvládli.
+1031.050000	1040.960000	Takže podívejte se, možná ještě teďka si hned otevřete stránku WMT.
+1044.720000	1047.720000	Čili www.statmt.org lomeno ...
+1047.720000	1049.720000	... WMT23 ...
+1049.720000	1070.390000	... statmt.org ...
+1070.390000	1075.000000	Nenene. www. www.statmt.org, statmt.org.  Pořád tam máte WMT navíc ...
+1075.000000	1081.820000	Takže www.statmt.org ...
+1081.820000	1084.420000	... Ano, statmt.org s tečkou ...
+1084.420000	1090.120000	... ale smazat to WMT, musí tam jít jen www.
+1090.120000	1097.370000	Tak, výborně. A teďka lomeno WMT23.
+1098.370000	1106.870000	Ano, a tam jsou papers nahoře.
+1110.560000	1114.220000	A teďka hledejte DFKI.
+1118.250000	1121.270000	DFKI, já doufám, že tam je. Není, aha.
+1122.010000	1124.250000	Tak hledejte Avramidis.
+1126.250000	1127.330000	Avr...
+1127.330000	1132.050000	Findings.
+1133.150000	1134.610000	Tak a teďka počkejte ještě dál.
+1134.610000	1135.990000	Secondary sign language.
+1140.680000	1144.440000	Results of the metrics.
+1145.100000	1146.180000	A ještě dál, ještě dál.
+1146.380000	1147.600000	Ani jeden z těchto tří to není.
+1149.660000	1151.020000	Tady jsou vlastně dva články.
+1151.120000	1151.900000	Challenging state of the imagination
+1151.900000	1154.780000	with linguistic features.
+1155.100000	1156.260000	Tenhle bude asi taky dobrý.
+1157.120000	1158.420000	A tam byl ještě ten jeden.
+1163.810000	1164.330000	Avramidis.
+1166.070000	1167.510000	Test sets.
+1167.670000	1168.510000	Tenhle je ještě jiný.
+1168.870000	1170.650000	Ještě hledejte další výskyt.
+1172.760000	1173.260000	To je poslední.
+1174.040000	1174.960000	Aha, které teda máte.
+1179.580000	1181.140000	Jeden zpátky je
+1181.140000	1183.160000	Linguistically motivated evaluation.
+1183.360000	1183.660000	To je ono.
+1184.340000	1184.680000	Tak.
+1185.580000	1186.440000	Takže tenhle vemte.
+1198.960000	1199.380000	Russian.
+1199.840000	1200.480000	English, Russian.
+1200.600000	1201.220000	Taky mají.
+1216.380000	1217.960000	Across multiple language directions.
+1218.100000	1219.500000	German, English, English, German.
+1220.180000	1220.960000	And English.
+1221.440000	1223.960000	Takže tam vidíte.
+1223.960000	1225.960000	But false.
+1226.440000	1229.040000	The second significant cluster for English, Russian.
+1229.140000	1230.080000	Aha, takže
+1230.080000	1232.600000	anglicko-rusky GPT-4
+1232.600000	1234.080000	tolik neumí.
+1236.100000	1236.860000	Takže
+1236.860000	1239.100000	teď, jo.
+1241.220000	1243.140000	Teď bude asi nejlepší.
+1243.760000	1244.160000	Jednak
+1244.160000	1246.240000	Líza pracuje ještě na
+1246.240000	1249.780000	té činštině, že jo.
+1250.400000	1257.270000	Takže by bylo dobré,
+1257.270000	1258.870000	když byste například
+1258.870000	1260.930000	se svými vlastními jevy.
+1260.950000	1268.030000	Proč?
+1268.030000	1270.030000	Líza pracuje na činštině.
+1270.030000	1277.130000	To DFKI nemá.
+1277.130000	1280.130000	Takže váš ideál by byl
+1280.130000	1285.130000	udělat velmi podobný článek jako DFKI.
+1285.130000	1289.130000	Až na to, že byste pokrývali jevy,
+1289.130000	1292.130000	které vy sami jste našli pro ruštinu
+1292.130000	1298.960000	a pro činštinu.
+1298.960000	1299.960000	Ano.
+1327.960000	1328.130000	Jevy.
+1328.130000	1330.130000	Situace mi...
+1330.130000	1334.530000	Prohlédněte si to.
+1334.530000	1336.530000	Listujte kousek dál.
+1336.530000	1338.530000	Já myslím, že tam budou mít minimálně seznam
+1338.530000	1340.530000	těch jevů
+1340.530000	1342.530000	nebo situací.
+1342.530000	1344.530000	Možná tam budou mít i příklady.
+1344.530000	1346.530000	A možná i vzory.
+1346.530000	1348.530000	Aplikujte.
+1348.530000	1350.530000	Testuji description.
+1350.530000	1352.530000	Tamhle je to.
+1352.530000	1354.530000	3.1 je popsáno.
+1354.530000	1365.520000	A tadyhle vidět. Ano, ano.
+1365.520000	1370.750000	Čili tadyhle.
+1370.750000	1372.750000	Čili v obrázku.
+1372.750000	1373.750000	Vzory.
+1373.750000	1374.750000	Jedno.
+1374.750000	1376.750000	Správně.
+1384.750000	1385.890000	A potom je zvuk.
+1385.890000	1387.890000	Který z příkladů.
+1387.890000	1389.890000	Správně.
+1389.890000	1391.890000	A některý špatně.
+1391.890000	1393.890000	Jsou.
+1396.890000	1398.030000	Generujou.
+1398.030000	1400.030000	Velkou množinu příkladů.
+1400.030000	1402.030000	Generují si množinu.
+1402.030000	1404.030000	Autoritáltickými pravidly.
+1404.030000	1406.030000	Dokážou detekovat.
+1406.030000	1408.030000	Jestli ten příklad je správně nebo je špatně.
+1408.030000	1410.030000	Například podle té koncovky.
+1410.030000	1412.030000	A potom.
+1412.030000	1414.030000	A potom.
+1414.030000	1416.030000	Kdyby se.
+1464.440000	1466.020000	Já zkusím přejít.
+1468.940000	1470.160000	Děláte to při vládě.
+1471.180000	1472.040000	Já nevím, proč mi
+1472.040000	1476.500000	mám špatný připojení.
+1500.990000	1501.190000	No.
+1502.770000	1504.590000	Internetové připojení
+1504.590000	1504.910000	nám.
+1505.910000	1512.640000	Obávám se, že internet nám to pokazilo.
+1514.880000	1515.800000	Ano.
+1516.220000	1518.200000	Ale nerozumíte obsahu.
+1531.730000	1532.030000	No tak.
+1539.960000	1541.440000	Nerozumíte, co je problém.
+1542.440000	1543.300000	Tak ano.
+1543.300000	1549.030000	Tak ještě.
+1554.030000	1557.830000	Snažil jsem se schrnout, jak pracuje
+1557.830000	1559.870000	ten test suit DFKI.
+1561.310000	1563.230000	Ale jednodušší bude, kdo
+1563.230000	1564.370000	když
+1564.370000	1573.390000	se prostě nedurou.
+1575.650000	1575.810000	No.
+1584.030000	1585.910000	Když si to prohlednete
+1585.910000	1586.330000	v slunce.
+1587.670000	1589.930000	Ale jak vyšlo slunce,
+1591.010000	1591.570000	tak prostě
+1591.570000	1592.470000	nefunguje vůbec
+1592.470000	1593.950000	vůbec internet.
+1602.160000	1602.380000	Tak.
+1603.040000	1603.720000	Zkrátka.
+1604.180000	1605.760000	Slyšíte mě ještě?
+1605.920000	1606.900000	Nebo to nefunguje?
+1608.700000	1608.960000	Já
+1608.960000	1612.260000	zrušit svoji kameru.
+1613.000000	1613.860000	Tím tomu trošku.
+1614.460000	1616.220000	Jo, dobré. Já zkusím, že
+1616.220000	1617.700000	tak.
+1618.880000	1619.960000	Zkuste si přečíst.
+1620.020000	1621.620000	Zkuste
+1621.620000	1624.560000	tenhle článek a něco podobného.
+1625.000000	1625.800000	Podobnou
+1625.800000	1627.160000	si připravit
+1627.160000	1630.360000	poloautomatickou
+1630.360000	1630.940000	detekci.
+1630.940000	1632.480000	Takže přivlastňovat.
+1632.600000	1633.580000	Případně další jevy.
+1634.180000	1638.000000	A dělejte jevy, které pokrývá
+1638.000000	1638.840000	DFKI.
+1638.980000	1639.960000	Jiné je vy, než...
+1642.320000	1643.720000	Snažte se prostě udělat něco
+1643.720000	1645.160000	komplementárního.
+1652.310000	1654.890000	Tak jo. Čas nám akorát
+1654.890000	1655.910000	vypršel.
+1657.290000	1659.110000	Takže já bych vám moc
+1659.110000	1660.090000	poděkoval za
+1660.090000	1661.930000	tenhle zážitek.
+1663.310000	1664.650000	Ty zápisky si klidně
+1664.650000	1666.350000	samozřejmě skopírujte, ale
+1666.350000	1669.330000	já ještě zkusím
+1669.330000	1670.470000	připravit nějaké dotazník.
+1671.550000	1673.470000	Jestli vám to přišlo použitelné,
+1673.850000	1675.330000	když bychom neměli třeba ten výpadek
+1675.330000	1675.970000	internetu.
+1678.210000	1680.650000	Mně to v podstatě použitelné připadá.
+1681.070000	1682.310000	Samozřejmě je to pomalejší,
+1682.390000	1683.930000	než se bavit společným jazykem.
+1685.110000	1686.950000	Ale v tom dotazníku
+1686.950000	1687.410000	prostě
+1687.410000	1689.950000	nám pak odpovězte,
+1690.090000	1691.710000	co bylo za problémy a tak.
+1692.030000	1694.390000	Čili možná ještě teď, dokud máte,
+1694.430000	1695.730000	protože dotazník ještě nemám,
+1697.370000	1698.970000	možná ještě teďka,
+1698.970000	1699.910000	hned po tom hovoru,
+1700.490000	1701.390000	na papír
+1702.810000	1704.030000	udělejte pár poznámek.
+1704.450000	1706.670000	Technicky s tímhle vícejazyčným hovorem
+1706.670000	1708.110000	se vám líbilo?
+1708.350000	1709.750000	Co byla největší komplikace?
+1710.810000	1712.830000	Co by bylo možné vylepšit,
+1712.910000	1714.630000	aby to bylo v praxi použitelnější?
+1715.090000	1717.450000	I v případě, že bychom si rozuměli ještě méně.
+1718.230000	1719.530000	Tady rozhodně je ten problém,
+1719.610000	1721.170000	ta ikonka chat, jak zakrývá
+1721.170000	1722.290000	ten text.
+1722.770000	1724.110000	To musíme opravit.
+1730.170000	1731.750000	Takže děkuju moc krát.
+1733.290000	1734.930000	Uvidíme se v pátek.
+1735.770000	1738.170000	A já ještě pošlu snad nějaký dotazník
+1738.170000	1739.230000	a že ho připravím.
+1742.830000	1743.990000	Díky moc.
+1744.130000	1745.430000	Děkuju a nashledanou.

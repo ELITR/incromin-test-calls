@@ -1,0 +1,32 @@
+20.386	47.71	I don't see it yet, I'm opening the link.
+55.49	55.934	I see.
+127.81	128.126	Uh-huh
+161.666	170.238	I understand, but I think it would be more honest to read the translation to understand the real situation of how it would have happened.
+210.21	219.486	Okay. To be honest, I'm not surprised how much I understand Bochersky. I've never had a significant conversation with him.
+263.298	292.254	Okay. First of all, about the project I'm working on. This is a translation of GPT from WMT. We are trying to find systematic errors in the translation from the GPT chat from last year. I don't have much progress.
+292.354	316.926	since we discussed it last time. Well, what did I do? And I could share. Last time we discussed two, it seems, that the systematic mistakes that occur are, and here I don't know how to say it in Russian, possessive,
+365.794	394.558	Last time we discussed two errors that we found, which are possessive nouns and possessive pronouns. The probability that I found is that GPT does not translate them as an adjective and a noun, but as a noun and a noun.
+406.146	435.71	Someone's cat of somebody.
+449.25	475.422	Instead of someone's code, it is translated as someone's code. It can be understood, but it's wrong. It's like a calque from English.
+484.194	500.446	I would even say that this is not English calculus, this is exactly the place where the possessive case should be used. I need to check how it is in Russian. And he translates it directly.
+544.034	573.758	If I understood you correctly, there is a chat icon in the lower part of the window, and it just closes the last application that appeared. Yes, give me a second.
+594.562	605.054	So, my progress from the last time, I tried a similar application, that is, we saw such a situation in two cases, once it was
+626.21	641.182	Something. In another case, it is real.
+701.346	722.366	Exactly this specific mistake, when somebody's, someone's, their own particle, when apostrophe, apostrophe s, and in all cases, well,
+731.298	761.278	In my examples, it turns out that it translates it incorrectly every time without variations. What I wanted to highlight is that this is only a co-pilot, that is, maybe in other variations of the GPT chat it will work better. I didn't do numerous experiments, it's one shot, just to confirm. But it just seems to me that this is really the thing that can already be identified as a group, because time after time it translates it incorrectly.
+986.082	1004.67	Can you stop here? This is the generator of the text collection.
+1051.458	1081.374	Thank you very much.
+1081.506	1091.262	With a dot or without a dot? Like this. Got it, got it.
+1122.21	1132.094	Okay, I see a few of them.
+1161.794	1186.974	This is the last one. Now I'm in the new tab.
+1222.434	1223.838	Yes, it is.
+1267.394	1292.606	Uh-huh.
+1296.482	1326.398	Yes, it is like an example.
+1327.33	1344.318	Findings. Details. Yes, situations. And this is a test.
+1438.274	1452.062	Please, do not interrupt.
+1506.914	1510.782	I can hear and see you. Everything is fine now.
+1565.506	1584.03	The sound is fading away. The sound is fading away.
+1602.274	1604.254	I hear, I hear. I think I hear.
+1643.074	1644.19	Good.
+1706.338	1736.158	That's it That's it
+1736.29	1742.59	See you on Friday. Thank you. Goodbye.

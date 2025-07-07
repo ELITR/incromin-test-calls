@@ -1,0 +1,42 @@
+0.258	30.046	OK. OK, it doesn't matter.
+30.402	59.262	keep going and try some strategies to overcome it by using Marathi. OK. So, dear, I would like to tell you that I have submitted the MSCA project, which is the Marie Curie-Skladowska Action, a postdoctoral project from the European Union.
+65.25	93.758	My topic is Quality Estimation for a Simultaneous Example of a Speech. As a method of expanding the impact or the importance of my project is to create a User Advisory Board. And as I said at the lecture on __ORGANIZATION1__,
+95.202	112.798	If anyone is interested in a simultaneous translation of the speech, I think that you or your colleagues from __ORGANIZATION__ would be suitable candidates for the panel, for the User Advisory Board.
+134.626	152.286	Okay, so I'll try to add Hindi there. So what's in Hindi? Is it better? So I should repeat it?
+163.042	190.558	Okay, so I will repeat it. Not long ago, I wrote my postdoctoral research project, Marie Curie's book Action. My theme is quality estimation for simultaneous translation of words. I would like to invite you to the User Advisory Board of my project.
+202.178	222.622	So let it be and try not to change the languages. And we just have to advise and understand each other how to do it, even if it's wrong.
+259.842	289.278	OK OK
+289.538	317.662	Great. So I should speak slowly, too? OK. So what now? Did you understand what I said? Should I repeat it?
+362.434	368.83	Yeah, I think I understand you. Sometimes the transcripts look good, sometimes they don't.
+394.562	397.182	I understood what I said about my project.
+446.882	476.446	I noticed that my project is about quality estimation for simultaneous translation. This means that when I do the research, the Minuteman could color where the transcripts are wrong or translations. And then it could be used for multi-sourcing.
+482.786	490.462	so that you can use more of the material, for example, to assess the quality of your machine.
+564.93	594.782	I think it doesn't matter that the transcript in Marathi is bad, because I have a feeling that I understand you, because I can guess what you are saying from those about 50% that are good. So let it be and let's focus on the topic I want to share with you, the User Advisory Board.
+607.65	633.054	Do you agree? OK, so I have a successful project on quality estimation for simultaneous machine translation. I will call experts from the FIREM and research institutes
+633.602	661.95	who want to work simultaneously with the User Advisory Board. That would mean two meetings, two meetings, one at the beginning of the project and one at the end. At the beginning, I would ask for recommendations for my work and at the end, I would hold a demo and suggest the integration of my tool
+663.298	678.334	to further research or practice. You understand, right?
+701.474	719.774	I will try to say it easily. I would be interested in joining the panel of experts for my project, who would give me recommendations.
+768.162	795.486	I understand. You say that sometimes you see Marathi, sometimes you see English. Which, in my opinion, does not matter. The important thing is if you understand that they have demands on you.
+825.122	836.83	I would like an answer from you if you are interested in joining the panel of experts of my project.
+857.25	861.79	I understood what I was waiting for, what it would mean.
+895.266	902.462	Once again, did you understand when I said what it would mean to be in the panel of experts?
+941.986	966.878	Okay, and what should the panel do? Okay, I'll explain it again.
+972.898	990.75	I would like to call two meetings with my panel, one at the beginning of the project, the other at the end. At the beginning, I will ask for recommendations for my research, and at the end I will share the results and suggest the transfer of these results to the practice or to further research.
+1031.874	1055.134	At the beginning of the project, I would like to recommend a panel for my research. And then at the end,
+1062.018	1072.094	and then at the end I would like to suggest the transfer of my research to practice or to another research.
+1094.69	1096.702	This is my summary for today.
+1140.002	1142.814	It is so. When you speak in long sentences, it is better.
+1183.714	1203.966	I think that in the Minutemen there is an automatic recognition of the language. And the automatic recognition of the language is reliable when the section is longer than 5 seconds.
+1233.218	1256.766	Would you like to know more about my project? On the contrary, I will ask you what else you are interested in about my project.
+1318.594	1330.206	I asked if you are interested in my postdoctoral project, which I submitted.
+1373.794	1385.566	Okay. I was wondering if you are interested in when my project will last. Or something else, like who will be my leader? What are my other plans?
+1419.682	1448.574	information about my project. I submitted it now, on the 11th of September and I am waiting for the result in February. And so far it is a request that is very uncertain. The project is very prestigious and it is hard to get, so it is not at all clear that it will be.
+1449.378	1455.134	But I am very glad that I gave it up, because it is a big step forward.
+1513.09	1536.926	Yes, I agree. Yes, exactly.
+1563.682	1572.446	Yes, I also think that if we had a model directly for Indian languages, it would be easier to understand.
+1603.458	1608.638	I would be glad to. And such models already exist or are now in preparation.
+1637.282	1639.806	I see the link in the fair meeting.
+1694.37	1718.75	It looks very good. You also have data on quality estimation. For example, data first worked with some speech translation model and then post-editing, human post-editing in the correct form.
+1770.594	1799.486	Yes, great. I also don't have any data at the moment, but I think it was possible to produce
+1800.354	1828.51	text translations, or we can help each other somehow. Well, thank you very much for the call. I think we've done what we wanted. That you found out about the panel, that you would like to participate. That's what I needed to know. Now it's 30 minutes. We have to finish our call.
+1842.146	1844.766	Thank you for your time. Bye.

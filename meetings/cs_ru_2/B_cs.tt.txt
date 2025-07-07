@@ -1,0 +1,507 @@
+0.000000	9.000000	Good afternoon, thank you.
+9.000000	14.080000	I can't hear you yet.
+14.080000	17.080000	Yes, I can hear you.
+17.080000	20.080000	Do you understand Czech or not?
+20.080000	25.080000	I also understand a little bit of Russian,
+25.080000	32.080000	but we'll try to do a normal consultation,
+32.080000	38.080000	so that we'll all speak our own language.
+38.080000	43.080000	If you see the Minitmen, the notes,
+43.080000	47.910000	the second link,
+47.910000	56.680000	open it,
+56.680000	60.680000	and you can see the text in the left window,
+60.680000	63.680000	you can see the translation into English.
+63.680000	66.680000	It's a bit delayed, of course,
+66.680000	69.680000	so our speech is not completely bright,
+69.680000	72.680000	if we had to rely on it.
+72.680000	75.680000	And in the right window,
+75.680000	78.680000	the title will appear after a while.
+78.680000	81.680000	And if one of us had time
+81.680000	84.680000	and saw a badly recognized term
+84.680000	87.680000	like WMT,
+87.680000	90.680000	it can be fixed in the text.
+90.680000	93.680000	So now WMT has done it well,
+93.680000	97.680000	but you can just mark it in the mouse
+97.680000	99.680000	and rewrite the word.
+99.680000	102.680000	But we'll just leave it alone,
+102.680000	106.680000	let it live its life,
+106.680000	109.680000	and we'll use the English translation
+109.680000	112.680000	when we don't understand each other.
+112.680000	114.680000	Which I just did now,
+114.680000	116.680000	I talked to Dan,
+116.680000	118.680000	and I understood a little Russian,
+118.680000	121.680000	so I understood the Russian,
+121.680000	124.680000	but when he started to get into the content,
+124.680000	127.680000	I had to wait for him to reveal it to me in English,
+127.680000	130.680000	and then he continued.
+130.680000	132.680000	So maybe for the conclusion,
+132.680000	134.680000	if you could remind me again
+134.680000	136.680000	what phase you are in
+136.680000	138.680000	and what you are dealing with for the project,
+138.680000	140.680000	and then we'll try to consult normally
+140.680000	142.680000	until 11.30,
+142.680000	146.680000	and we'll have the notes here,
+146.680000	149.680000	and then you can copy or paste
+149.680000	151.680000	what we agreed.
+151.680000	160.020000	So now I'll see how much you understand me.
+160.020000	175.570000	I think we can both.
+175.570000	178.570000	You don't have to read it,
+178.570000	182.570000	you just read it when you don't understand me,
+182.570000	184.570000	when I say something unclear.
+184.570000	186.570000	I definitely use it with your Russian,
+186.570000	188.570000	because I can't,
+188.570000	191.570000	it would be very slow if I really relied on it.
+191.570000	193.570000	And I also have such an attempt,
+193.570000	196.570000	I hope I'll talk to someone from Israel
+196.570000	198.570000	and someone from Azerbaijan,
+198.570000	200.570000	and I won't understand at all there,
+200.570000	202.570000	so I'll really rely on it there,
+202.570000	204.570000	and similarly he won't understand me at all.
+204.570000	206.570000	So I'm just exploring the level of understanding
+206.570000	208.570000	with other people.
+221.040000	223.040000	Well, on the contrary,
+223.040000	225.040000	now I notice that I understand you
+225.040000	227.040000	worse than Dan.
+227.040000	229.040000	So there are many aspects
+229.040000	231.040000	when understanding,
+231.040000	234.040000	when understanding the other language,
+234.040000	235.040000	so we'll see.
+235.040000	237.040000	Just speak normally,
+237.040000	240.040000	I mean try to speak visually and fluently,
+240.040000	242.040000	that's clear,
+242.040000	246.040000	but try to focus on the content.
+246.040000	249.040000	So now I'm interested in what you
+249.040000	251.040000	can do in the project
+251.040000	253.040000	and how far you are,
+253.040000	255.040000	if you managed to find any systematic mistakes
+255.040000	257.040000	in the translation,
+257.040000	260.040000	or what you're working on right now,
+260.040000	262.040000	and if you have any questions.
+262.040000	278.110000	Yes?
+278.110000	317.960000	Yes, that's common.
+317.960000	320.960000	Terms, you'll have problems with them
+320.960000	322.960000	in your mother tongue,
+322.960000	324.960000	so practice them, that's fine.
+324.960000	326.960000	But speak very calmly
+326.960000	328.960000	and as needed.
+328.960000	331.960000	I also use English terms sometimes.
+331.960000	333.960000	I try to avoid them in Czech,
+333.960000	335.960000	but when they're not Czech,
+335.960000	337.960000	I definitely say beam search
+337.960000	339.960000	and things like that.
+339.960000	341.960000	So just speak calmly,
+341.960000	343.960000	don't look at the text,
+343.960000	345.960000	speak normally,
+345.960000	346.960000	and the text,
+346.960000	348.960000	you have to deal with it somehow,
+348.960000	352.960000	or if you don't deal with it,
+352.960000	355.960000	then it's at least a nice example
+355.960000	356.960000	for a test set,
+356.960000	359.960000	where you'll choose the better systems,
+359.960000	373.840000	the ones that can do it.
+373.840000	374.840000	Mm-hmm.
+374.840000	378.840000	You have to adopt basic names
+378.840000	381.840000	and you have to adopt additional names.
+381.840000	382.840000	Yes.
+382.840000	399.780000	I don't understand this,
+399.780000	401.780000	I have to wait for the results.
+401.780000	403.780000	I'm very, very, very...
+403.780000	404.780000	Oh, the results.
+404.780000	405.780000	Oh, yeah?
+405.780000	407.780000	I'd probably...
+407.780000	409.780000	So, tell me the examples.
+409.780000	420.200000	Now I'm...
+420.200000	422.200000	We're talking...
+422.200000	425.200000	How was the English original there?
+425.200000	427.200000	What was it from?
+427.200000	429.200000	Someone's...
+429.200000	432.200000	Someone's cat, OK.
+432.200000	433.200000	Mm-hmm.
+433.200000	437.400000	Cat of somebody.
+437.400000	439.400000	Yeah, here it is,
+439.400000	441.400000	but in fact,
+441.400000	443.400000	you want to tell me in Russian,
+443.400000	445.400000	so...
+445.400000	447.400000	Yeah, you can still say it in Russian,
+447.400000	457.960000	instead of cat of somebody.
+457.960000	460.960000	And you can say it in Russian,
+460.960000	462.960000	but it's very unnatural.
+462.960000	463.960000	Or why is it wrong?
+463.960000	469.840000	Is it a mistake?
+469.840000	472.850000	Mm-hmm.
+472.850000	473.850000	Mm-hmm.
+473.850000	478.990000	Aha, aha, yeah, like that.
+478.990000	480.990000	Oh, well...
+480.990000	484.990000	Well, that's interesting.
+484.990000	500.170000	Mm-hmm.
+500.170000	502.170000	Like a genitive.
+502.170000	505.170000	Like a genitive of somebody.
+505.170000	511.920000	There's also the possibility of sharing the screen,
+511.920000	513.920000	which has the disadvantage that
+513.920000	515.920000	it doesn't show in the transcript,
+515.920000	517.920000	and I don't know what we're collecting in the recording.
+517.920000	519.920000	I think we're collecting only sound,
+519.920000	522.920000	so it'll be difficult without the screen,
+522.920000	525.920000	but if I want to talk about it,
+525.920000	527.920000	you can easily share the screen.
+527.920000	533.790000	So, now it's about...
+533.790000	535.790000	This is one case,
+535.790000	537.790000	so this is when you're editing,
+537.790000	539.790000	that it's too English,
+539.790000	541.790000	that it's just that English...
+541.790000	556.940000	Well...
+556.940000	558.940000	Yes, yes, that's true.
+558.940000	560.940000	Unfortunately, we always have to wait,
+560.940000	562.940000	I'll keep talking,
+562.940000	564.940000	so that something else appears there,
+564.940000	566.940000	but I was talking about sharing the screen.
+566.940000	568.940000	You can share the screen
+568.940000	570.940000	with those examples.
+570.940000	572.940000	And the way it's done,
+572.940000	575.940000	and how it complicates
+575.940000	578.940000	the subsequent use,
+578.940000	583.150000	but it doesn't matter.
+583.150000	585.150000	So, so far, you've just
+585.150000	587.150000	pushed, you've just warned
+587.150000	589.150000	about that one problem,
+589.150000	591.150000	about the problem
+591.150000	593.150000	with the ownership.
+593.150000	638.700000	And...
+638.700000	640.700000	Yes?
+640.700000	642.700000	So, now,
+642.700000	644.700000	if I understand correctly...
+644.700000	646.700000	Aha, what's it doing?
+646.700000	648.700000	If I understand correctly,
+648.700000	650.700000	it's always translated
+650.700000	652.700000	wrong.
+652.700000	654.700000	Yes, and now it's weird,
+654.700000	656.700000	this minute man has gone crazy,
+656.700000	658.700000	obviously,
+658.700000	660.700000	because I can't see...
+660.700000	662.700000	Oh, yes, yes, yes,
+662.700000	664.700000	I'll put it down.
+664.700000	666.700000	So far, we're taking a look at the problems...
+666.700000	668.700000	In two cases...
+668.700000	672.650000	Yes, so,
+672.650000	674.650000	it's always...
+674.650000	676.650000	It's always translated wrong,
+676.650000	680.600000	so it's really like
+680.600000	696.520000	a systematic mistake.
+696.520000	701.120000	It's also wrong, yes.
+701.120000	703.120000	That means that, just,
+703.120000	715.770000	it doesn't do well with ownership.
+715.770000	747.050000	Aha, yes.
+747.050000	762.780000	Aha.
+762.780000	764.780000	Aha, yes.
+764.780000	766.780000	I understand.
+766.780000	768.780000	So,
+768.780000	770.780000	now it's about
+770.780000	772.780000	how to apply this knowledge,
+772.780000	774.780000	because so far, the goal,
+774.780000	776.780000	our goal is to do some kind of
+776.780000	778.780000	test, if we can think like that, yes?
+778.780000	780.780000	So,
+780.780000	782.780000	we have one idea.
+782.780000	784.780000	Of course, it's good to
+784.780000	786.780000	illustrate this idea with many different
+786.780000	788.780000	examples, for example, you would
+788.780000	790.780000	extract from some English-Russian
+790.780000	792.780000	corpus a lot of
+792.780000	794.780000	examples, or even
+794.780000	796.780000	from words that don't have any
+796.780000	798.780000	examples, like, it was produced
+798.780000	800.780000	synthetically, for example,
+800.780000	802.780000	I don't know, did you do
+802.780000	804.780000	in the prologue Definite Clause Grammar?
+804.780000	806.780000	Do you know it or not?
+806.780000	815.340000	Yes, it's
+815.340000	817.340000	a very old way of doing it.
+817.340000	819.340000	How to do it?
+819.340000	821.340000	Well,
+821.340000	823.340000	these are typically meaningless
+823.340000	825.340000	things, you know, just,
+825.340000	827.340000	a parrot goes into a box,
+827.340000	829.340000	you put
+829.340000	831.340000	different words,
+831.340000	833.340000	different basic names,
+833.340000	835.340000	and you just randomly combine them,
+835.340000	837.340000	and
+837.340000	839.340000	the only thing
+839.340000	843.290000	that the system is looking for,
+843.290000	845.290000	what your rules are looking for,
+845.290000	847.290000	is for the words to be grammatical,
+847.290000	849.290000	which are
+849.290000	851.290000	meaningless things,
+851.290000	853.290000	so you could, for example,
+853.290000	855.290000	correct your car,
+855.290000	857.290000	and
+857.290000	859.290000	just
+859.290000	861.290000	think about
+861.290000	863.290000	anything,
+863.290000	867.630000	and let it
+867.630000	869.630000	be generated.
+869.630000	871.630000	And this kind of test set will be
+871.630000	873.630000	entirely focused on
+873.630000	875.630000	the idea of
+875.630000	877.630000	appropriation,
+877.630000	879.630000	and if it will destroy
+879.630000	881.630000	the boot,
+881.630000	883.630000	then if it will
+883.630000	885.630000	translate better.
+885.630000	887.630000	But,
+887.630000	889.630000	the process of
+889.630000	891.630000	doing a test set,
+891.630000	893.630000	would be a test set focused on
+893.630000	895.630000	appropriation,
+895.630000	897.630000	and there would be appropriation in
+897.630000	899.630000	synthetic words, in real words,
+899.630000	901.630000	and then it would be evaluated
+901.630000	903.630000	to what extent it is good
+903.630000	905.630000	or bad.
+905.630000	907.630000	The question is,
+907.630000	909.630000	if we can find another similar
+909.630000	911.630000	problematic phenomenon,
+911.630000	913.630000	it would be good to try to look at it.
+915.630000	917.630000	And then,
+917.630000	919.630000	another step,
+919.630000	921.630000	which I would highly recommend,
+921.630000	923.630000	look at the articles,
+923.630000	925.630000	which DFKI has,
+925.630000	927.630000	they are English-German,
+927.630000	929.630000	but I think they are testing German as well,
+929.630000	931.630000	I'm not sure.
+931.630000	933.630000	For several years,
+933.630000	935.550000	Eleftherios Avramidis is the main author,
+935.630000	937.630000	he always has a article,
+937.630000	939.630000	a test set,
+939.630000	941.630000	and they have
+941.630000	943.630000	a collection of
+943.630000	945.630000	such works,
+945.630000	947.630000	and they have a rich repertoire
+947.630000	949.630000	of these phenomena.
+949.630000	951.630000	And they have been building it
+951.630000	953.630000	since the time of the phrase translation,
+953.630000	955.630000	so many of these things
+955.630000	957.630000	work without problems today,
+957.630000	959.630000	but there are still some phenomena
+959.630000	961.630000	that remain problematic.
+961.630000	963.630000	So I would be curious
+963.630000	965.630000	if DFKI
+965.630000	967.630000	covers German,
+967.630000	969.630000	or only German,
+969.630000	971.630000	or only German.
+971.630000	973.630000	And then I would be interested
+973.630000	975.630000	if they have
+975.630000	977.630000	a tool
+977.630000	979.630000	that you could easily use
+979.630000	981.630000	and evaluate
+981.630000	983.630000	such analogical things
+983.630000	985.630000	for Russian.
+985.630000	987.630000	And then I would be interested
+987.630000	989.630000	in what other
+989.630000	991.630000	you can add.
+991.630000	993.630000	So...
+993.630000	1007.050000	...
+1007.050000	1009.050000	The test suite
+1009.050000	1011.050000	is written.
+1011.050000	1013.050000	DFKI simply has
+1013.050000	1015.050000	its private part.
+1015.050000	1016.890000	They don't say exactly
+1017.050000	1018.970000	the songs, but they have
+1018.970000	1021.050000	the targeted page hidden,
+1021.050000	1023.050000	and the research page
+1023.050000	1025.050000	always goes
+1025.050000	1027.050000	to WMT,
+1027.050000	1029.050000	and system can translate it.
+1029.050000	1031.050000	Then they will evaluate the systems
+1031.050000	1035.050000	which you have already Maßnahmenlehrerpreistgeist sich mit Layste.
+1035.050000	1070.390000	Open the WMT website and type www.statmt.org.
+1070.390000	1073.960000	You still have WMT on top.
+1073.960000	1081.420000	And now type www.statmt.org.
+1081.420000	1084.420000	Yes, statmt.org. With a dot.
+1084.420000	1090.120000	But delete the WMT. It must be just www.
+1090.120000	1098.430000	Great. And now lomeno.wmt23.
+1098.430000	1107.290000	Yes. And there are papers at the top.
+1107.290000	1111.880000	I don't know what papers are.
+1111.880000	1113.880000	And now search for dfki.
+1113.880000	1117.730000	Yes. And there are papers at the top. I don't know what papers are.
+1117.730000	1120.730000	I don't know what papers are.
+1120.730000	1124.730000	So look for avramidis.
+1132.730000	1134.730000	And now check for more.
+1134.730000	1140.600000	Secondary sign language.
+1140.600000	1145.560000	Results of the matrix.
+1145.560000	1147.560000	And again...
+1147.560000	1149.560000	There are two articles here.
+1149.560000	1152.560000	Challenging state of the art machine.
+1152.560000	1156.560000	This one will probably be good too.
+1156.560000	1159.560000	And there was one more.
+1159.560000	1164.470000	Aura midis.
+1164.470000	1168.470000	Test suits. This one is different.
+1168.470000	1170.470000	Look for another one.
+1170.470000	1173.780000	This is the last one.
+1173.780000	1175.780000	Which one do you have?
+1175.780000	1181.160000	One back is...
+1181.160000	1184.160000	LME, that's it.
+1184.160000	1198.960000	So take this one.
+1198.960000	1216.460000	Russian. English-Russian. They also have.
+1216.460000	1218.460000	Across multiple language directions.
+1218.460000	1221.460000	German-English, English-German and English-Russian.
+1221.460000	1224.840000	So there you see...
+1224.840000	1228.840000	But falls in the second significance cluster for English-Russian.
+1228.840000	1234.840000	Aha, so English-Russian GPT-4 doesn't know that much.
+1234.840000	1238.840000	So now...
+1238.840000	1242.840000	Now it will probably be the best.
+1242.840000	1244.840000	However...
+1244.840000	1250.840000	Lisa is still working on Chinese.
+1250.840000	1258.350000	So it would be good if you could...
+1258.350000	1261.350000	For example, with your own GIFs.
+1261.350000	1268.330000	Why?
+1268.330000	1271.840000	Lisa is working on Chinese.
+1271.840000	1277.430000	She doesn't have DFKI.
+1277.430000	1285.430000	So your ideal would be to make a very similar article as DFKI.
+1285.430000	1287.430000	But you would cover GIFs,
+1287.430000	1299.260000	which you yourself have found for Russian and for Chinese.
+1299.260000	1329.430000	Yes. GIFs.
+1329.430000	1334.830000	With situations...
+1334.830000	1336.830000	Please list a bit further.
+1336.830000	1342.830000	I think they will have at least a list of GIFs or situations.
+1342.830000	1344.830000	Maybe they will have some examples.
+1344.830000	1346.830000	And maybe...
+1346.830000	1348.830000	Test your description.
+1348.830000	1350.830000	There it is. 3.1 is described.
+1350.830000	1352.830000	And here you can see...
+1352.830000	1353.830000	Yes, yes.
+1353.830000	1354.830000	So here...
+1354.830000	1364.820000	Some...
+1364.820000	1370.050000	So in the picture...
+1370.050000	1373.050000	...
+1373.050000	1376.050000	...
+1376.050000	1385.190000	...
+1385.190000	1390.190000	...
+1390.190000	1392.190000	...
+1392.190000	1397.330000	...
+1397.330000	1398.330000	...
+1398.330000	1399.330000	...
+1399.330000	1400.330000	...
+1400.330000	1402.330000	...
+1402.330000	1403.330000	...
+1403.330000	1404.330000	...
+1404.330000	1405.330000	...
+1405.330000	1406.330000	...
+1406.330000	1407.330000	...
+1407.330000	1408.330000	...
+1408.330000	1409.330000	...
+1409.330000	1410.330000	...
+1410.330000	1411.330000	...
+1411.330000	1412.330000	...
+1412.330000	1413.330000	...
+1413.330000	1414.330000	...
+1414.330000	1415.330000	...
+1415.330000	1416.330000	...
+1416.330000	1417.330000	...
+1417.330000	1418.330000	...
+1418.330000	1419.330000	...
+1419.330000	1420.330000	...
+1420.330000	1421.330000	...
+1421.330000	1422.330000	...
+1422.330000	1427.140000	...
+1427.140000	1428.140000	...
+1428.140000	1429.140000	...
+1429.140000	1430.140000	...
+1430.140000	1431.140000	...
+1431.140000	1432.140000	...
+1432.140000	1433.140000	...
+1433.140000	1446.920000	I don't know if you can understand me.
+1446.920000	1457.740000	Aha, it didn't work.
+1457.740000	1461.740000	I have a bad connection to the Internet.
+1461.740000	1464.740000	Aha, wait a minute.
+1464.740000	1468.880000	I'll try to go over.
+1468.880000	1476.900000	I don't know why I have a bad connection.
+1476.900000	1512.120000	Well, I'm afraid the Internet has affected our connection.
+1512.120000	1515.120000	It did.
+1515.120000	1517.120000	Yes.
+1517.120000	1531.830000	But you don't understand the content.
+1531.830000	1542.260000	So, you don't understand the problem.
+1542.260000	1548.770000	Yes.
+1548.770000	1561.270000	I tried to figure out how the DSUID DFKI works.
+1561.270000	1565.270000	But it will be easier if someone...
+1565.270000	1574.610000	...if they just don't work.
+1574.610000	1583.110000	Well, where is it?
+1583.110000	1584.110000	Where is it?
+1584.110000	1585.110000	It came out...
+1585.110000	1587.110000	If you look at the sun.
+1587.110000	1601.920000	But when the sun came out, the Internet just didn't work at all.
+1601.920000	1605.920000	So, in short, can you still hear me?
+1605.920000	1607.920000	Or is it not working?
+1607.920000	1612.920000	I'll turn off my camera.
+1612.920000	1613.920000	So it's a little...
+1613.920000	1614.920000	Yes, okay.
+1614.920000	1616.920000	I'll try to...
+1616.920000	1617.920000	So.
+1617.920000	1618.920000	Try to read it.
+1618.920000	1620.920000	We'll save it.
+1620.920000	1621.920000	Try to...
+1621.920000	1622.920000	This is the article.
+1622.920000	1624.920000	And something similar.
+1624.920000	1626.920000	Prepare a similar...
+1626.920000	1627.920000	...
+1627.920000	1628.920000	...
+1628.920000	1629.920000	...
+1629.920000	1630.920000	...
+1630.920000	1631.920000	...
+1631.920000	1632.920000	...
+1632.920000	1633.920000	...
+1633.920000	1634.920000	...
+1634.920000	1635.920000	...
+1635.920000	1636.920000	...
+1636.920000	1637.920000	...
+1637.920000	1638.920000	...
+1638.920000	1639.920000	...
+1639.920000	1640.920000	...
+1640.920000	1641.920000	...
+1641.920000	1642.920000	...
+1642.920000	1643.920000	...
+1643.920000	1644.920000	...
+1644.920000	1652.230000	...
+1652.230000	1653.230000	...
+1653.230000	1654.230000	... ...
+1654.230000	1655.230000	... ...
+1655.230000	1656.230000	... ...
+1656.230000	1657.230000	...
+1657.230000	1658.230000	... ...
+1658.230000	1659.230000	...
+1659.230000	1660.230000	...
+1660.230000	1661.230000	...
+1661.230000	1662.230000	...
+1662.230000	1663.230000	...
+1663.230000	1664.230000	...
+1664.230000	1665.230000	...
+1665.230000	1666.230000	...
+1666.230000	1667.230000	...
+1667.230000	1668.230000	...
+1668.230000	1669.230000	...
+1669.230000	1670.230000	...
+1670.230000	1671.230000	...
+1671.230000	1672.230000	...
+1672.230000	1673.230000	...
+1673.230000	1674.230000	...
+1674.230000	1675.230000	...
+1675.230000	1676.230000	...
+1676.230000	1677.230000	...
+1677.230000	1678.230000	...
+1678.230000	1679.230000	...
+1679.230000	1680.230000	...
+1680.230000	1681.230000	...
+1681.230000	1684.230000	Of course, it's slower than talking in common.
+1684.230000	1691.230000	But in the questionnaire, you can answer what the problems were.
+1691.230000	1696.230000	So maybe now, because I don't have the questionnaire yet,
+1696.230000	1704.230000	maybe right after the talk, you can just make a few notes on paper.
+1704.230000	1710.230000	What you liked about the multilingual talk, what was the biggest complication,
+1710.230000	1715.230000	what could be improved to make it more usable in practice,
+1715.230000	1718.230000	even if we understood each other even less.
+1718.230000	1722.230000	The problem is definitely the chat icon, how it covers the text.
+1722.230000	1724.230000	We have to fix that.
+1724.230000	1732.510000	So thank you very much.
+1732.510000	1735.510000	See you on Friday.
+1735.510000	1738.510000	And I'll send you a questionnaire and prepare it.
+1739.510000	1744.230000	Thank you very much.
+1744.230000	1746.230000	Thank you and goodbye.
