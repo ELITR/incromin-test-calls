@@ -75,7 +75,7 @@ Example:
 
 Deidentified terms in texts are replaced with placeholders wrapped in underscores, such us `__PERSON1__` . The terms are consistent within the same meetings.
 
-The types of entities are inspired by the (ELITR minuting corpus)[https://ufal.mff.cuni.cz/elitr-minuting-corpus]. 
+The types of entities are inspired by the [ELITR minuting corpus](https://ufal.mff.cuni.cz/elitr-minuting-corpus). 
 
 ### Transcripts and translations
 
