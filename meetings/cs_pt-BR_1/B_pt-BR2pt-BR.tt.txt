@@ -1,0 +1,170 @@
+6.839000	10.789000	Ok.
+56.099000	58.199000	Entendi. Sem problemas.
+70.269000	72.569000	Eu entendi. Sem problemas, podemos continuar.
+86.299000	89.779000	Certo. Eu gostei muito de Praga quando eu visitei.
+90.379000	91.479000	Eu achei uma cidade muito bonita.
+91.999000	105.989000	Sim, é minha primeira vez.
+105.989000	107.909000	E é a primeira vez que eu venho para a Europa também.
+120.699000	121.899000	Não entendi, desculpa.
+132.629000	133.709000	Eu poderia repetir, por favor?
+151.249000	155.489000	Sim, leva em torno de 10 horas para chegar até Praga.
+165.949000	166.469000	Sim.
+170.339000	171.399000	Você já foi ao Brasil?
+189.429000	192.389000	Você pretende ir viajar para a América do Sul ou do Norte?
+209.889000	210.369000	Entendo.
+212.049000	215.089000	Viajar me fez perceber como as culturas são diferentes.
+229.339000	232.379000	Um pouco mais na América do Norte e do Sul.
+249.109000	254.229000	Sim, a Europa é muito rica, tem muitos países, então faz total sentido.
+254.229000	297.019000	Eu fui visitar a Cidade Velha, a Ponte de Charles, o Castelo de Praga e hoje eu vou no Teatro Nacional ver um concerto de ópera.
+297.019000	320.459000	Isso, ver a ópera. É a minha primeira vez vendo ópera. Nos outros lugares que eu visitei não é muito comum.
+320.459000	339.719000	A ideia específica do quê?
+339.719000	374.599000	Não é a apresentação. Na verdade, a apresentação é sobre segredos. Eu não li direito a transcrição da ópera, mas me parece bem interessante.
+374.599000	402.239000	É uma grande diferença. Aqui em Praga é bem eficiente o transporte público, tem muitos tipos de transporte na mesma cidade.
+403.579000	411.579000	No Brasil é mais comum apenas ônibus nas cidades e na grande metrópole, metrô em geral, ônibus e metrô.
+411.579000	450.199000	Mas aqui é uma grande eficiência para comprar os tickets e os horários são bem corretos.
+450.199000	452.199000	Sim, entendi.
+452.199000	458.639000	Mas nas outras cidades da Europa o transporte público é diferente?
+458.639000	503.009000	Porque seria difícil viver nesses países.
+503.009000	533.779000	Ah, entendi.
+534.119000	541.499000	Mas eu achei Praga muito bonita. As construções tem muito castelo, é muito diferente do Brasil.
+541.499000	546.499000	É difícil encontrar castelos no Brasil e na América do Sul de forma geral.
+546.499000	596.979000	Eu tenho muita curiosidade de visitar essas cidades no interior, mas eu tenho um pouco de medo de eu precisar falar tcheco para conseguir visitar os lugares turísticos.
+596.979000	633.299000	Você acha que seria possível sem falar a língua local?
+633.299000	635.299000	Entendi.
+635.299000	637.299000	É muito curioso de ver isso.
+637.299000	639.299000	No Brasil também.
+639.299000	647.299000	É mais nas metrópoles capitais que as pessoas falam mais inglês, mas nas cidades do interior falamos em português apenas.
+647.299000	651.299000	Claro que é possível encontrar uma pessoa ou outra que consiga falar inglês.
+651.299000	685.429000	Sim, mas quando brasileiros viajam para Portugal eles também sofrem para entender.
+685.429000	693.429000	Os portugueses falam português muito rápido, então para nós brasileiros é mais difícil de compreender.
+693.429000	699.429000	Muitas vezes preferimos falar inglês com os portugueses, mas os portugueses entendem nós brasileiros muito bem.
+699.429000	722.099000	Dentro da República Tcheca tem diferença de dialetos, de sotaques, como é que funciona?
+722.099000	774.429000	Entendo.
+774.429000	780.429000	Mas dentro dos países da República Tcheca tem diferença culinária?
+780.429000	785.429000	Por exemplo, só tem um prato específico em uma cidade e outro prato específico de outra?
+785.429000	789.429000	Ou é uma comida padronizada, um estilo cultural padronizado?
+789.429000	827.179000	Curioso.
+827.179000	838.109000	Entendo.
+838.109000	842.109000	No Brasil para cada estado tem uma comida típica.
+842.109000	847.109000	Então no Nordeste a gente come bastante frutos do mar.
+847.109000	850.109000	No Sul é mais carne bovina.
+850.109000	856.109000	No Centro-Oeste é uma mistura, então a gente come todos os tipos de comida, é bem cultural.
+856.109000	858.109000	E a gente sofre outras influências culturais.
+858.109000	862.109000	Então é possível achar pizza, comida francesa, comida italiana.
+862.109000	898.649000	Mas especialmente no Norte e no Sul são comidas específicas dessa região que é mais comum encontrar lá.
+898.649000	899.649000	Entendo.
+899.649000	905.649000	Nós somos muito ricos culturalmente em questão de etnia.
+905.649000	909.649000	Você é possível encontrar todo tipo de pessoa no Brasil.
+909.649000	912.649000	Não tem uma assinatura que nos define.
+912.649000	925.049000	E nós temos muitas comunidades.
+925.049000	927.049000	Então tem comunidade japonesa, comunidade...
+927.049000	935.049000	Comunidade africana, comunidades italianas, comunidades alemãs.
+935.049000	939.049000	Então existem bairros de alemães, existem bairros de italianos.
+939.049000	943.049000	Então por conta disso a comida também é influenciada.
+943.049000	960.519000	Eu acredito que seja mais no Brasil.
+960.519000	964.519000	Eu não viajei muito para a América do Sul para afirmar.
+964.519000	966.519000	Mas eu vejo mais essa distinção no Brasil.
+966.519000	968.519000	O Brasil é muito grande.
+968.519000	987.439000	O interessante da diferença entre os dois países é que o Brasil é sempre calor.
+987.439000	991.439000	Então a gente, claro, a gente tem a nossa divisão de estação.
+991.439000	993.439000	Verão, inverno.
+993.439000	996.439000	Mas nunca é um inverno muito frio, sabe?
+996.439000	997.439000	Não neva.
+997.439000	1001.439000	Então a gente consegue viver sem blusas de frio, por assim dizer.
+1001.439000	1007.439000	Mas aqui eu entendo, e na Europa de forma geral, vocês têm estações do ano bem definidas.
+1007.439000	1010.439000	Vocês têm realmente um inverno muito frio.
+1010.439000	1011.439000	É muito curioso.
+1011.439000	1057.159000	E como é que foi a experiência com neve?
+1057.159000	1059.159000	Vocês praticam algum esporte?
+1059.159000	1062.159000	Vocês mudam hábitos quando neva?
+1062.159000	1065.159000	Eu digo, como é que é para fazer mercado?
+1065.159000	1067.159000	Para andar nas ruas?
+1067.159000	1093.809000	Vocês têm que mudar hábitos quando chega o inverno?
+1093.809000	1095.809000	Eu sempre quis andar de esqui.
+1095.809000	1099.809000	Mas é bem difícil na América do Sul em geral.
+1099.809000	1100.809000	Muito interessante.
+1100.809000	1107.459000	Para substituir o esqui, a gente anda de skate praticamente.
+1107.459000	1121.019000	Assim.
+1121.019000	1127.499000	E sobre a questão de...
+1127.499000	1132.499000	Na casa de vocês têm controlador de temperatura?
+1132.499000	1134.499000	Quando é muito inverno?
+1134.499000	1160.229000	Ou vocês não têm equipamentos?
+1160.229000	1161.229000	Entendo.
+1161.229000	1162.229000	Faz sentido.
+1162.229000	1164.229000	No Brasil nós não temos aquecedor.
+1164.229000	1166.229000	Nós temos ar-condicionado.
+1166.229000	1170.229000	Então sempre que está muito calor, nós ligamos o ar-condicionado.
+1170.229000	1173.229000	É muito difícil você entrar em um prédio sem ar-condicionado.
+1173.229000	1175.229000	Então sempre é muito fresquinho.
+1175.229000	1178.859000	Especialmente no centro do país.
+1178.859000	1212.859000	Entendo.
+1212.859000	1215.859000	Mas comparando a questão do calor.
+1215.859000	1218.859000	Vocês têm sofrido muito com o calor ultimamente?
+1218.859000	1223.859000	Esse calor que tem sido nos últimos anos é igual dos últimos 10 anos?
+1223.859000	1224.859000	Como está sendo para vocês?
+1224.859000	1247.269000	Entendo.
+1247.269000	1251.269000	No Brasil nós temos sentido também que o calor aumentou de forma geral.
+1251.269000	1258.269000	Tem acontecido algumas catástrofes naturais como enchentes, tempestades muito fortes.
+1258.269000	1265.269000	Então tudo isso é consequência dos problemas climáticos.
+1265.269000	1287.879000	Não entendi.
+1287.879000	1303.859000	Poderia repetir, por favor?
+1303.859000	1305.859000	Sim, isso é verdade.
+1305.859000	1307.859000	Tenho sentido isso também.
+1307.859000	1312.239000	Uma curiosidade que eu queria saber.
+1312.239000	1315.239000	Como é que vocês lidam com os turistas?
+1315.239000	1318.239000	É muito turista na cidade.
+1318.239000	1321.239000	Vocês têm algum programa para controle?
+1321.239000	1333.379000	Como é que funciona?
+1335.819000	1345.819000	Eu digo, com a lotação de pessoas, existe limite para entrar em concertos?
+1345.819000	1348.819000	Limites para visitar lugares turísticos?
+1348.819000	1371.779000	Ou não tem?
+1371.779000	1372.779000	Entendi.
+1372.779000	1379.779000	E depois que você veio para Praga, você se acostumou com as construções, com o estilo da cidade?
+1379.779000	1421.449000	Ou você ainda sente um pouco de saudade da sua cidade natal?
+1421.449000	1423.449000	Olha, isso é bem curioso.
+1423.449000	1447.009000	Entendo.
+1447.009000	1449.009000	Faz sentido.
+1449.009000	1456.009000	Você pensa em mudar de cidade para ir para outra região ou outro país aqui da Europa?
+1456.009000	1488.209000	Entendo.
+1488.209000	1497.209000	E você recomenda algum bairro aqui para visitar que seja com uma forte cultura tcheca?
+1497.209000	1501.209000	Porque vejo que muitas comidas não são tchecas.
+1501.209000	1505.209000	São da Rússia, ou são da Polônia, ou são de outras regiões.
+1505.209000	1529.329000	Você recomenda algum local que tenha, de fato, a cultura tcheca?
+1529.329000	1535.329000	Ah, eu digo, você recomenda algum lugar para eu visitar que tenha muito forte a cultura tcheca?
+1535.329000	1543.329000	Porque vejo que aqui, principalmente no centro da cidade, existem muita cultura russa e cultura polonesa.
+1543.329000	1546.329000	Eu fico um pouco confusa para saber o que é tcheco e o que não é.
+1546.329000	1575.899000	Sim, restaurantes e lojas de cristais.
+1575.899000	1579.899000	Eu vi que loja de cristais é bem cultura tcheca.
+1579.899000	1619.459000	Isso está correto?
+1619.459000	1620.459000	Sim, é verdade.
+1620.459000	1632.459000	É interessante você ter mencionado isso porque antes de ontem eu fui no centro da cidade ver a torre da praça antiga.
+1632.459000	1636.459000	E eu queria muito comprar uma água, mas a água estava muito cara.
+1636.459000	1642.459000	Estava 80 tchecas, que é equivalente a 6 euros.
+1642.459000	1643.459000	É extremamente caro, eu achei.
+1643.459000	1647.459000	Então faz sentido o que você disse.
+1647.459000	1691.539000	Sim, é verdade.
+1691.539000	1698.539000	Eu visitei alguns outros pontos turísticos e eu estou fascinada com a cidade.
+1698.539000	1700.539000	Tem muita coisa para fazer.
+1700.539000	1703.539000	Apesar de ser uma cidade pequena, tem muita coisa para fazer.
+1703.539000	1707.539000	E eu com certeza vou voltar aqui para continuar a minha jornada.
+1707.539000	1734.179000	Ah, poderia repetir? Eu não entendi.
+1734.179000	1750.759000	Sim, eu planejo daqui a algum tempo voltar para viajar.
+1750.759000	1753.759000	Voltar para viajar, para turistar de fato.
+1753.759000	1759.759000	Eu vim para Praga para participar do evento, o que tem sido maravilhoso.
+1759.759000	1791.259000	Existe alguma diferença entre as cidades? O que chamaria a atenção de uma ou outra?
+1791.259000	1793.259000	O que as caracteriza na sua opinião?
+1793.259000	1835.829000	Não entendo.
+1835.829000	1868.899000	Sim, é verdade.
+1868.899000	1875.899000	Eu gosto muito de receber recomendações de pessoas locais, porque a chance de eu me frustrar é menor.
+1875.899000	1897.199000	Ah, poderia repetir, por favor?
+1897.199000	1931.829000	Ah, eu acredito que sim, principalmente se você gosta de ver a natureza de forma geral.
+1931.829000	1944.829000	No Brasil nós temos uma diversidade muito grande de praias, de riachos, de parques, principalmente de praias.
+1944.829000	1946.829000	Nós temos dunas.
+1946.829000	1951.829000	Então, no país você consegue visitar muita coisa diferente.
+1951.829000	1953.829000	Em um mesmo local.
+1953.829000	1955.829000	Principalmente na questão natural.
+1955.829000	1960.829000	Então, se você for no norte do país, você vai encontrar muitas praias com água cristalina.
+1960.829000	1963.829000	E é realmente muito bom.
+1963.829000	1987.499000	Ah, poderia repetir, por favor?
+1987.499000	1993.049000	Ah, poderia repetir, por favor?
+1993.049000	2011.629000	Ah, certo. Ok.

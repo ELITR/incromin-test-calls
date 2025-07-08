@@ -1,0 +1,105 @@
+13.671000	20.241000	A little bit.
+20.241000	47.341000	I don't see it yet, I'm opening the link.
+47.341000	160.311000	Now I see it.
+160.311000	170.311000	I understand, but I think it would be more honest to read the translation to understand the real situation of how it would have happened.
+170.311000	210.021000	Okay.
+210.021000	233.551000	I'm not surprised how much I understand Czech, I've never had a meaningful conversation.
+233.551000	262.911000	Okay.
+262.911000	268.911000	First of all, about the project I'm working on.
+268.911000	278.911000	It's a translation of GPT from VMT, as it's called correctly.
+278.911000	280.911000	We're trying to find it.
+280.911000	289.911000	We're trying to find systematic errors in the translation from the GPT chat from last year.
+289.911000	295.911000	I haven't made much progress since we discussed it last time.
+295.911000	302.911000	But what I did and could share.
+302.911000	308.911000	Last time we discussed two, it seems, that are systematically found errors.
+308.911000	310.911000	And I'll tell you about them.
+310.911000	313.911000	And here I don't know how to say it in Russian.
+313.911000	315.911000	Possessive.
+315.911000	322.431000	Okay.
+322.431000	342.311000	Okay.
+342.311000	366.321000	Last time we discussed two errors that we found.
+366.321000	371.321000	It's possessive nouns and possessive pronouns.
+371.321000	385.151000	The probability that I found was that the translation was not successful.
+385.151000	394.151000	And the reason I found it was that GPT does not translate them as possessive and substantive, but as substantive and substantive.
+394.151000	415.211000	Instead of someone's cat, GPT translates them as someone's cat.
+415.211000	434.501000	Instead of someone's cat, it translates as cat of somebody.
+434.501000	455.631000	Instead of someone's cat, it translates as someone's cat.
+455.631000	472.711000	It can be understood, but it's wrong.
+472.711000	483.421000	It's like a calc in English.
+483.421000	492.421000	Or even, I would say that it's not a calc in English, but it's exactly the place where the possessive case should be used.
+492.421000	495.421000	I need to check how it's translated into Russian.
+495.421000	506.831000	And it translates it directly.
+506.831000	532.111000	Yes.
+532.111000	554.431000	If I understood you correctly, here is an icon of the chat in the bottom part of the window.
+554.431000	556.431000	And it just closes the last sentence.
+556.431000	558.431000	That's why it's called the app.
+558.431000	572.361000	And here you can see the application that appeared.
+572.361000	573.361000	Yes.
+573.361000	594.791000	Just a second.
+594.791000	596.791000	Yes, yes, yes.
+596.791000	601.791000	So, since my progress from last time, I've tried to use similar application.
+601.791000	627.361000	That is, we saw a situation in two cases.
+627.361000	664.581000	In one case it was a that, in another case it is real.
+664.581000	695.501000	One moment.
+695.501000	698.901000	That is, yes.
+698.901000	736.631000	This is a specific mistake when somebody's, someone's, their own particle, when the apostrophe is an apostrophe s, and in all cases, in my examples, it turns out that he translates it incorrectly every time without variation.
+736.631000	752.631000	What I wanted to highlight is that it's only a copilot, that is, maybe in other variations of the GPT chat it will work better, or maybe there, well, I didn't do numerous experiments, it's one shot, just to confirm.
+752.631000	832.031000	But it just seems to me that this is really the thing that can already be highlighted as a group, because it translates it incorrectly over and over again.
+833.031000	853.911000	So, I wanted to highlight that.
+853.911000	883.831000	And I wanted to highlight that, too.
+936.291000	938.291000	I'm sorry, I didn't mean to hurt you.
+938.291000	942.181000	I'm sorry.
+942.181000	944.181000	I'm sorry.
+944.181000	946.181000	I'm sorry.
+946.181000	948.181000	I'm sorry.
+948.181000	950.181000	I'm sorry.
+971.701000	977.701000	.
+977.701000	986.231000	.
+986.231000	988.231000	.
+988.231000	998.231000	.
+998.231000	1000.231000	.
+1000.231000	1002.231000	.
+1002.231000	1004.231000	.
+1004.231000	1053.551000	Vomoto 23.
+1053.551000	1082.511000	StatMoto.org with or without a point?
+1082.511000	1091.021000	I got it.
+1091.021000	1109.871000	Vomoto 23.
+1109.871000	1116.191000	That's it?
+1116.191000	1118.191000	Dfk.
+1118.191000	1128.731000	Doesn't find it.
+1128.731000	1130.731000	Okay, I see.
+1130.731000	1146.141000	There are a few of them.
+1146.141000	1155.951000	Excuse me.
+1155.951000	1161.801000	I'll find it.
+1161.801000	1163.801000	This one.
+1163.801000	1184.721000	Is this the last one?
+1184.721000	1222.311000	I'll open it in a new tab.
+1222.311000	1268.031000	I'll wait for the translation.
+1268.031000	1313.321000	So, this is an example for us.
+1313.321000	1344.911000	So, it works with findings, details, situations, and testing.
+1408.261000	1410.261000	It's not like you have to look at the data, but you can see things and see what's going on.
+1410.261000	1411.261000	So, how does it work?
+1411.261000	1418.481000	I'll show you.
+1418.481000	1431.401000	So, this is a new one.
+1431.401000	1438.171000	So, let's see.
+1438.171000	1440.171000	So, let's see.
+1440.171000	1449.311000	So, here we are.
+1449.311000	1451.311000	So, what is this?
+1451.311000	1452.311000	So, what is this?
+1452.311000	1508.351000	So, here we are.
+1508.351000	1509.351000	So, what is this?
+1509.351000	1556.381000	So, here we are.
+1556.381000	1565.511000	So, here we are.
+1565.511000	1566.511000	Okay, let's see.
+1566.511000	1583.331000	So, let's see.
+1583.331000	1584.331000	So, here we are.
+1584.331000	1604.251000	I hear you.
+1604.251000	1613.871000	Good.
+1613.871000	1628.791000	Good.
+1628.791000	1642.891000	Good.
+1642.891000	1644.891000	Good.
+1644.891000	1666.991000	Good.
+1666.991000	1721.791000	Good.
+1721.791000	1736.041000	Good.
+1736.041000	1742.111000	See you on Friday.
+1742.111000	1744.111000	Thank you. Bye.

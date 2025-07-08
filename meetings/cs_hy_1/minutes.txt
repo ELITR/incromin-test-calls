@@ -1,0 +1,29 @@
+ELITR ARM x CS project call
+Date: 05. 05. 2020
+Attendees: ARM, CS 
+Purpose of meeting: try translator if attendees do not speak the same language, discuss ARMs LLMs project
+
+-technicals and topics of the call
+--try if the transcript is working
+--colleages headphones needs to be corrected, because nothing is transcripted
+--instructions about the main topic and how to talk and behave during the call
+
+-discussion about the project
+--agreed that technical English words are good when you speak naturally
+--discussuing about using Llama 3 for the project and suggest other lagre language models he want to use
+--brief goal recapitulation beacuse of misunderstanding
+--talk about technical part of project
+---what is collected for now
+---discuss the size of collected data
+---some data available from Llama 3 and GPT-4 will be shown by Friday
+
+-testing the traslation transcript
+--instructed how to speak
+--ask to corrected the transcripted text
+--confirm last few sentences about dataset which will be shown by Friday
+--agreed that sentences are translating correcly now
+
+-sumarry and ending the call
+--agreed that ARM will answer the questionar about the call
+--they will see each other by Friday and discuss the outputs of LLMs
+

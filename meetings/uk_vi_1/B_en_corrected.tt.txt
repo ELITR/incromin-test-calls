@@ -1,0 +1,130 @@
+1.84	14.48	Hello.
+15.0	16.0	I'm fine.
+27.48	34.48	In Prague I can also do many sports.
+52.48	60.24	I like badminton the most. I often go with my friends in Prague.
+76.24	79.05	Not a club. I went with my friends by myself.
+98.05	116.34	No, when I go to badminton, it's just a single sport.
+116.34	132.22	Multiple people or two people are fine.
+132.22	152.64	It has two or four people with playing together.
+152.64	155.64	No, it's not a ball.
+155.64	158.64	It is called a bridge.
+203.64	207.09	Yes, I'll go that too. I like that.
+207.09	211.3	I often go to paint.
+228.3	229.07	Ah, that's good.
+241.07	245.18	So do you go to any club that makes pottery?
+268.12	296.09	Then Are you enrolled in any clubs?
+301.49	303.49	Do you like to go...
+304.49	331.54	Going to the museum?
+331.54	335.54	Yes, I don't go much in Prague either.
+335.54	340.54	But if I go abroad, I can go.
+340.54	343.54	I like it the most in the Vatican.
+357.54	368.62	Yes, I'm here.
+386.62	387.04	Yes, I like to travel too.
+387.04	394.04	I want to go to Asian countries.
+408.04	411.79	Which country do you like the most in Asia?
+438.79	440.14	Have you traveled to many countries in Europe?
+466.14	468.39	Do you like to go to Spain?
+489.39	492.78	No, I haven't gone yet. This October, I will go.
+503.78	506.36	Uh, we're going for four days?
+506.36	518.25	4 days.
+518.25	549.21	In Madrid, I am going to Madrid.
+549.21	555.21	Yes, I also heard that Del Prado is beautiful.
+555.21	556.21	And...
+556.21	578.58	I'm also... I also want to visit.
+578.58	581.58	Asian? How long do you go?
+581.58	596.66	So do you go to each capital or visit around?
+596.66	614.82	Yes.
+614.82	632.95	So is there good weather there in September?
+632.95	635.97	Yes.
+635.97	657.54	Do you like going to the beach?
+657.54	658.54	Yes.
+658.54	660.54	So you like to swim indoors...
+670.54	678.99	Is it better in the pool or in the sea?
+679.99	686.99	I want to go swimming indoors because I just got a Multisport card.
+686.99	712.02	But I haven't gone once.
+714.02	733.45	Is there a sport you want to try?
+734.45	738.45	I also want to try the pants with...
+738.45	740.45	Prague 4, Hamry
+740.45	741.45	Have...
+742.45	744.45	There is room to play.
+762.95	766.95	Even if I go... try or go...
+768.95	771.95	Art gallery style.
+790.92	791.92	Image.
+791.92	793.92	I often like to watch...
+793.92	807.62	Photos or how they paint.
+808.62	811.62	I have just started reading again.
+811.62	812.62	Because...
+812.62	815.62	First, I have to read and go to school.
+815.62	817.62	I don't like it.
+836.95	837.95	That's right.
+837.95	838.95	That's right.
+838.95	840.95	I'm reading...
+841.95	843.95	Book with boyfriend.
+843.95	849.93	Fighting.
+849.93	867.64	Who reads first
+868.64	869.64	I like...
+869.64	884.86	Thriller.
+884.86	885.86	Oh...
+885.86	886.86	Then you...
+886.86	889.86	Interested in history or...
+889.86	891.86	Or what?
+904.02	907.02	In Europe or in other countries.
+925.84	939.92	I prefer to read like a story book.
+941.92	945.92	I like to talk about love or...
+945.92	948.92	Or...
+948.92	951.92	Books for children are also good.
+951.92	954.92	I like...
+954.92	968.79	Harry Potter.
+969.79	974.79	And what language do you read about?
+987.79	989.56	Ah, in English?
+1005.56	1007.34	Is it hard, then?
+1008.34	1010.34	I also read, I started reading.
+1010.34	1013.34	I read to book 4.
+1013.34	1014.34	But...
+1014.34	1017.34	After that, I liked to read another book.
+1017.34	1019.34	Fennel is stopping.
+1043.15	1047.15	I often watch movies before Christmas.
+1047.15	1049.15	I always watch all 7 episodes.
+1049.15	1051.15	But...
+1051.15	1054.15	If you read it, it's a lot...
+1054.15	1055.15	More stories.
+1055.15	1056.15	For me, I also like...
+1056.15	1073.14	I guess I like the book better.
+1074.14	1077.14	I now like to go see in...
+1077.14	1079.14	Filmmaking.
+1079.14	1081.14	Because it has a big screen.
+1081.14	1095.11	And come with you.
+1096.11	1108.58	What do you like?
+1108.58	1114.77	Yes, that's the best.
+1114.77	1117.77	Do you like to go to the theater?
+1125.77	1126.58	Watch the play.
+1136.53	1139.53	So you like to go and see...
+1139.53	1143.53	Watching drama or singing?
+1169.78	1172.78	Do you often watch episodes?
+1172.78	1191.48	At home.
+1199.08	1201.08	I haven't watched it for a long time.
+1201.08	1202.08	But...
+1202.08	1205.08	I guess I like it the most...
+1205.08	1220.55	Game of Thrones.
+1220.55	1222.55	So you see...
+1222.55	1225.55	A new series about...
+1225.55	1248.7	This movie?
+1250.7	1252.7	I haven't seen it yet.
+1252.7	1255.7	But what many people say is that it...
+1255.7	1257.7	Very interesting.
+1274.78	1277.78	So you like to go...
+1277.78	1297.7	Do you like watching Japanese anime?
+1298.7	1299.7	Body...
+1299.7	1300.7	I like it.
+1300.7	1302.7	I'm watching...
+1302.7	1308.83	In one...
+1308.83	1310.83	Hmm... It's called...
+1310.83	1313.83	Attack on Titan.
+1313.83	1328.98	I like that the most.
+1328.98	1330.98	Oh, is that so?
+1330.98	1339.65	That's also a lot of episodes, right?
+1339.65	1348.4	Many episodes.
+1351.4	1354.4	You bought a lot of episodes for your brother, right?
+1354.4	1356.4	Many episodes...
+1356.4	1361.46	Book.
+1386.12	1388.22	I'm done.

@@ -1,0 +1,81 @@
+7.66	9.66	Can you hear me?
+9.66	11.66	Yes, I can.
+11.66	71.38	I only learned a little Czech, and then I forgot.
+71.38	141.13	Okay.
+141.13	145.13	Are you talking about the paper?
+145.13	226.83	Okay, we can go prepare for the presentation together.
+226.83	234.72	But I might not have much time.
+234.72	241.72	If we need to discuss it together, we can meet online and discuss it together.
+241.72	391.61	Okay, so you mean we can discuss the presentation together through this meeting?
+391.61	394.61	I might need to look for the link.
+394.61	397.61	Do I need to look for it now or after I put it up?
+397.61	437.82	Can I open it? I put it on the right.
+437.82	502.5	Can't you see that I put the link on the right?
+502.5	504.5	I think there's a problem here.
+504.5	526.85	It says one arrow occurred and something like that and stopped translating.
+526.85	582.17	Okay, I'll put the link down here.
+582.17	588.66	Let's see if we can see it.
+588.66	628.51	Can you see it now?
+628.51	630.51	I found it's because of my link.
+630.51	635.51	If I put my link here, it will show an arrow occurred and stopped translating.
+635.51	649.87	So I cannot see any translation here.
+649.87	665.26	Okay, let me try it.
+665.26	667.26	I put the link in the chat.
+667.26	668.26	I think you can see it.
+668.26	726.67	I can't see it now.
+726.67	781.29	I can see your screen.
+781.29	792.41	Yes, I can see your screen.
+792.41	795.41	The left is slides and the right is transcription.
+795.41	798.41	But in my case, it's not like that.
+798.41	801.41	I only have the original translation here.
+801.41	804.41	There are no PPT slides.
+804.41	868.79	I think it should be the problem with Google Drive here.
+868.79	871.79	Because it says that my storage is full.
+871.79	874.79	I used the original school mailbox.
+874.79	878.79	Then it stopped the Google Drive in the mailbox.
+878.79	881.79	So I don't think I can edit this now.
+881.79	885.79	We may need to download it and then re-edit it.
+885.79	983.74	Okay, let me try.
+983.74	994.32	I think I've lost the full line of editing.
+994.32	997.32	I can't change its name.
+997.32	1034.21	We can put __PERSON1__'s name here.
+1034.21	1159.2	If __PERSON1__ is doing the presentation.
+1159.2	1161.2	We can choose a few from the middle.
+1161.2	1164.2	We don't need to tell everyone.
+1164.2	1171.2	I think __PERSON1__ may be familiar with the last part of the classification.
+1171.2	1174.2	Because that part is done by him.
+1174.2	1177.2	And then if it's more interesting,
+1177.2	1368.6	We can also put the visualization part up.
+1368.6	1369.6	Okay.
+1369.6	1374.6	I think we may need to add the visualization part.
+1374.6	1378.6	Before we introduce our separation,
+1378.6	1386.6	We may need to introduce that all the embeddings we use are transformation vectors.
+1386.6	1391.6	Not the embeddings that are directly obtained from the model.
+1391.6	1404.06	All the embeddings have removed their seed embeddings.
+1404.06	1415.6	The visualization is in the sixth page.
+1415.6	1441.29	The visualization in the sixth page is fine.
+1441.29	1445.29	I'm thinking about adding it to the outline.
+1445.29	1713.46	We are discussing that to some extent,
+1713.46	1719.46	Our embeddings can be returned to a class.
+1719.46	1726.34	Return to the semantic classes we defined.
+1726.34	1728.34	But I think this index,
+1728.34	1730.34	Kalinske-Haraldsberg Index,
+1730.34	1732.34	Not many people know about it.
+1732.34	1734.34	I don't think everyone knows about it.
+1734.34	1737.34	I don't know if I should explain it when I play.
+1737.34	1740.34	What exactly is this index?
+1740.34	1840.5	Each cluster should represent a semantic class.
+1840.5	1841.5	For example,
+1841.5	1844.5	Ben or Possibility.
+1844.5	1847.5	We put all the possibilities of it.
+1847.5	1851.5	The transformation vector is combined as a cluster.
+1851.5	1854.5	Then test this cluster.
+1854.5	1856.5	To what extent is it.
+1856.5	1862.5	Is the overlap between the two clusters high?
+1862.5	1864.5	This is what we tested.
+1864.5	1866.5	I don't know if I said it clearly.
+1866.5	1968.46	Okay.
+1968.46	1970.46	After this meeting,
+1970.46	1973.46	I can give them some more explanations.
+1973.46	2041.73	Okay, no problem.
+2041.73	2057.2	Goodbye.

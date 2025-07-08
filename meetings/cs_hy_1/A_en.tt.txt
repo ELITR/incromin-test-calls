@@ -1,0 +1,26 @@
+34.05	54.942	Do you hear me now? Yeah, but I don't speak Czech, so should I start in Armenian? Okay, now I'm in the project.
+134.146	162.75	My project was already in the process of completion, so I had to do something about it. I started collecting data, and I had to try to use large language models and use Marian to get results.
+163.074	184.19	When I speak Armenian, I also use English words, I don't know if that's a good thing or not. And for Stanaru, as you can see, Lama 3 is out. I think everyone should try Lama 3, because in my thesis we try it and it gives good results.
+287.33	315.678	To be honest, I am trying something different with LAMA-3. I am trying something in the thesis of my thesis, which is 8 billion ton parameters of LAMA-3. I want to understand how my thesis will help me, and I am doing a lot of prompt engineering. And I think it would be much easier to work in our project. What do you think about it?
+363.97	390.974	Okay, to be honest, I don't know how to explain it in a good way. I wanted to start with the LLMs that we agreed on at the beginning. Palme was part of Google, and I think Lama was part of it, and we all thought that we could do DGPT-4. And I wanted to start from the beginning of May.
+397.858	407.198	from the beginning of May, I don't know, I don't have any updates that I can get an important result.
+447.362	469.822	No, no, no, he's just saying stupid things. And I'm talking about Google, I'm talking about Google's large language model. He's just saying stupid things, as he said. I mean, he...
+511.266	541.15	I am working on a project where we have to evaluate the features of large linguistic models, i.e. LLMs, from English to Armenian pronunciation. And we decided to use, we chose a few large language models, which are PALM2, LAMA2,
+541.57	558.782	the GPT-4, and also the transformer model, Marian, and try to compare their results with selected metrics. This is the overall approach.
+602.658	623.358	I would like to use both LAMA-2 and LAMA-3, because LAMA-3 gives much better results. But here, my speech is half, I am saying some things, but the model does not understand and does not present.
+671.042	691.198	Yes, that's right, that's how I was thinking of doing it, because at first I was very interested in LAMA-3, how it would perform with such small parameters, and I am enthusiastic about using it, and with LAMA-2 it would be easy to coordinate everything.
+728.514	756.158	To be honest, I collect data from Armenian sources, which have both English and Armenian translations. The data is mainly collected and the test data, to be honest, I don't know exactly how many tokens there are, but I think
+756.29	783.774	a collection of 10-20 thousand tokens, which are people's testimonies, and I started doing prompt engineering on Lama2 and Google LLM, and I realized that the prompts work well,
+784.002	791.646	Zero Shroud is doing a good job, we gave them a lot of information about the topic, it is also doing a good job.
+832.93	846.334	Yes, I understand. To be honest, I try to calm down more, because I understand that debt is very important. And if I want to find something and find something better, I try to change it so that we get better results.
+900.514	920.83	Yes, it's easy to get access to Lama 3, you just need to have a GPU and use the AllLama library. There are a few bugs, but I think I have access to it, and it works fine.
+969.73	979.806	Do you have a quick test for me to see if it's correct?
+1010.754	1030.462	So, let's do everything now, that is, let's go to the test data, let's try to search with some LLM.
+1072.258	1086.814	Do you have a second question? I got it.
+1105.026	1127.422	I'm working on Lama3 a little bit longer, it's not realistic for me to be able to do it, maybe I'll get results with GPT-4, and I'll work on Lama2 to get results, if that's normal. I mean, Lama3 is working longer.
+1132.642	1155.934	The number 3 works first, and because of that it will be difficult to solve the problem at once. Did you understand?
+1195.138	1201.662	That is, Lama 2, Lama 3 and GPT-4
+1237.122	1245.502	What else? What else? What else?
+1304.482	1310.174	I understand. It is also very easy for me. I will definitely answer the questions.
+1368.258	1374.174	Yes, that's right.
+1397.474	1408.51	I don't even know how to say it.

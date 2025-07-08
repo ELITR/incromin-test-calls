@@ -1,0 +1,126 @@
+6.11	8.68	Hi, how are you?
+21.74	24.92	Let's talk about our hobbies and what opportunities there are in Prague.
+41.88	43.66	Do you like to play sports?
+66.71	68.55	Where do you go in for sports?
+69.35	73.71	Do you go to some kind of a club or do you do it alone?
+85.97	87.07	What kind of sport is it?
+87.37	92.57	For example, football or walking, or some kind of team sport?
+108.57	111.37	Is it for two or more people?
+124.05	126.19	And what are the rules? Is there a ball?
+146.88	148.4	Do they play with a ball?
+162.53	163.75	Yes, I understand.
+164.49	166.93	For example, I like to play badminton.
+167.13	171.05	It's also with a shuttlecock. With a shuttlecock.
+189.55	191.39	And besides sports, what other kinds of classes are there that you can go to?
+191.39	193.21	For example, needlework?
+197.94	198.8	Handmade?
+218.82	220.74	I like to knit or embroider.
+232.47	234.51	I'm also interested in ceramics.
+249.24	255.52	I have never tried ceramics, but I would like to.
+259.85	261.27	I would like to try it.
+276.94	281.94	No, I am not registered in any union.
+282.66	287.38	For example, I go to badminton with my boyfriend regularly,
+287.38	289.78	but I don't do anything professionally.
+297.94	299.79	But I go to badminton regularly.
+312.79	314.95	In Prague, I don't really like going to museums.
+314.95	322.95	But, for example, when I go somewhere as a tourist, I am interested in it.
+357.95	359.49	Have you been there yet?
+359.49	361.49	Have you been to the Vatican?
+361.49	370.94	Have you been to the Vatican?
+370.94	372.94	I like to travel.
+372.94	374.94	I really like to go to Italy.
+377.38	380.38	Or to other interesting countries.
+398.38	399.4	Cool.
+399.4	403.4	I've never been to Asian countries, but I'd really like to go there.
+418.4	428.19	I don't know much, but I would like to see Japan, Korea, Vietnam as well.
+428.19	431.19	They are really very interesting countries.
+431.19	434.19	And I love the culture.
+434.19	436.19	I love the food.
+445.19	447.12	I've never been outside of Europe.
+447.12	448.12	But I've never been.
+456.12	459.46	I've never been anywhere but Europe.
+473.46	475.62	Yes, I was recently in Spain, in Madrid.
+475.62	477.62	It's a very beautiful city.
+477.62	481.62	And with a good culture and delicious food.
+481.62	485.11	Have you been there before?
+498.11	500.11	Cool. How long are you going to stay?
+510.11	513.23	And also to Madrid or to another city?
+524.23	526.21	Yes, it's very beautiful there.
+526.21	528.21	It's a very lively city.
+528.21	530.21	And a lot of interesting things to do.
+532.21	534.21	Good museums, for sure.
+537.21	540.54	We went to the Del Prado museum.
+540.54	543.54	And we were there for about 4 hours.
+543.54	545.89	I mean, it's a very big museum.
+566.89	570.89	I'm going to Georgia in September.
+570.89	572.89	I haven't been there yet either.
+572.89	584.97	So I'm interested.
+584.97	587.97	I'll be gone for nine days.
+600.97	603.29	We'll be in the capital, too.
+603.29	604.29	In Tblisi.
+604.29	607.29	And in the seaside town.
+607.29	609.29	So we'll be at sea.
+610.29	613.74	But only for a couple of days.
+623.74	625.74	Yeah, I hope so.
+625.74	628.74	The main thing is that it won't be too hot.
+643.74	645.91	Yeah, I like to swim a lot.
+645.91	648.91	And I want to do it regularly.
+648.91	650.91	But I don't go often yet.
+667.91	670.26	It's best in the sea, of course.
+670.26	673.26	But you can also go to the pool.
+673.26	675.26	Do you like to go out?
+675.26	678.14	For example, to the river or to the pool.
+698.14	699.14	Yeah, that's cool.
+699.14	701.14	I'd like to do multisport too.
+701.14	705.14	Because you can go to different sports.
+705.14	707.53	But it's quite expensive.
+722.53	725.53	I would like to try tennis.
+725.53	748.18	But I don't know where to find a good court.
+754.62	776.6	Are you interested in art?
+776.6	778.6	What kind of art is your favorite?
+778.6	783.6	Do you prefer visual art or reading something?
+803.6	804.45	Do you like to read?
+824.45	826.81	Yes, it's better when you have a lot of time.
+826.81	829.81	And you don't have to read only for school.
+861.81	863.63	What genre do you like?
+878.63	881.44	I like educational literature.
+881.44	883.44	Non-fiction.
+893.44	894.24	Yeah.
+894.24	896.24	In modern history, for example.
+897.24	898.18	Recent.
+911.18	913.18	In Europe.
+913.18	916.7	Like how communism developed or something like that.
+933.7	935.7	Which one?
+959.7	962.34	Yeah, I like him a lot too.
+962.34	979.39	I've read all the books and I love the movies.
+979.39	984.39	I read Harry Potter in English, in the original.
+995.39	997.24	No, it's not hard.
+997.24	1002.24	Since it's such a more children's book, the English was simple.
+1026.12	1028.12	Yes, I understand.
+1028.12	1036.22	Because there are so many books there and they are very long.
+1036.22	1063.51	Do you like books or movies more?
+1063.51	1088.87	And do you like to watch movies in the cinema or at home on the computer or on TV?
+1088.87	1091.87	Yes, I like popcorn there too.
+1101.87	1103.48	This one.
+1103.48	1105.48	Ham and cheese.
+1105.48	1107.04	This is the best.
+1122.04	1124.04	Yeah, I like different movies.
+1128.04	1130.53	No, I don't like horror movies, I don't like them.
+1145.53	1158.54	I like to watch cartoons, for example, or there are different historical films or dramas.
+1158.54	1160.54	Which is interesting.
+1176.54	1184.44	No, for example, I don't watch movies at home at all, because I always fall asleep.
+1184.44	1186.44	But I like to watch them in theaters.
+1191.44	1193.76	Do you have a favorite TV series?
+1212.76	1214.03	Yes, I watched that too.
+1214.03	1216.03	I loved it.
+1235.03	1244.21	I watched all the seasons of Game of Thrones, but I haven't watched this second episode.
+1264.21	1268.8	I've only seen the first season, well, a couple of episodes, but I didn't like it at all.
+1284.8	1286.42	I've never watched anime.
+1286.42	1288.42	I don't know if I'm interested in it.
+1288.42	1290.73	Do you like to watch it?
+1305.73	1318.06	What's your favorite?
+1318.06	1325.06	My brother watches anime, and I bought him this comic book called Attack on Titan.
+1344.06	1346.88	I don't get it now.
+1360.88	1363.97	I bought two or three of these books.
+1375.97	1378.07	I think we can finish practically.
+1393.07	1393.67	We can.

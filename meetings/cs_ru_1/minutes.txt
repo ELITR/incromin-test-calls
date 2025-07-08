@@ -1,0 +1,41 @@
+DATE: Unknown
+Attendees: [PERSON7], [PERSON463]
+Purpose of the Meeting:  Bilingual professor/student consultation and the test of MinuteMan tool on the Czech/Russian  → English language combination
+
+-Introduction to the meeting: tool setting up, explanation of the MinuteMan, output quality expectation 
+--Meeting participant establish the level of knowledge of each other’s respective mother tongues.
+--[PERSON7] explains to [PERSON463] the features of the MinuteMan tool he is going to see on the screen; the transcript on the left side and automated summarization on the right side.
+--Set-up also allows live transcript correction that directly translates to the automated summary on the right side, however third person would be needed on the call to do the live notes corrections via shared editor.
+--ASR expected to struggle with technical terminology, jargon and complex structures.
+--[PERSON463] expresses limited experience in explaining programming in Russian language.
+
+-Student project introduction: subject and goal
+--Project on a subject of statistical methods of translation.
+--Goal of the project is to train a system for translation from English to Russian, write an article about it and send the results of the system to a conference in machine translation.
+
+-Current stage of the project: tested set-ups, libraries, requirements, failed attempts, limitations, opportunities
+--[PERSON463] is currently trying to switch to a library that enables training on multiple graphic cards.
+--[PERSON463] also attempted to prepare the data for training and install the library but was not successful due to complexities of library and Python configuration.
+--After consultation with a colleague [PERSON463] is considering options for installing a library dedicated to accelerating the learning process and memory efficiency.  PyTorch as a baseline with other libraries on offer:
+- - Ansloth - library dedicated to the accelerated training. However, the version for general public allows training only on one graphic card. This doesn’t allow for simultaneous use of data from meta centre and other clusters.
+- - Axolotl – the library that integrates some improvements with Ansloth library, supports multiple graphic cards and rich configuration. However, initial installation was not successful due to the missing, non-implemented function (for type bfloat16). Outlook upon configuration completion looks very promising and very fast learning process is anticipated.
+- - Hugging Face – library above PyTorch, provides a training system and is capable of handling multiple graphic cards. Has a verification methodology that send feedback to the user about correctness of their set up.  Provides support,  has well implemented various set-ups with data sets more or less optimised for the training.
+--Packing can be used on short sequences up to 512 tokens.
+--Necessity to choose the right mask s – to be ready for a response from the learning model. Can be difficult process taking up to several days for one function.
+
+-Suggestions and comments made by [PERSON7]
+--Comments on a high complexity of the suggested set-up.
+--[PERSON7] agrees with the thought process, training procedure as explained by [PERSON463]. and appreciates his efforts and observations so far.
+--Acknowledges that using PyTorch might not be optimal for this kind of experiment set-up.
+--Stresses the time constraints and need to produce output results quickly.
+--Establishes the need to assess what would be the difference in translation quality on sentence level versus paragraph level. Need to apply several different variants of configuration of paragraph recognition for result optimisation. Explains his experience with gradual, increase of learning data in LLM. It will be a balancing act between the Russian – Czech data enhancement versus model processing time. Baseline should produce data as soon as possible.
+--Suggests to use just one graphic cards for training if training on multiple graphic cards is not possible within a week.
+--Miscommunication occurred in relation to training on multiple computers or multiple graphic cards.
+
+Next steps for implementation by [PERSON463] – decision on single or multiple graphic cards, library that handles the training, selection of Russian data sets.
+--[PERSON463] is inclined to use library that will sort out the training completely, preferably on multiple graphic cards within a framework (although there is still some elaboration on that, whether to use parallelization or not).
+--[PERSON463] apprehension to use PyTorch due to it’s time consuming code validation, need to write large amount of code and necessity to insert convenient functions for reports and he worries that this might pollute the code.
+--Implement the change of rules and train the model on paragraph level rather than a sentence level, As this has been deemed possible in principle after previous  consultation with a colleague, current set-up efficiency limit 2048 tokens, then the learning process is too slow.
+--Desire to submit the system to the constraint track, due the lack of available Russian data sets. Data is unavailable in Europarl. Only news commentary is accessible, but is missing division into paragraphs. Balkan republics are turning away from the Russian language use therefore likelihood of new Russian data sets is small. [PERSON7] suggests as a baseline solution to train boundaries from the news speech. Also refers to a student who tried to automatically disaggregate text from Wikipedia but results of that experiments are unknown.
+
+-Questionnaire will be sent by [PERSON7] to [PERSON463] about the call. Results might be slightly distorted by [PERSON7]’s partial knowledge of the Czech language.

@@ -1,0 +1,93 @@
+37.197469	45.435781	I think its still has the problem that its hallucinating words when noone is talking, right?
+55.927971	63.466804	OK, OK, OK. Its really interesting to see what are these false positive words.
+74.891634	80.953788	But at all I think it works better that it catches the words more properly.
+95.570000	98.570000	Tak jo, tak to vyzkoušíme.
+98.570000	100.570000	Á, už je to.
+101.570000	105.390000	To má nějaké chyby.
+105.390000	107.390000	Ta sumarizace vypadá divoce.
+107.390000	118.840000	Jo, jasně, jasně, pravda.
+118.840000	124.840000	Počkat, proč mě to přeložilo do angličtiny?
+124.840000	134.400000	Nebo jsem to řekl anglicky?
+134.400000	136.400000	Á, ok, ok.
+136.400000	141.570000	Aha, ok.
+141.570000	172.610000	To je cool. To je zajímavý quirk.
+172.610000	176.610000	Jo, tentokrát to vypadá, až to portugalštinu chytá.
+225.000000	227.000000	Dávám parádu.
+352.000000	356.000000	A tam není slovenština, ne?
+369.000000	373.000000	Jo, ono to všechno jde přes ten Whisper?
+374.000000	375.000000	Ok, ok.
+377.000000	379.000000	Aha.
+439.000000	442.000000	Ty jo, jsem asi nikdy neměl brambory v tortille.
+453.000000	455.000000	Á!
+457.000000	459.000000	Jo takhle, aha, aha.
+463.000000	466.000000	Jo takhle, ok, tak to zní dobře.
+496.000000	499.000000	Aha.
+499.000000	505.000000	Já mám nejblíž Lidl, takže do Lidlu.
+653.000000	658.000000	To je prostě druh kytky.
+658.000000	660.000000	Ta tapioka.
+660.000000	663.000000	Pak se z té kytky nějak dělá ta mouka.
+664.000000	665.000000	Já to znám akorát z bubble tea.
+665.000000	668.000000	Že sem dávaj ty tapiokové kuličky do bubble tea.
+668.000000	671.000000	Akorát tady lidi zjistili,
+671.000000	674.000000	že se tam dají dávat i jiné věci.
+674.000000	675.000000	Třeba takový ty sladký želé a tak.
+676.000000	678.000000	Takže občas narazíš na bubble tea stánek,
+678.000000	681.000000	co vůbec tam nemá tu tapioku,
+681.000000	683.000000	i když původně je to prostě bubble tea s tou tapiokou.
+685.000000	686.000000	Ale mimo to jsem to snad ještě neměl.
+915.000000	919.000000	A občas když chci nakoupit a vezmu to z práce,
+919.000000	921.000000	tak Albert, protože to mám hned vedle tady.
+921.000000	924.000000	Ale většinou je to, že co je nejblíž, tak tam jdu.
+925.000000	928.000000	Jinak tam nemám extra preference.
+951.000000	954.000000	My jsme občas nakupovali přes Rohlík.
+956.000000	957.000000	Tak to bylo fajn.
+959.000000	960.000000	To taky dovezli hned.
+994.000000	995.000000	Ok.
+1002.000000	1003.000000	Ok, to je nice.
+1006.000000	1008.000000	To já asi tyhle věci nemám nikde po cestě, ty pickupy.
+1010.000000	1011.000000	Já to občas vídám někde v Holešovicích,
+1011.420000	1015.900000	ale prostě na sídlišti úplně bez šance mi přijde.
+1029.780000	1036.320000	Jenže to __PERSON4__ tak říkal,
+1036.480000	1042.520000	že všechny stravenkové body používá na právě Rohlík,
+1042.620000	1045.260000	že si z toho nakoupí ty poukázky do Rohlíku
+1045.260000	1049.200000	a pak prostě udělá vždycky na začátku měsíce nákup za 4 tisíce,
+1049.320000	1051.900000	čímž si vyčerpá všechny stravenkové body na korunu přesně,
+1051.900000	1054.320000	nemusí to jako řešit.
+1056.680000	1058.740000	Nebo tak nějak, jak byl ten limit,
+1058.860000	1062.000000	tak přesně se to vešlo do těch poukázek na Rohlík
+1062.000000	1063.760000	a prostě mu to přivezou do baráku a je to.
+1063.760000	1067.080000	Ještě tím, že bydlel někde daleko za Prahou,
+1067.200000	1069.380000	tak mu to vždycky docela ušetřilo čas.
+1084.160000	1086.740000	Jako vím, že občas jsem se stavil v Globusu,
+1087.620000	1092.200000	když jsme třeba byli něco řešit v Ikeji
+1092.200000	1093.680000	a pak jsme se chtěli stavit na nákup,
+1093.680000	1094.960000	protože je to tam někde poblíž,
+1095.060000	1095.680000	ale jinak je
+1095.820000	1098.040000	pro mě vždycky Globus absurdně velkej
+1098.040000	1100.120000	a občas se tam člověk ztratí,
+1100.320000	1102.780000	než tam něco najde v tom obrovském obchodě.
+1102.920000	1103.700000	Je to taková hrozná změna
+1103.700000	1106.720000	oproti těm malým sídlištním Albertům.
+1141.670000	1143.090000	Jo, jo, taky jsem byl dvakrát.
+1143.230000	1145.290000	Jo, a od příštího týdne to posouvají,
+1145.330000	1147.490000	že to bude od půl deváté a ne od devíti.
+1147.630000	1151.910000	Takže konečně to je v čase snídaně a ne v čase branče
+1151.910000	1154.430000	a pokud člověk má od devíti mítingy,
+1154.430000	1155.950000	tak se nasídá před tím,
+1156.070000	1158.010000	protože jsem se bavil s kolegy, kteří jako
+1158.010000	1160.290000	to je super, já mám od devíti do desíti mítingy
+1160.290000	1166.020000	a v deset jako už nesnídám.
+1166.080000	1169.000000	Takže pojďte v pondělí na snídaní od půl devátý.
+1172.460000	1173.300000	Nice, nice.
+1179.140000	1180.760000	Jo, transkript to dělá blbě.
+1180.860000	1183.740000	Je to půl deváta, je to osm třicet,
+1183.880000	1185.080000	nikoli devět třicet.
+1190.000000	1192.080000	Ne, osm třicet.
+1193.000000	1197.240000	Snídaně začíná v osm třicet.
+1203.800000	1206.520000	Jo, jo, jo, teď už dobrý, teď už v pořádku.
+1207.280000	1207.880000	Hodná AI.
+1315.000000	1318.000000	Jo, výběr pondělka mi přijde jako velice zákeřné.
+1319.000000	1321.000000	Velice zákeřný den v týdnu,
+1321.000000	1321.050000	kdy dát firemní snídani.
+1325.000000	1327.000000	No jasně, jo, podle mě taky.
+1331.000000	1333.000000	Pořád lepší než pátek si myslím.

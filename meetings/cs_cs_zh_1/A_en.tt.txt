@@ -1,0 +1,27 @@
+0.578	29.15	Hello. One moment, please. I'll write an email and I'll be right back. So, I'm here. Welcome to the chat. I'm glad you connected, my colleagues. And now...
+30.786	51.966	What should we take? What did you do? Yes, we wanted to summarize what we did during the course of our project.
+64.898	71.518	Who will start? I have to start.
+97.922	127.55	I had a presentation for our entire Institute, there were about 50 people, everyone listened carefully, they clapped as much as they liked it. And I had two parts there. However, I imagined what it is, because many of them, mostly new PhD students,
+127.682	156.126	They will probably have the opportunity to add it, so they can count on it, so they know what it is. And then the second part was about the translation of sign language from video into English. I represented our architecture, a large language model, and I said that
+156.226	181.918	It is an interdisciplinary project and there are three representations of the sign language. I also said what are the hardest things in the translation of the sign language.
+183.522	210.878	For the first generation of a sign of a language, it is so difficult that we would rather not do it. And then sparse representation. I think representation, I don't know what it is in English, what it is in Czech. Another thing is obtaining data, authentic data.
+212.61	242.558	And the other thing is the modeling of hand shape modeling. I also don't know how it is called in Czech. And one of the comments was from a colleague who said that there is a lot of data in Czech TV, a lot of translation into sign language and that the data from Czech TV can be easily used. But then when I explained to him what the situation is, that it is not
+243.298	271.23	the direction we need, he said that we have to connect at least with the people of Seldy and get the data somehow through them. With the Sign Language Act,
+273.41	301.054	of the Faculty of Philosophy, which would rather have contacts for language users. Yes.
+303.682	327.166	They asked me about other projects at the workshop. So I named the other three projects. And they also asked me how we would continue.
+334.082	341.022	I agreed that we will look for an opportunity to get a project that would pay us for further research.
+375.554	391.55	At the seminar yesterday, my colleague talked about the MT Marathon in Prague, about the Machine Translation Marathon.
+426.818	445.118	I would like to know more about the projects I mentioned. I only mentioned our project from the workshop
+456.29	473.822	the other projects from the workshop.
+545.474	550.238	Which projects are you interested in? Workshops or new projects?
+612.93	638.814	Yes, I will answer, because I understand the question very well. Now I am fully engaged in another project, the INCROMIN, and that is until the end of the month. Then I would like to do what
+642.498	665.598	I will enjoy it the most and so far I see it as the best opportunity to make a simultaneous translation. But if I get the opportunity to add myself to our leader, I will do it. So far I have given them the impression that I will go to the winter school, but I leave it to the leader.
+723.97	736.382	What now? Should we go for it?
+765.474	766.59	I can do that.
+861.954	862.878	where we were.
+1222.082	1222.462	Yep.
+1646.146	1670.366	Yes, I am here, can you hear me? Sorry, I wrote one. I would be glad to, but I will consider whether I will be happy with the topic that someone offers me.
+1700.514	1721.182	I understand the question, I am thinking about the answer. I think not, because I am primarily looking for other opportunities to commit myself, but I keep myself open-minded.
+1748.322	1772.702	I have a project for postdoctoral research. The project is about quality estimation for a simultaneous translation of a sentence. So I'm waiting to see if they accept it or not.
+1773.794	1790.974	And if not, I will stay on the edge and look for further opportunities and most likely I will give this project again. And I also consider research with some companies I work with.
+1892.098	1903.454	Now the last five seconds. Thank you for the meeting, thank you for your cooperation. See you later.

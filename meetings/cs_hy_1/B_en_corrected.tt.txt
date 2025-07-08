@@ -1,0 +1,122 @@
+0.000000	13.444000	Well, good afternoon. I hope you have that transcript open,
+13.444000	20.444000	so you should understand what I'm saying. I'm assuming you don't speak English, right?
+20.444000	35.324000	I can't hear a thing. I don't know if the microphone is on. It's supposed to recognize you.
+35.324000	45.214000	Yeah, try it right away, in Armenian.
+45.214000	65.454000	No English. Yeah, great. So now we can give it a try.
+65.454000	75.454000	As you can see, the transcript sometimes makes mistakes. And when those errors would somehow spoil your chance of understanding what I said,
+75.454000	80.454000	I'll try to correct the errors. Just like I corrected the one now, please.
+80.454000	87.454000	So you can do the same thing afterwards, but I definitely recommend it at the time you're speaking,
+87.454000	95.454000	not to look at the transcript. It's terribly distracting when you're trying to read something while talking.
+95.454000	106.454000	So when you speak, just speak and then look back after a while to see if I have a chance to understand the translation or not.
+106.454000	115.454000	Well, as far as the content of this meeting is concerned, let's just proceed completely as if it were a simple consultation on your project.
+115.454000	122.454000	So please remind me of the status of the project and what's going well, what's not going well.
+122.454000	128.454000	Only the conversation will be a bit more complicated and slower, but let's try it for fun.
+128.454000	201.724000	I don't know if the translation's any good. I don't really understand your message.
+201.724000	207.724000	I don't know why it's...
+207.724000	209.724000	You don't want to translate any spoken language, do you?
+209.724000	215.724000	So... Yeah, yeah, I might be onto something here.
+215.724000	232.724000	I think it's perfectly fine to use technical terms from English in Armenian. As you would normally use them with an Armenian colleague.
+232.724000	236.724000	So, you don't have to invent new words in Armenian.
+236.724000	240.724000	Just speak the way you would normally speak to an Armenian.
+240.724000	244.284000	Even for me, it's common to speak Czech with a Czech colleague,
+245.104000	253.364000	I sometimes use terms like reinforcement learning or beam search.
+253.504000	257.984000	We just commonly use terminology from English and it's not a problem at all.
+258.084000	261.104000	And of course the model would be here, the one that translates us now,
+261.444000	263.724000	he should be able to handle it.
+263.724000	267.984000	So that's it for the communication and now for your project.
+267.984000	271.644000	You changed LAMA 3.
+272.624000	286.724000	So have you tried LAMA 3 or are you just planning to try it?
+324.164000	329.644000	I definitely agree that it's good not to be distracted.
+329.644000	335.544000	So if you're using LAMA 3 in your undergraduate work,
+335.684000	338.584000	then feel free to use it here in this project.
+338.584000	346.404000	It is highly desirable that you use the same tools and as similar settings as possible.
+346.404000	351.064000	Just save yourself the work, take advantage of the synergy of the two projects.
+351.064000	358.404000	So yes, by all means, feel free to go to LAMA 3, just solve the task of your project,
+358.404000	360.644000	that is, translation from English to Armenian.
+419.034000	422.594000	Yeah, I think the translation is very poor quality now.
+423.314000	431.314000	Confirm if it makes sense, the translation, if the English does or doesn't do what you said.
+431.314000	439.314000	From what I gather, you haven't made much progress in the seminar project so far.
+439.314000	450.314000	You'll have time from mid-May and we actually have to wait until then.
+450.314000	472.444000	Is that right?
+472.444000	473.244000	Now...
+473.444000	489.044000	Now I don't understand at all if you're talking or what the relationship is between the Google model and LAMA 3 for your project.
+489.044000	492.044000	In your project, you just need...
+493.064000	494.304000	No, like this.
+495.224000	497.644000	Tell us briefly what the goal of your project is.
+498.024000	498.964000	Let's start at the beginning.
+499.564000	503.444000	Tell us very briefly what exactly your goal is.
+551.444000	555.224000	Okay, yeah, great, I agree. I remember it the same way.
+555.224000	572.224000	So your job is to translate from English to Armenian while comparing if the pure Transformer models from Mariana are better,
+572.224000	576.224000	or the large pre-trained Large Language models.
+576.224000	582.224000	And the Large Language models we planned so far were LAMA 2 and GPT-4.
+584.724000	586.724000	And now you're saying LAMA 3.
+586.724000	589.724000	So you would like to replace LAMA, correct?
+589.724000	623.964000	Yeah.
+623.964000	628.964000	I understand the translation is messing up and cutting off half your sentences.
+629.964000	635.964000	There's nothing we can do about that except keep repeating it over and over and saying it differently.
+636.964000	637.964000	Okay.
+637.964000	643.964000	So at the end you should have four models in total.
+643.964000	648.964000	Marian, GPT-4, LAMA 2 and LAMA 3.
+648.964000	656.964000	And with all four models you should translate the training sentences, the test set
+656.964000	660.964000	and then evaluate the quality of that translation.
+660.964000	689.304000	So, I definitely agree.
+689.304000	694.304000	Now, technically, I'm wondering how far along you are.
+694.304000	695.304000	Now...
+695.304000	696.304000	Now...
+696.304000	698.304000	Now I'm wondering,
+698.304000	704.304000	how big a test set do you already have for Armenian
+704.304000	709.304000	and from what domain, what area
+709.304000	715.304000	and which of those models you've already run and have those outputs.
+792.304000	795.044000	So, I guess it roughly translated.
+795.044000	800.044000	10 to 20 thousand tokens sounds very promising.
+800.044000	803.044000	Ideally, maybe 2,000 sentences.
+804.044000	809.044000	Which typically equates to about 40 thousand tokens.
+809.044000	815.684000	That means 20k is sufficient,
+815.684000	843.644000	but 10,000 would be rather low.
+843.644000	848.644000	So, the translation isn't good, never mind, but fortunately we understand each other anyway.
+848.644000	854.644000	So, well, now I agree that
+854.644000	862.644000	you should start like moving on and work with even just the, like, 10 thousand tokens you have.
+862.644000	872.014000	Well, now I want to ask about the outputs, because you just run GPT-4.
+872.014000	880.014000	You can already run LAMA, you've got LAMA 3 running from your bachelor's thesis.
+880.014000	884.014000	Does it work anywhere? Can you get the outputs from LAMA 3?
+884.014000	922.704000	Well, I'd ask to see you next Friday, so right now, right now, just by Friday,
+922.704000	931.704000	if you could bring at least part of the test set, the English source and then all the translations,
+931.704000	939.704000	that you can get by Friday. That means from GPT-4, from LAMA 3, and that's about it for starters, I don't know if you'll be able to do LAMA 2.
+942.704000	945.704000	You haven't started training Marian yet, have you?
+945.704000	992.294000	Say it again in different sentences, just say it in parts, but try to speak in clear sentences.
+992.294000	1025.384000	Always like start the sentence and end it clearly.
+1025.384000	1032.384000	He's probably making it up, the model is probably throwing the arguments of the sentence away.
+1032.384000	1035.384000	So try again and really after isolated sentences,
+1035.384000	1041.384000	please confirm that next Friday when I see you,
+1041.384000	1052.384000	you'll bring me, show me the testset, the English source and the output of some of these systems.
+1052.384000	1056.384000	And tell me which systems you think you might have on Friday.
+1056.384000	1074.484000	Seven days from now, May 3rd.
+1074.484000	1085.764000	So please, please.
+1085.764000	1092.764000	So please confirm which systems, which outputs you will have available on the third of May.
+1092.764000	1142.924000	Can you correct the text.
+1142.924000	1148.924000	Feel free to mouse over the word that's wrong and rewrite to fix it.
+1148.924000	1150.924000	It should work.
+1150.924000	1170.004000	There. Got it.
+1170.004000	1173.004000	Please try to get at least a piece.
+1173.004000	1180.004000	You don't have to have everything, but try to get a small sample from Llama 3,
+1180.004000	1182.004000	so we can compare.
+1182.004000	1203.564000	There. All right.
+1203.564000	1207.564000	So next week we'll see how the systems do.
+1207.564000	1219.564000	And at the same time, we'll talk about what you're missing to train your own model
+1219.564000	1242.934000	on that parallel data using the Marian NMT Toolkit.
+1242.934000	1244.934000	So. Good.
+1244.934000	1245.934000	Now it translated correctly.
+1245.934000	1255.394000	Okay.
+1255.394000	1263.394000	Okay. Well, I think maybe we can end this call now.
+1263.394000	1271.394000	I'm going to send you a link to a questionnaire where I'd like you to answer if it was applicable
+1271.394000	1274.394000	and how damaging it was to our conversation.
+1274.394000	1283.394000	Well, I certainly found it entertaining and informative and I think if we had enough time,
+1283.394000	1288.394000	we could have an argument like this, but of course it's very laborious.
+1288.394000	1313.304000	I see it doesn't translate what you're saying.
+1313.304000	1327.244000	Okay. Okay, then. So thank you very much. I'm going to end this call, send you the link to the questionnaire
+1327.244000	1337.244000	and I'll see you on Friday and we'll look at the output of the big language models as they translate into Armenian.
+1337.244000	1345.244000	You also mentioned different prompts in today's call, so you can try a few prompts,
+1345.244000	1351.244000	to see if the text is different at all, or if the output is still the same with different prompts.
+1351.244000	1354.244000	But the main thing is to have a sample of each model.
+1354.244000	1391.554000	Okay. Okay. Okay, thank you. Have a great weekend and I'll see you on Friday. Thank you, and goodbye.
+1391.554000	1401.494000	Thanks. Goodbye.

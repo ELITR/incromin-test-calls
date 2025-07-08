@@ -1,0 +1,54 @@
+120.11	121.69	A gente vai continuar o mesmo assunto.
+154.72	155.96	Eu estou curioso.
+157.3	160.62	Eu posso tentar falar português de Portugal,
+161.48	166.0	mas aí eu estou basicamente imitando como eles falam.
+180.54	183.54	Mas eu fiquei curioso para ver como um modelo treinado
+183.54	187.16	em português de Portugal funciona no português do Brasil.
+187.16	217.32	Eu sei que a tradução do DIPO tem a tradução para português de Portugal
+217.32	218.76	e para português do Brasil.
+218.98	222.7	Eles têm dois modelos de tradução diferentes.
+225.94	227.4	E eu acho que ele tem para espanhol também.
+227.58	231.22	Ele tem espanhol latino-américa, o modelo de espanhol latino-américa
+231.22	233.36	e o espanhol europeu.
+235.72	266.42	Entendi.
+268.28	268.96	Percebo.
+354.11	396.08	O que você tinha perguntado para o __PERSON1__, __PERSON2__,
+455.64	469.74	cebola também é muito bom.
+525.28	527.62	Sim, eu também nunca fico satisfeito.
+527.74	529.12	Com as minhas, quando eu tento fazer.
+567.14	574.12	Uma vez eu levei para assar no escritório
+574.12	578.54	um prato que chama pão de queijo.
+579.76	587.6	É basicamente um pão feito com tapioca, ovo e bastante queijo.
+589.18	590.82	É bem gostoso também.
+592.02	592.86	Eu sempre faço.
+592.86	594.8	Eu faço quase toda semana.
+610.06	619.06	A tapioca é uma farinha feita com a fécula de mandioca ou de caçava.
+622.06	628.46	É típico da África, das Américas e da Tailândia também.
+644.82	648.2	Chama caçava.
+694.84	702.26	É basicamente uma raiz que você seca e mói e vira uma farinha.
+702.26	722.7	Sim.
+723.06	728.34	Eu já passei no mercado vietnamita,
+728.34	733.2	porque é justamente esses bubble teas que você consegue fazer com isso.
+733.2	737.3	Eles têm outros pratos também que usam isso.
+737.3	750.7	Mas eles não têm as mesmas receitas que a gente.
+752.9	756.4	No Brasil a gente tem dois tipos dessa farinha,
+756.4	760.9	uma normal e uma azeda ou fermentada.
+760.9	761.92	E você mistura elas quando você quer.
+761.92	762.3	E você mistura elas quando você quer.
+762.3	765.98	Elas, quando você vai fazer esse pão, tipo, em proporções diferentes.
+766.78	773.62	Porque uma ela fica mais fofinha, outra fica mais cremosa.
+773.62	777.72	E ajustando isso aqui, você descobre um ponto bom.
+794.55	795.85	Não, não muito.
+796.77	798.93	São caros, geralmente.
+809.3	816.62	Mas mesmo essas farinhas, feijão, são mais caros porque são importados, né?
+834.79	839.29	E eu acho que o meu prato tcheco favorito é o pato.
+848.98	855.22	Não, o prato tcheco é pato.
+855.22	863.68	Ele traduziu errado, eu tô falando pato.
+864.36	866.0	Ele está traduzindo pato.
+886.83	942.75	Eu também, geralmente, o mais próximo.
+943.13	946.53	Ou eu peço no Tesco online.
+977.37	1253.31	Que eu ainda não fui experimentar também.
+1284.72	1287.38	Eu ainda não estive no café da manhã.
+1287.38	1302.28	Não sei.
+1303.68	1306.24	Segunda-feira eu gosto de ir para casa.
+1341.85	1342.73	Sim, sim.

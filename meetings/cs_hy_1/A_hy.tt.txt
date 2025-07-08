@@ -1,0 +1,110 @@
+33.78	35.78	Do you hear me now?
+35.78	39.78	Yeah, but I don't speak Czech, so should I start talking in Armenian?
+39.78	50.7	Okay.
+50.7	54.7	Now I'm going to talk about my project.
+54.7	138.82	My project...
+138.82	142.82	My project was already in full swing,
+142.82	144.82	so I had to start working on it.
+144.82	148.82	I started working on it on a regular basis,
+148.82	150.82	and I had to try it.
+150.82	155.82	In this way, using large language models,
+155.82	158.82	and using Marian,
+158.82	162.82	I got results.
+162.82	166.82	Speaking Armenian, I'm also using English words,
+166.82	168.82	so I hope that's not bad.
+168.82	172.82	And for getting it, you'll probably see that
+172.82	175.82	I've already taken out Lama 3.
+175.82	177.82	I thought I should try Lama 3,
+177.82	178.82	because...
+178.82	181.82	I'm trying it in my thesis,
+181.82	200.98	and it's doing well.
+286.98	290.98	To be honest, I'm trying something else with Lama 3.
+290.98	295.98	I'm trying something in my PhD thesis with Lama 3.
+295.98	301.98	It's 8 billion parameters of Lama 3.
+301.98	304.98	I want to understand how it will help my thesis,
+304.98	306.98	and I'm doing a lot of prompt engineering.
+306.98	311.98	And I'm thinking that it would be much easier
+311.98	313.98	to work on it in our project.
+313.98	315.98	What do you think about it?
+315.98	364.6	Okay.
+364.6	367.6	I'm trying to understand the translation,
+367.6	370.6	and I don't know how Lama 3 will work.
+370.6	375.6	I want to start with our LLMs,
+375.6	377.6	for starters,
+377.6	379.6	and I'll look at Google,
+379.6	381.6	and I think Lama 3 is good,
+381.6	383.6	and we're thinking about the DGPT-4,
+383.6	385.6	which we can do.
+385.6	391.6	And I want to start from the beginning of May.
+391.6	395.62	Okay.
+395.62	399.62	From the beginning of May.
+399.62	403.62	And I don't have any updates,
+403.62	406.62	so I can get some important results.
+406.62	408.62	Okay.
+408.62	448.22	No.
+448.22	452.22	No, it will take some time.
+452.22	454.22	And I'm talking about Google,
+454.22	457.22	and I'm talking about Google's large language model.
+457.22	460.22	How do you explain it?
+460.22	513.52	Well, for the project that I'm doing,
+513.52	520.52	where we have to go through large language models,
+520.52	522.52	and LLMs,
+522.52	547.52	We decided to use a few large language models, such as Palm 2, Lama 2, GPT-4, and the transformer model, Marian,
+547.52	554.52	and try to compare their results with selected metrics.
+554.52	602.3	This is the overall project.
+602.3	611.3	I would like to use both Lama 2 and Lama 3, because Lama 3 gives much better results.
+611.3	619.3	But if I say something here, I don't understand the model.
+619.3	671.25	I don't understand the model and I don't represent it.
+671.25	673.25	Yes, that's right.
+673.25	676.25	That's how I was thinking of doing it.
+676.25	684.25	Because I was very interested in Lama 3, how it would perform with such small parameters.
+684.25	688.25	And I'm enthusiastic about using it.
+688.25	728.7	And it would be easy to compare both Lama 2s.
+728.7	730.7	Yes, I was right.
+730.7	740.7	I'm collecting data from Armenian sites that have both New Newt and English and Armenian values.
+740.7	750.7	And the data is basically collected and the test data, to be honest, I'm not sure about the number of tokens,
+750.7	758.7	but I think it's a 10-20 thousand token, 20 thousand token model.
+758.7	770.78	And there are people's observations.
+770.78	780.78	And I started doing prompt engineering, that is, on Lama 2 and Google LLM.
+780.78	786.78	And I understood that the prompts work well, that the zero-shot works well,
+786.78	788.78	that we give them some information.
+788.78	791.78	And that it works well in terms of the theme.
+791.78	834.39	Yes, I understand.
+834.39	840.39	I'm trying to be more careful, because I understand that data is very important.
+840.39	849.73	And if I want to find something and find something better, I try to change it so that we get good results.
+849.73	903.74	Yes, it's easy to get access to Lama 3.
+903.74	910.74	You need to have a GPU and operate it with the All Lama library.
+910.74	915.74	And there are some bugs in the front, to be honest.
+915.74	918.74	But I think I have access to it.
+918.74	920.74	And it's not a problem.
+920.74	970.85	I'll ask you now.
+970.85	977.85	I'll give you a quick test now.
+977.85	979.85	Or how do you say it, to be honest?
+979.85	983.44	Yes.
+983.44	1012.82	We'll talk about that now.
+1012.82	1018.82	That is, we'll go to the test data, try to solve something with LLM.
+1018.82	1075.47	Or you have a next, fourth question.
+1075.47	1086.21	I got it.
+1086.21	1104.42	Okay.
+1104.42	1108.42	I work a little bit with Lama 3.
+1108.42	1111.42	It's not real for me to be able to do that.
+1111.42	1116.42	And with GPT-4, I'll be able to get some results.
+1116.42	1124.42	And I work with Lama 2 to get results, if that's normal.
+1124.42	1127.42	I mean, Lama 3 works on the ground.
+1127.42	1135.74	Lama 3 works on the ground.
+1135.74	1147.18	And because of that, it will be difficult to get the values at once.
+1147.18	1175.71	I got it.
+1175.71	1195.98	I got it.
+1195.98	1198.98	I got it.
+1198.98	1237.77	Because Lama 2, Lama 3, and GPT-4 work with it.
+1237.77	1242.81	I got it.
+1242.81	1244.81	Yes, I got it.
+1244.81	1304.63	I got it.
+1304.63	1306.63	It's not wrong.
+1306.63	1309.63	Yes, I got it, and it's very easy for me too.
+1309.63	1370.01	I'll definitely answer the questions.
+1370.01	1397.96	I got it.
+1397.96	1403.87	I wish you success.
+1403.87	1404.87	Yes.
+1404.87	1405.87	Yes.
+1405.87	1408.35	That's not bad.

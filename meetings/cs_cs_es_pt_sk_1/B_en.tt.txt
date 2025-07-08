@@ -1,0 +1,21 @@
+6.466	31.55	I will just say some words to see if it's working I can see some text there so maybe it's working so we can continue
+46.114	55.678	Yeah, because it is picking up some noise from the microphone and there is some threshold and the threshold is hard to set up for everyone.
+92.13	93.566	But he is a Czech.
+127.074	139.518	Because the translation model can hallucinate English if it gets too much short text, for example. It translates it correctly, but it hallucinates it in English.
+242.914	255.646	As I was looking, we are using the MellowB model from Facebook and it was trained for only one type of Portuguese, so fortunately we can do only one type of Portuguese.
+277.474	300.446	So I can start our conversation about food. My favorite food is fish with potatoes. Because it can be cooked quickly and it is tasty and quite healthy.
+314.466	337.438	Faeli, you mentioned something about parrots, if I'm not mistaken. Could you repeat it, please? Parrots.
+353.218	378.334	The model knows, we do it so that the audio you speak is translated into English and a script is made from it. Yes, through vSquare to English and from English texts through Malolab to other languages.
+398.978	401.15	What is his favorite food?
+429.858	432.318	So this year it is the Bramgorov tortilla.
+500.226	501.054	How did you like it?
+555.074	562.942	Do you have any other specialties in Brazil that you would recommend to us?
+599.842	602.686	But what is tapioca?
+632.866	637.406	Could you please repeat what the flour is made of?
+709.57	709.95	Okay.
+901.346	908.99	Where do you usually go shopping? I am quite lost, Albert.
+949.378	949.982	Cool.
+981.634	1000.958	I sometimes order from the VOLT market, because I have it on the way home. When we pay VOLT plus, I get 10% off for every pickup. So when I make a big purchase for 2000, I get 200 back.
+1261.25	1278.878	Can you repeat it, please? Can you repeat it, please? Can you try to say it again?
+1292.642	1311.038	I would like to try it.
+1340.578	1343.102	Ok, so we can finish it.

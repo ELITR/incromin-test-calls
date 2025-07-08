@@ -1,0 +1,53 @@
+﻿LREC presentation preparations
+
+
+Date: unknown
+Attendees: CS, ZH
+purpose of meeting: preparation for presentation, to figure out what to display during the presentation. 
+
+
+-Discussing project milestones: 
+– The presentation should be ready this week, the video needs to be uploaded.
+– The presentation will last 15 minutes.  
+
+
+-Discussing expectations: what the presentation will look like
+–He will create an outline first to show what the presentation is about.
+–Everything will be in the outline, although not all of it will be covered in the presentation.
+–He will decide which slides to hide.
+
+
+-Discussing outline contents:
+–The goal of the presentation will be displayed first.  
+–Next will come the models.
+–Then the tests will be presented: Cluster Separation, Embedding Prediction, Classification of Labels.
+–There is going to be an Introduction to the embeddings they're going to use.
+—-He will mention that all the embeddings used are transformation vectors.
+–He will explain what a transform vector is.
+–He will display visualization of the transformation vectors.
+–It is necessary to make it clear what the clusters are. 
+—Clusters should represent a semantic class.
+
+
+-What was done during the meeting:
+–He made a copy of the entire presentation in order to edit it.
+–He renamed the original file to Old version. 
+–They decided what the outline of the presentation will contain.
+–He adjusted the font of the presentation. 
+
+
+-Conclusion, findings, complications:
+– There were some delays in ASR CS, which slowed the communication down and caused some misunderstandings.
+— The solution is that they will have to wait for the translation to appear. 
+–There were discrepancies in the visuals, the participants did not see the same thing on the screen. 
+— This was caused by one of the participant’s full Google Drive storage. 
+– There were some genuine misunderstandings of the content, where Speaker CS didn't seem to fully grasp Speaker ZH's concern about the audience's knowledge.
+– Weren’t it for some technical issues, the call was overall good and usable.
+
+
+-What needs to be done after the meeting:
+–It is important to show what the tests do, he will do it after the meeting. 
+–Kalinske-Haraldsberg Index should be explained as a technical way to measure something. 
+–It is important to make it clear what clusters are, they should each represent a semantic class.
+–He will double the slides and send them to the person who will be doing the presentation.
+–He will send him a link to the questionnaire about the call.

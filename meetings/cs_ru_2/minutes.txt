@@ -1,0 +1,27 @@
+Translation errors
+
+Date: unknown
+Attendees: CS, RU
+Purpose of the meeting: discuss further steps and solutions to eliminate translation errors in GPT
+
+-Meeting setup
+--There were some technical difficulties and language barriers in the start
+--They agreed to speak in their mother languages and rely on provided automated transcription during the meeting
+
+-Discussing progress of the project:
+--They did not make much progress since the last meeting
+--The project involves translation errors in GPT from WMT
+--Errors found show a pattern of failure in how GPT handles possessive constructions
+---Specifically possessive nouns and possessive pronouns: "someone's cat" and "cat of somebody"
+
+-Solutions:
+--Making a test set focused on appropriation
+---The appropriation will be in both real and synthetic sentences which will be then evaluated
+--Using corpus, DFKI for testing
+--In DFKI a collection of sentences can be found to have more data to work with
+
+-Summary and the end of the meeting
+--Talking about the overall multilingual call experience
+---They will create a questionnaire to find out problems and what can be improved
+--The next meeting will be on Friday
+

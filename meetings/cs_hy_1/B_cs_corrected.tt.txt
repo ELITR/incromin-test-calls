@@ -1,0 +1,123 @@
+0.00000	13.444000	Výborně, tak dobré odpoledne. Doufám, že máte otevřený ten transcript,
+13.444000	20.444000	takže byste měli rozumět tomu, co říkám. Předpokládám, že česky neumíte, je to tak?
+20.444000	35.324000	Vůbec nic neslyším. Já nevím, jestli mikrofon je zapnutý. Ono by vás to mělo rozpoznávat.
+35.324000	45.214000	Ano, zkuste rovnou, arménsky.
+45.214000	65.454000	Žádná angličtina. Ano, výborně. Takže teď to můžeme zkusit.
+65.454000	75.454000	Jak vidíte, ten transcript občas dělá chyby. A když ty chyby by nějak kazily vaši šanci porozumět tomu, co jsem řekl,
+75.454000	80.454000	tak já se pokusím ty chyby opravit. Podobně, jako jsem opravil teď to jedno, please.
+80.454000	87.454000	Takže vy můžete dělat potom to samé, ale rozhodně doporučuji v době, kdy mluvíte,
+87.454000	95.454000	abyste se nedíval na ten transcript. Ono člověka hrozně ruší, když se něco snaží číst a přitom mluvit.
+95.454000	106.454000	Čili až budete mluvit, tak prostě jenom mluvte a pak se zpětně po chvilce podívejte, jestli mám šanci tomu překladu porozumět nebo nemám.
+106.454000	115.454000	No a co se týče obsahu této schůzky, tak prostě postupujme úplně, jako by to byla obyčejná konzultace k vašemu projektu.
+115.454000	122.454000	Takže mi prosím připomeňte stav projektu a co se daří, co se nedaří.
+122.454000	128.454000	Jenom ta konverzace bude trošku složitější a pomalejší, ale zkusme to pro zábavu.
+128.454000	201.724000	Nevím, jestli ten překlad je dobrý. Moc tomu vašemu sdělení nerozumím.
+201.724000	207.724000	Nevím, proč se to...
+207.724000	209.724000	Vy nechcete překládat žádnou mluvenou řeč, že jo?
+209.724000	215.724000	Čili... Jo, aha, už tadyhle se možná chytám něčeho.
+215.724000	232.724000	Myslím, že je úplně v pořádku, když v arménčině budete používat technické termíny klidne z angličtiny. Tak jak by ste je běžně používal s nejakým arménskym kolegou.
+232.724000	236.724000	Čili, nemusíte se nutit vynalézat nová slova v arménštině.
+236.724000	240.724000	Proste mluvte tak jak by ste normálně mluvil s arméncem.
+240.724000	244.284000	I pro mě je běžné, že když česky se bavím s českým kolegou,
+245.104000	253.364000	tak občas použiju termíny jako reinforcement learning nebo beam search.
+253.504000	257.984000	Prostě běžně používáme terminologii z anglištiny a vůbec to není problém.
+258.084000	261.104000	A ten model by samozřejmě tady, ten, co teď nás překládá,
+261.444000	263.724000	ten by si s tím měl běžně poradit.
+263.724000	267.984000	Takže to je k té komunikaci a teď k tomu vašemu projektu.
+267.984000	271.644000	Změnil jste LAMU 3.
+272.624000	286.724000	LAMU 3 jste tedy zkoušel nebo jenom plánujete vyzkoušet?
+324.164000	329.644000	Rozhodně souhlasím s tím, že je dobré, abyste netříštil pozornost.
+329.644000	335.544000	Čili pokud ve své bakalářské práci používáte LAMU 3,
+335.684000	338.584000	tak ji klidně použijte i tady v tomhle projektu.
+338.584000	346.404000	Je zcela žádoucí, abyste používal stejné nástroje a co nejpodobnější nastavení.
+346.404000	351.064000	Prostě šetřil si práci, využíval té synergie těch dvou projektů.
+351.064000	358.404000	Čili ano, určitě klidně přejděte na LAMU 3, jenom prostě řešte ten úkol vašeho projektu,
+358.404000	360.644000	to jest překlad z anglištiny do armenštiny.
+419.034000	422.594000	Jo, teď myslím, že ten překlad je teď velmi nekvalitní.
+423.314000	431.314000	Potvrďte, jestli to dává smysl, ten překlad, jestli ta angliština vystihuje to, co jste říkal, anebo nevystihuje.
+431.314000	439.314000	Z toho, co se dohaduji, tak zatím jste v projektu na seminář příliš nepostoupil.
+439.314000	450.314000	Budete mít čas od poloviny května a do té doby vlastně musíme počkat.
+450.314000	472.444000	Je to tak?
+472.444000	473.244000	Teď...
+473.444000	489.044000	Teď nerozumím vůbec tomu, jestli mluvíte, nebo v jakém vztahu je Google model a LAMA 3 pro váš projekt.
+489.044000	492.044000	Ve vašem projektu prostě potřebujete...
+493.064000	494.304000	Ne, takhle.
+495.224000	497.644000	Řekněte stručně, co je cílem vašeho projektu.
+498.024000	498.964000	Začněme od začátku.
+499.564000	503.444000	Řekněte úplně stručně, co přesně je vaším úkolem.
+551.444000	555.224000	Tak, jo, výborně, souhlasím. Pamatuju si to stejně.
+555.224000	572.224000	Čili vaším úkolem je překládat z angličtiny do armenštiny a přitom porovnat, jestli jsou lepší modely čistý Transformer z Mariana,
+572.224000	576.224000	anebo velké předtrénované Large Language modely.
+576.224000	582.224000	A ty Large Language modely, které jsme zatím plánovali, byly LAMA 2 a GPT-4.
+584.724000	586.724000	A teď říkáte LAMU 3.
+586.724000	589.724000	Čili byste chtěli LAMU zaměnit, je to tak?
+589.724000	623.964000	Jo.
+623.964000	628.964000	Rozumím, že ten překlad to kazí a usekává půlky vašich vět.
+629.964000	635.964000	S tím se nedá dělat nic jiného, než že to budeme dokolečka opakovat a říkat jinak.
+636.964000	637.964000	Dobře.
+637.964000	643.964000	Čili na závěr byste celkově měli mít čtyři modely.
+643.964000	648.964000	Marian, GPT-4, LAMA 2 a LAMA 3.
+648.964000	656.964000	A těmi všemi čtyřmi modely byste měli přeložit cvičné věty, testovací sadu
+656.964000	660.964000	a potom vyhodnocovat kvalitu toho překladu.
+660.964000	689.304000	Tak, rozhodně souhlasím.
+689.304000	694.304000	No a teď mě technicky zajímá, jak jste daleko.
+694.304000	695.304000	Teď...
+695.304000	696.304000	Teď...
+696.304000	698.304000	Teď mě zajímá,
+698.304000	704.304000	jak velký test set už máte pro Armenštinu
+704.304000	709.304000	a z jaké domény, z jaké oblasti
+709.304000	715.304000	a které z těch modelů už jste jako spustil a máte ty výstupy.
+792.304000	795.044000	Tak, asi to přibližně přeložilo.
+795.044000	800.044000	10 až 20 tisíc tokenů zní velmi slibně.
+800.044000	803.044000	Ideál by byl třeba 2 tisíce vět.
+804.044000	809.044000	Což typicky odpovídá tak 40 tisícům tokenům.
+809.044000	815.684000	To znamená, že 20 tisíc je dostatečné,
+815.684000	843.644000	ale 10 tisíc by bylo spíš málo.
+843.644000	848.644000	Tak, překlad není dobrý, nevadí, ale stejně si naštěstí rozumíme.
+848.644000	854.644000	Tak, no, takže teďka souhlasím s tím, že
+854.644000	862.644000	byste měl začít jako postupovat dál a pracovat i jenom s těmi třeba 10 tisící tokeny, které máte.
+862.644000	872.014000	No a teď se chci zeptat na ty výstupy, protože GPT-4 prostě spustíte.
+872.014000	880.014000	Tu LAMu už také umíte spustit, máte třeba z bakalářky tu LAMu 3 zprovozněnou.
+880.014000	884.014000	Funguje vám někde? Dokážete získat výstupy z LAMy 3?
+884.014000	922.704000	Tak, tak já bych poprosil, až se uvidíme příští pátek, čili hned, hned prostě do pátku,
+922.704000	931.704000	když byste sebou mohl přinést aspoň část toho testsetu, anglický zdroj a potom všechny překlady,
+931.704000	939.704000	které se vám podaří do pátku získat. To znamená od GPT-4, od LAMy 3, no a to bude asi pro začátek všechno,
+939.704000	942.704000	nevím, jestli zvládnete i tu LAMu 2.
+942.704000	945.704000	Mariana jste asi ještě nezačal trénovat, že jo?
+945.704000	992.294000	Řekněte to ještě jednou jinými větami, řekněte to prostě po částech, ale snažte se mluvit v jasně formulovaných větách.
+992.294000	1025.384000	Vždycky jako větu začít a jasně ukončit.
+1025.384000	1032.384000	Asi si to vymýšlí, asi ten model prohazuje argumenty té věty.
+1032.384000	1035.384000	Takže to zkuste ještě jednou a opravdu po izolovaných větách,
+1035.384000	1041.384000	prosím potvrďte, že v příští pátek, až se uvidíme,
+1041.384000	1052.384000	mi přinesete, mi ukážete testset, jeho anglickou zdrojovou stranu a výstupy některých z těch systémů.
+1052.384000	1056.384000	A řekněte mi, které systémy myslíte, že v pátek byste mohl mít.
+1056.384000	1074.484000	Za sedm dní od teď, čili třetího května.
+1074.484000	1085.764000	Takže prosím, prosím.
+1085.764000	1092.764000	Takže prosím potvrďte, které systémy, které výstupy budete mít k dispozici třetího května.
+1092.764000	1142.924000	Můžete ten text opravit.
+1142.924000	1148.924000	Klidně myší označte to slovo, co je špatně a přepište opravte to.
+1148.924000	1150.924000	Mělo by to fungovat.
+1150.924000	1170.004000	Tak. Chápu.
+1170.004000	1173.004000	Prosím, pokuste se mít aspoň kus.
+1173.004000	1180.004000	Nemusíte mít všechno, ale pokuste se aspoň nějakou malou ukázku získat i z Lamy 3,
+1180.004000	1182.004000	ať máme porovnání.
+1182.004000	1203.564000	Tak. Výborně.
+1203.564000	1207.564000	Takže příští týden uvidíme, jak ty systémy si vedou.
+1207.564000	1219.564000	A současně si budeme povídat o tom, co vám chybí k tomu, abyste mohl natrénovat vlastní model
+1219.564000	1242.934000	na těch paralelných datech pomocí NMT Toolkitu Marian.
+1242.934000	1244.934000	Tak. Výborně.
+1244.934000	1245.934000	Teď to přeložilo správně.
+1245.934000	1255.394000	Dobře.
+1255.394000	1263.394000	Tak. No, já myslím, že možná můžeme tenhle náš hovor už ukončit.
+1263.394000	1271.394000	Já vám pošlu odkaz na dotazník, kde bych chtěl, abyste odpověděl, jestli to bylo použitelné
+1271.394000	1274.394000	a jak moc to škodilo našemu rozhovoru.
+1274.394000	1283.394000	No a mně to rozhodně přišlo zábavné a poučné a myslím si, že když bychom měli dost času,
+1283.394000	1288.394000	tak se jako dokážeme takhle dohadovat, ale samozřejmě je to velmi pracné.
+1288.394000	1313.304000	Vidím, že to nepřekládá, co říkáte.
+1313.304000	1327.244000	Dobře. Tak jo. Takže děkuju mockrát. Já tenhle hovor ukončím, pošlu odkaz na dotazník
+1327.244000	1337.244000	a v pátek se uvidíme a podíváme se na výstupy velkých jazykových modelů, jak překládají do armenštiny.
+1337.244000	1345.244000	Vy jste v dnešním hovoru zmiňoval také různé prompty, takže můžete zkusit i několik málo promptů,
+1345.244000	1351.244000	jestli ty texty vůbec budou rozdílné, anebo jestli ty výstupy budou pořád stejné i při různých promptech.
+1351.244000	1354.244000	Ale hlavní je mít od každého modelu nějakou ukázku.
+1354.244000	1391.554000	Dobře. Tak jo. Tak děkuju. Hezký víkend a uvidíme se v pátek. Děkuju a na shledanou.
+1391.554000	1401.494000	Díky. Na shledanou.
