@@ -71,6 +71,12 @@ Example:
 
 - audiodeident and diarization follow the same format, except a simple text or speaker id and language in column 3
 
+#### Deidentification
+
+Deidentified terms in texts are replaced with placeholders wrapped in underscores, such us `__PERSON1__` . The terms are consistent within the same meetings.
+
+The types of entities are inspired by the (ELITR minuting corpus)[https://ufal.mff.cuni.cz/elitr-minuting-corpus]. 
+
 ### Transcripts and translations
 
 Typically, each speaker has attached following text files:
