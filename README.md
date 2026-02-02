@@ -5,7 +5,7 @@ cross-lingual dialogues with minutes and detection of misunderstandings.
 
 InCroMin is described in a paper **Corpus of Cross-lingual Dialogues with Minutes
 and Detection of Misunderstandings,** by Marko Čechovič, Natália Komorníková,
-Dominik Macháček, and Ondřej Bojar. To be published in TSD 2025.
+Dominik Macháček, and Ondřej Bojar. To be published in TSD 2025 ([pre-print](https://arxiv.org/pdf/2512.20204)).
 
 The data were created by volunteering participants, by 2-5 people in each
 meeting. They were matched in a way that there are at least two groups of
